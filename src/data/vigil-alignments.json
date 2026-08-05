@@ -1,0 +1,43 @@
+{
+  "contract": "0.1",
+  "layer": "vigil_alignments",
+  "face": "culture",
+  "source": "standing-stones-canon",
+  "cadence_hours": 24,
+  "updated_at": "2026-07-22T01:07:06.737Z",
+  "disclaimer": "Alignment data based on published archaeoastronomy research. Dates are astronomical, not meteorological.",
+  "gap": {
+    "nearest_atom": "ballochroy",
+    "nearest_name": "Ballochroy",
+    "distance_km": 112,
+    "next_event": "2027-06-20T12:00:00.000Z"
+  },
+  "items": [
+    {
+      "id": "vigil:ballochroy:2027-06-20",
+      "where": {
+        "atom": "ballochroy",
+        "lat": 55.71195,
+        "lon": -5.61396,
+        "region": "kintyre,-scotland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2027-06-20T12:00:00.000Z",
+        "end": "2027-06-21T12:00:00.000Z",
+        "kind": "countdown"
+      },
+      "what": {
+        "type": "culture/alignment",
+        "status": "upcoming",
+        "headline": "summer solstice at Ballochroy"
+      },
+      "payload": {
+        "alignmentType": "summer-solstice",
+        "dateRange": "Sunday, 20 June 2027",
+        "eventTime": "09:08",
+        "windowDescription": "Sunset around 09:08. Alignment visible from 20 June 2027 to 20 June 2027, roughly 0 days before to 0 days after the summer solstice."
+      }
+    }
+  ]
+}

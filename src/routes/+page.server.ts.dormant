@@ -1,0 +1,12 @@
+export const prerender = false;
+
+export async function load() {
+  return {
+    conditionItems: [],
+    cultureItems: [],
+    cultureGaps: [],
+    disclaimers: [{ source: 'test', text: 'Debug test' }],
+    generatedAt: new Date().toISOString(),
+    _debug: 'test debug string'
+  };
+}

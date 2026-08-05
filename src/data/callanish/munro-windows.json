@@ -1,0 +1,16 @@
+{
+  "contract": "0.1",
+  "layer": "munro_windows",
+  "face": "conditions",
+  "source": "open-meteo",
+  "cadence_hours": 12,
+  "updated_at": "2026-07-22T01:30:52Z",
+  "disclaimer": "Forecast guidance only. Not a substitute for MWIS, SAIS, or your own judgement.",
+  "items": [],
+  "gap": {
+    "nearest_atom": "ben-nevis",
+    "nearest_name": "Ben Nevis",
+    "distance_km": 187,
+    "next_event": null
+  }
+}

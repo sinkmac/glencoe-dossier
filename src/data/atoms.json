@@ -1,0 +1,7 @@
+{
+  "glencoe": { "name": "Glen Coe", "lat": 56.680, "lon": -5.110, "region": "highland" },
+  "bidean-nam-bian": { "name": "Bidean nam Bian", "lat": 56.643, "lon": -5.029, "region": "highland" },
+  "buachaille-etive-mor": { "name": "Buachaille Etive Mòr", "lat": 56.647, "lon": -4.898, "region": "highland" },
+  "ballochroy": { "name": "Ballochroy", "lat": 55.712, "lon": -5.614, "region": "argyll-and-bute" },
+  "callanish": { "name": "Callanish Stones", "lat": 58.1975, "lon": -6.7451, "region": "outer-hebrides" }
+}

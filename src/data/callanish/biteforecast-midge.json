@@ -1,0 +1,16 @@
+{
+  "contract": "0.1",
+  "layer": "biteforecast_midge",
+  "face": "conditions",
+  "source": "open-meteo",
+  "cadence_hours": 3,
+  "updated_at": "2026-07-22T01:30:52.367Z",
+  "disclaimer": "Midge forecasts are guidance only. Real conditions vary with wind, cloud cover, and local microclimate.",
+  "items": [],
+  "gap": {
+    "nearest_atom": "isle-of-skye-portree",
+    "nearest_name": "Isle of Skye — Portree",
+    "distance_km": 93,
+    "next_event": null
+  }
+}
