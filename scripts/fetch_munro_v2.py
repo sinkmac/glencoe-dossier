@@ -169,6 +169,7 @@ def process_munro(munro):
 
         items.append({
             "id": f"munro_windows:{munro['slug']}:{date_str}",
+            "name": munro["name"],
             "where": {
                 "atom": munro["slug"],
                 "lat": munro["lat"],

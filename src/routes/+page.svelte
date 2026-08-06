@@ -56,10 +56,40 @@
     return { layer, groups, gap: layer.gap ?? null };
   });
 
-  // Aggregate condition items
-  const conditionItems = sections
+  // Aggregate condition items — split munro (summit-window) from midge so each
+  // can render its own shape. Munro items now carry a `name` field (from the
+  // fetch_munro_v2.py MUNROS config); midge items do not and render as before.
+  const allCondition = sections
     .flatMap(s => s.groups['condition'] || [])
     .sort((a, b) => new Date(a.when.start) - new Date(b.when.start));
+
+  const midgeItems = allCondition.filter(i => i.what?.type !== 'condition/summit-window');
+  const munroItems = allCondition.filter(i => i.what?.type === 'condition/summit-window');
+
+  // Group munro items by date + status + window (headline encodes window
+  // length, e.g. "11-hour window from 08:00"). Same day + same status + same
+  // window group into one card; a different window length on the same day is
+  // the useful differentiator and stays separate (per the brief).
+  function groupMunros(items) {
+    const groups = {};
+    for (const it of items) {
+      const date = (it.when?.start || '').slice(0, 10);
+      const key = `${date}|${it.what?.status}|${it.what?.headline}`;
+      if (!groups[key]) {
+        groups[key] = { date, status: it.what?.status, headline: it.what?.headline, items: [] };
+      }
+      groups[key].items.push(it);
+    }
+    return Object.values(groups).map(g => ({ ...g, count: g.items.length }));
+  }
+  const munroGroups = groupMunros(munroItems);
+  let expandedMunroGroups = $state(new Set()); // group keys shown expanded (name list)
+  function toggleMunroGroup(key) {
+    const next = new Set(expandedMunroGroups);
+    if (next.has(key)) next.delete(key);
+    else next.add(key);
+    expandedMunroGroups = next;
+  }
 
   // Condition gaps: layers with face "conditions" that have no items + have a gap
   const conditionGaps = sections
@@ -127,18 +157,18 @@
     <p class="subtitle">Dossier &middot; { new Date().toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }) }</p>
   </header>
 
-  {#if conditionItems.length === 0 && conditionGaps.length === 0 && cultureItems.length === 0 && cultureGaps.length === 0}
+  {#if midgeItems.length === 0 && munroGroups.length === 0 && conditionGaps.length === 0 && cultureItems.length === 0 && cultureGaps.length === 0}
     <p class="empty">No information available for this location.</p>
   {/if}
 
   <!-- Conditions -->
-  {#if conditionItems.length > 0 || conditionGaps.length > 0}
+  {#if midgeItems.length > 0 || munroGroups.length > 0 || conditionGaps.length > 0}
     <section class="section">
       <h2>Conditions Now</h2>
       {#if bestDay}
         <p class="best-day">Best day this week: {bestDay.label} — {bestDay.count} Munros with GOOD windows</p>
       {/if}
-      {#each conditionItems as item}
+      {#each midgeItems as item}
         <div class="card condition-{item.what.status}">
           <div class="card-header">
             <span class="status-badge status-{item.what.status}">{statusLabel('condition', item.what.status)}</span>
@@ -151,6 +181,35 @@
               {fmt(item.when.start)}
             {/if}
           </p>
+        </div>
+      {/each}
+      {#each munroGroups as group}
+        <div class="card condition-{group.status}">
+          <div class="card-header">
+            <span class="status-badge status-{group.status}">{statusLabel('condition', group.status)}</span>
+            {#if group.count === 1}
+              <span class="headline"><strong>{group.items[0].name}</strong> — {group.headline}</span>
+            {:else}
+              <span class="headline"><strong>{group.count} Munros</strong> — {group.headline}</span>
+            {/if}
+          </div>
+          <p class="meta">
+            {fmt(group.items[0].when.start)} &ndash; {fmt(group.items[0].when.end)}
+          </p>
+          {#if group.count > 1}
+            <button class="show-more" onclick={() => toggleMunroGroup(group.date + '|' + group.status + '|' + group.headline)}>
+              {expandedMunroGroups.has(group.date + '|' + group.status + '|' + group.headline)
+                ? 'Hide Munros −'
+                : `▾ ${group.items.map(i => i.name).join(', ')}`}
+            </button>
+            {#if expandedMunroGroups.has(group.date + '|' + group.status + '|' + group.headline)}
+              <div class="munro-list">
+                {#each group.items as item}
+                  <p class="munro-name">{item.name}</p>
+                {/each}
+              </div>
+            {/if}
+          {/if}
         </div>
       {/each}
       {#each conditionGaps as { layer, gap }}
@@ -296,6 +355,21 @@
     color: #888;
     margin-top: 0.3rem;
   }
+
+  .show-more {
+    display: inline-block;
+    margin-top: 0.35rem;
+    font-size: 0.8rem;
+    color: #2a5070;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.15rem 0;
+    text-align: left;
+  }
+  .show-more:hover { text-decoration: underline; }
+  .munro-list { margin-top: 0.4rem; padding-left: 0.25rem; border-top: 1px solid #eef0ec; padding-top: 0.4rem; }
+  .munro-name { font-size: 0.8rem; color: #333; margin-bottom: 0.15rem; }
 
   .countdown-signal {
     font-size: 0.75rem;

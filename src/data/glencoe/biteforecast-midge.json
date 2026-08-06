@@ -4,11 +4,11 @@
   "face": "conditions",
   "source": "met-office-global-spot",
   "cadence_hours": 3,
-  "updated_at": "2026-08-06T01:50:32.417Z",
+  "updated_at": "2026-08-06T11:51:26.093Z",
   "disclaimer": "Midge forecasts are guidance only. Real conditions vary with wind, cloud cover, and local microclimate.",
   "items": [
     {
-      "id": "biteforecast_midge:glencoe:2026-08-06T01",
+      "id": "biteforecast_midge:glencoe:2026-08-06T11",
       "where": {
         "atom": "glencoe",
         "lat": 56.682,
@@ -17,21 +17,21 @@
         "precision": "exact"
       },
       "when": {
-        "start": "2026-08-06T01:50:32.417Z",
-        "end": "2026-08-06T04:50:32.417Z",
+        "start": "2026-08-06T11:51:26.093Z",
+        "end": "2026-08-06T14:51:26.093Z",
         "kind": "window"
       },
       "what": {
         "type": "condition/midge-risk",
         "status": "good",
-        "headline": "Midge risk low (2/10)"
+        "headline": "Midge risk low (3/10)"
       },
       "payload": {
-        "index": 2,
+        "index": 3,
         "label": "Low",
-        "temp": 12.28,
-        "windMph": 5.637088800000001,
-        "humidity": 89.67,
+        "temp": 15,
+        "windMph": 5,
+        "humidity": 82,
         "cloudCover": 0
       }
     }
