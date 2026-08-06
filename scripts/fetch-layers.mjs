@@ -57,17 +57,44 @@ function runMunro(lat, lon, outDir) {
   return output.trim();
 }
 
-/** Run the Heritage Python adapter (Canmore Points shapefile, static source). */
+/**
+ * Run the Heritage Python adapter (Canmore Points shapefile, static source).
+ *
+ * Local-run-and-commit model: the adapter runs on a machine that has the
+ * 35MB shapefile + pyshp/pyproj, and the resulting heritage.json is COMMITTED.
+ * On a deploy builder (Netlify) those prerequisites are NOT present — that is
+ * the expected state, not a failure, because the committed JSON is the
+ * authoritative artifact and the shapefile should never be shipped to a build
+ * box. So:
+ *   - shapefile missing (-or- python deps missing)  → graceful skip, return 0
+ *   - shapefile + deps present, but the run errors  → real failure, return 1
+ */
 function runHeritage() {
   const scriptPath = resolve(__dirname, 'fetch_heritage.py');
   const shapefilePath = resolve(__dirname, 'data', 'Canmore_Points.shp');
+
+  // Prereq 1: shapefile present locally? If not, skip (committed JSON serves).
+  if (!existsSync(shapefilePath)) {
+    console.log('  ~ heritage: Canmore_Points.shp not present — using committed heritage.json (local-run model)');
+    return 0;
+  }
+
+  // Prereq 2: python has pyshp + pyproj? Probe before running so a missing dep
+  // is a clean skip, not an error-catch false failure.
+  let depsOk = true;
   try {
-    if (!existsSync(shapefilePath)) {
-      console.error('  ✗ heritage: Canmore_Points.shp not found — skipping heritage layer (stale data will serve if present)');
-      return 1;
-    }
-    const cmd = `python3 "${scriptPath}"`;
-    const output = execSync(cmd, { timeout: 120000, encoding: 'utf-8' });
+    execSync('python3 -c "import shapefile, pyproj"', { stdio: 'pipe' });
+  } catch {
+    depsOk = false;
+  }
+  if (!depsOk) {
+    console.log('  ~ heritage: pyshp/pyproj not installed for python3 — using committed heritage.json (local-run model)');
+    return 0;
+  }
+
+  // Prereqs all present — actually run the adapter.
+  try {
+    const output = execSync(`python3 "${scriptPath}"`, { timeout: 120000, encoding: 'utf-8' });
     console.log(output.trim().split('\n').map(l => `  ${l}`).join('\n'));
     return 0;
   } catch (e) {
