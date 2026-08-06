@@ -2,23 +2,9 @@
   "layer": "wikidata",
   "atom": "auchmithie",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:29:32Z",
+  "fetched_at": "2026-08-06T12:04:34Z",
   "status": "ok",
   "items": {
-    "35474": {
-      "qid": "Q5147520",
-      "name": "Colliston Castle",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
-      "coord": "Point(-2.63282 56.608)",
-      "article": "https://en.wikipedia.org/wiki/Colliston_Castle"
-    },
-    "35616": {
-      "qid": "Q7512699",
-      "name": "Arbroath Signal Tower Museum",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
-      "coord": "Point(-2.586397925 56.554616111)",
-      "article": "https://en.wikipedia.org/wiki/Signal_Tower_Museum"
-    },
     "35617": {
       "qid": "Q17571784",
       "name": "Baltic Works, Dens Road, Arbroath",
@@ -74,6 +60,20 @@
       "qid": "Q114710202",
       "name": "Arbroath,'Collegiate Church'",
       "coord": "Point(-2.5873045 56.55958)"
+    },
+    "35474": {
+      "qid": "Q5147520",
+      "name": "Colliston Castle",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
+      "coord": "Point(-2.63282 56.608)",
+      "article": "https://en.wikipedia.org/wiki/Colliston_Castle"
+    },
+    "35616": {
+      "qid": "Q7512699",
+      "name": "Arbroath Signal Tower Museum",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
+      "coord": "Point(-2.586397925 56.554616111)",
+      "article": "https://en.wikipedia.org/wiki/Signal_Tower_Museum"
     },
     "35546": {
       "qid": "Q630683",

@@ -4,7 +4,7 @@
   "face": "conditions",
   "source": "open-meteo",
   "cadence_hours": 12,
-  "updated_at": "2026-08-06T11:51:26Z",
+  "updated_at": "2026-08-06T12:02:44Z",
   "disclaimer": "Forecast guidance only. Not a substitute for MWIS, SAIS, or your own judgement.",
   "items": [
     {
@@ -19,16 +19,16 @@
       },
       "when": {
         "start": "2026-08-06T08:00:00+01:00",
-        "end": "2026-08-06T19:00:00+01:00",
+        "end": "2026-08-06T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "11-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 11,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -73,16 +73,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T17:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "9-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 9,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -100,16 +100,16 @@
       },
       "when": {
         "start": "2026-08-06T08:00:00+01:00",
-        "end": "2026-08-06T19:00:00+01:00",
+        "end": "2026-08-06T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "11-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 11,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -154,16 +154,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T17:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "9-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 9,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -181,16 +181,16 @@
       },
       "when": {
         "start": "2026-08-06T08:00:00+01:00",
-        "end": "2026-08-06T19:00:00+01:00",
+        "end": "2026-08-06T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "11-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 11,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -235,16 +235,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T17:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "9-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 9,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -262,16 +262,16 @@
       },
       "when": {
         "start": "2026-08-06T08:00:00+01:00",
-        "end": "2026-08-06T19:00:00+01:00",
+        "end": "2026-08-06T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "11-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 11,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -316,16 +316,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T17:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "9-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 9,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -343,16 +343,16 @@
       },
       "when": {
         "start": "2026-08-06T08:00:00+01:00",
-        "end": "2026-08-06T17:00:00+01:00",
+        "end": "2026-08-06T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "9-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 9,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -397,16 +397,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T17:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "9-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 9,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -434,6 +434,33 @@
       },
       "payload": {
         "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-lawers:2026-08-10",
+      "name": "Ben Lawers",
+      "where": {
+        "atom": "ben-lawers",
+        "lat": 56.545,
+        "lon": -4.221,
+        "region": "perthshire",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-10T08:00:00+01:00",
+        "end": "2026-08-10T14:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "6-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 6,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
@@ -478,16 +505,16 @@
       },
       "when": {
         "start": "2026-08-12T08:00:00+01:00",
-        "end": "2026-08-12T15:00:00+01:00",
+        "end": "2026-08-12T19:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
         "status": "good",
-        "headline": "7-hour window from 08:00"
+        "headline": "11-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 7,
+        "window_hours": 11,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000

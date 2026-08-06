@@ -2,7 +2,7 @@
   "layer": "wikidata",
   "atom": "kirriemuir",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:36:43Z",
+  "fetched_at": "2026-08-06T12:02:57Z",
   "status": "ok",
   "items": {
     "32312": {
@@ -86,6 +86,13 @@
       "name": "Muirhouses, St Colm's Chapel",
       "coord": "Point(-2.9911452 56.697171)"
     },
+    "32291": {
+      "qid": "Q17777747",
+      "name": "Town House, 31 High Street, Kirriemuir",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20to%20the%20Glens%20Museum%2C%20Kirriemuir%20%28geograph%205817097%29.jpg",
+      "coord": "Point(-3.00413 56.6729)",
+      "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_House"
+    },
     "32228": {
       "qid": "Q31095567",
       "name": "Castle Hill, Meams",
@@ -130,13 +137,6 @@
       "qid": "Q114711842",
       "name": "Abernethan, chapel",
       "coord": "Point(-3.0367591 56.693206)"
-    },
-    "32291": {
-      "qid": "Q17777747",
-      "name": "Town House, 31 High Street, Kirriemuir",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20to%20the%20Glens%20Museum%2C%20Kirriemuir%20%28geograph%205817097%29.jpg",
-      "coord": "Point(-3.00413 56.6729)",
-      "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_House"
     },
     "33713": {
       "qid": "Q6060305",
@@ -481,6 +481,12 @@
       "name": "18 Glamis Road, Kirriemuir",
       "coord": "Point(-3.0035316 56.669265)"
     },
+    "195064": {
+      "qid": "Q48818140",
+      "name": "Kirriemuir railway station",
+      "coord": "Point(-2.9983 56.6736)",
+      "article": "https://en.wikipedia.org/wiki/Kirriemuir_railway_station"
+    },
     "195033": {
       "qid": "Q17777671",
       "name": "Mausoleum Enclosing Walls, Logie",
@@ -676,12 +682,6 @@
       "qid": "Q56643253",
       "name": "Sydney Cottage, 4 Manse Lane, Kirriemuir",
       "coord": "Point(-3.0029855 56.669593)"
-    },
-    "195064": {
-      "qid": "Q48818140",
-      "name": "Kirriemuir railway station",
-      "coord": "Point(-2.9983 56.6736)",
-      "article": "https://en.wikipedia.org/wiki/Kirriemuir_railway_station"
     },
     "223705": {
       "qid": "Q17777729",
