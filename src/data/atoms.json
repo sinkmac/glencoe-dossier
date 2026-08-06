@@ -3,5 +3,9 @@
   "bidean-nam-bian": { "name": "Bidean nam Bian", "lat": 56.643, "lon": -5.029, "region": "highland" },
   "buachaille-etive-mor": { "name": "Buachaille Etive Mòr", "lat": 56.647, "lon": -4.898, "region": "highland" },
   "ballochroy": { "name": "Ballochroy", "lat": 55.712, "lon": -5.614, "region": "argyll-and-bute" },
-  "callanish": { "name": "Callanish Stones", "lat": 58.1975, "lon": -6.7451, "region": "outer-hebrides" }
+  "callanish": { "name": "Callanish Stones", "lat": 58.1975, "lon": -6.7451, "region": "outer-hebrides" },
+  "kirriemuir": { "name": "Kirriemuir", "lat": 56.6735, "lon": -3.0040, "region": "angus" },
+  "auchmithie": { "name": "Auchmithie", "lat": 56.5623, "lon": -2.5836, "region": "angus" },
+  "tiree": { "name": "Tiree", "lat": 56.5003, "lon": -6.8950, "region": "argyll-and-bute" },
+  "south-uist": { "name": "South Uist", "lat": 57.2393, "lon": -7.3250, "region": "outer-hebrides" }
 }
