@@ -86,6 +86,10 @@
         {/if}
       </p>
 
+      {#if hasAttribution}
+        <p class="attribution">{heritage.attribution}</p>
+      {/if}
+
       {#each heritageGroups as group}
         <div class="heritage-group">
           <h3 class="group-title">{group.name} <span class="group-count">{group.count}</span></h3>
@@ -107,10 +111,6 @@
           {/if}
         </div>
       {/each}
-
-      {#if hasAttribution}
-        <p class="attribution">{heritage.attribution}</p>
-      {/if}
     </section>
   {/if}
 

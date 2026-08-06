@@ -4,7 +4,7 @@
   "face": "conditions",
   "source": "met-office-global-spot",
   "cadence_hours": 3,
-  "updated_at": "2026-08-06T00:23:55.887Z",
+  "updated_at": "2026-08-06T00:31:05.012Z",
   "disclaimer": "Midge forecasts are guidance only. Real conditions vary with wind, cloud cover, and local microclimate.",
   "items": [
     {
@@ -17,8 +17,8 @@
         "precision": "exact"
       },
       "when": {
-        "start": "2026-08-06T00:23:55.887Z",
-        "end": "2026-08-06T03:23:55.887Z",
+        "start": "2026-08-06T00:31:05.012Z",
+        "end": "2026-08-06T03:31:05.012Z",
         "kind": "window"
       },
       "what": {
