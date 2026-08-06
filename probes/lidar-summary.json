@@ -1,0 +1,234 @@
+{
+  "kirriemuir": {
+    "layers_covering": [
+      {
+        "name": "scotland:lidar-aggregate",
+        "title": "Scotland Lidar Aggregate Layer",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dsm",
+        "title": "National Lidar Program 2025 DSM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dtm",
+        "title": "National Lidar Program 2025 DTM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2017-dsm",
+        "title": "LiDAR for Historic Environment Scotland Projects (2017) DSM",
+        "w": -5.48427861909649,
+        "e": -2.780131545189019,
+        "s": 55.20341839127781,
+        "n": 56.87274394860326
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2017-dtm",
+        "title": "LiDAR for Historic Environment Scotland Projects (2017) DTM",
+        "w": -5.48427861909649,
+        "e": -2.780131545189019,
+        "s": 55.20341839127781,
+        "n": 56.87274394860326
+      },
+      {
+        "name": "scotland:scotland-lidar-1-dsm",
+        "title": "Lidar Phase 1 DSM",
+        "w": -6.018560765016743,
+        "e": -1.7394074862220423,
+        "s": 54.720252053323215,
+        "n": 59.16548440533408
+      },
+      {
+        "name": "scotland:scotland-lidar-1-dtm",
+        "title": "Lidar Phase 1 DTM",
+        "w": -6.018560766486587,
+        "e": -1.7394073593767958,
+        "s": 54.72025181788229,
+        "n": 59.16548441765222
+      }
+    ]
+  },
+  "auchmithie": {
+    "layers_covering": [
+      {
+        "name": "scotland:lidar-aggregate",
+        "title": "Scotland Lidar Aggregate Layer",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dsm",
+        "title": "National Lidar Program 2025 DSM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dtm",
+        "title": "National Lidar Program 2025 DTM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:scotland-lidar-1-dsm",
+        "title": "Lidar Phase 1 DSM",
+        "w": -6.018560765016743,
+        "e": -1.7394074862220423,
+        "s": 54.720252053323215,
+        "n": 59.16548440533408
+      },
+      {
+        "name": "scotland:scotland-lidar-1-dtm",
+        "title": "Lidar Phase 1 DTM",
+        "w": -6.018560766486587,
+        "e": -1.7394073593767958,
+        "s": 54.72025181788229,
+        "n": 59.16548441765222
+      }
+    ]
+  },
+  "tiree": {
+    "layers_covering": [
+      {
+        "name": "scotland:lidar-aggregate",
+        "title": "Scotland Lidar Aggregate Layer",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dsm",
+        "title": "National Lidar Program 2025 DSM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dtm",
+        "title": "National Lidar Program 2025 DTM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2010s10-dsm",
+        "title": "LiDAR for Historic Environment Scotland Ten Project (2010) DSM",
+        "w": -8.85093906106586,
+        "e": -3.04146821778758,
+        "s": 55.50888131954154,
+        "n": 59.05169788607546
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2010s10-dtm",
+        "title": "LiDAR for Historic Environment Scotland Ten Project (2010) DTM",
+        "w": -8.85093906106586,
+        "e": -3.0414694109767315,
+        "s": 55.508925979105626,
+        "n": 59.05169788607546
+      }
+    ]
+  },
+  "south-uist": {
+    "layers_covering": [
+      {
+        "name": "scotland:lidar-aggregate",
+        "title": "Scotland Lidar Aggregate Layer",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dsm",
+        "title": "National Lidar Program 2025 DSM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:nlp-2025-dtm",
+        "title": "National Lidar Program 2025 DTM",
+        "w": -11.316909832470566,
+        "e": 3.3562789434868696,
+        "s": 49.54649575717898,
+        "n": 61.19075305944838
+      },
+      {
+        "name": "scotland:outer-hebrides-2019-dsm-25cm",
+        "title": "LiDAR for Outer Hebrides 2019 - 25cm DSM",
+        "w": -7.572839560697914,
+        "e": -5.999080144912344,
+        "s": 57.06452757617904,
+        "n": 58.28178778433974
+      },
+      {
+        "name": "scotland:outer-hebrides-2019-dsm-50cm",
+        "title": "LiDAR for Outer Hebrides 2019 - 50cm DSM",
+        "w": -7.662275725154243,
+        "e": -5.99618117554249,
+        "s": 57.03556264781076,
+        "n": 58.5236462936041
+      },
+      {
+        "name": "scotland:outer-hebrides-2019-dsm-50cm-limited",
+        "title": "Lidar for Outer Hebrides 2019 - 50cm Limited DSM",
+        "w": -7.662275725154243,
+        "e": -6.012641658180464,
+        "s": 57.03556264781076,
+        "n": 58.523089720114754
+      },
+      {
+        "name": "scotland:outer-hebrides-2019-dtm-25cm",
+        "title": "LiDAR for Outer Hebrides 2019 - 25cm DTM",
+        "w": -7.572839560697914,
+        "e": -5.999080144912344,
+        "s": 57.06452757617904,
+        "n": 58.28178778433974
+      },
+      {
+        "name": "scotland:outer-hebrides-2019-dtm-50cm",
+        "title": "LiDAR for Outer Hebrides 2019 - 50cm DTM",
+        "w": -7.662275725154243,
+        "e": -5.99618117554249,
+        "s": 57.03556264781076,
+        "n": 58.5236462936041
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2010s10-dsm",
+        "title": "LiDAR for Historic Environment Scotland Ten Project (2010) DSM",
+        "w": -8.85093906106586,
+        "e": -3.04146821778758,
+        "s": 55.50888131954154,
+        "n": 59.05169788607546
+      },
+      {
+        "name": "scotland:scotland-gov-lidar-hes-hes-2010s10-dtm",
+        "title": "LiDAR for Historic Environment Scotland Ten Project (2010) DTM",
+        "w": -8.85093906106586,
+        "e": -3.0414694109767315,
+        "s": 55.508925979105626,
+        "n": 59.05169788607546
+      }
+    ]
+  }
+}
