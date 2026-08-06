@@ -2,27 +2,27 @@
   "layer": "wikidata",
   "atom": "auchmithie",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:08:10Z",
+  "fetched_at": "2026-08-06T01:29:32Z",
   "status": "ok",
   "items": {
     "35474": {
       "qid": "Q5147520",
       "name": "Colliston Castle",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
       "coord": "Point(-2.63282 56.608)",
       "article": "https://en.wikipedia.org/wiki/Colliston_Castle"
     },
     "35616": {
       "qid": "Q7512699",
       "name": "Arbroath Signal Tower Museum",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
       "coord": "Point(-2.586397925 56.554616111)",
       "article": "https://en.wikipedia.org/wiki/Signal_Tower_Museum"
     },
     "35617": {
       "qid": "Q17571784",
       "name": "Baltic Works, Dens Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Railway%20at%20Arbroath%20north%20of%20High%20Road%20Bridge%20-%20geograph.org.uk%20-%201152098.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Railway%20at%20Arbroath%20north%20of%20High%20Road%20Bridge%20-%20geograph.org.uk%20-%201152098.jpg",
       "coord": "Point(-2.58823 56.5638)"
     },
     "35520": {
@@ -78,21 +78,21 @@
     "35546": {
       "qid": "Q630683",
       "name": "Arbroath Abbey",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20abbey%20nave%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20abbey%20nave%2001.jpg",
       "coord": "Point(-2.582222222 56.5625)",
       "article": "https://en.wikipedia.org/wiki/Arbroath_Abbey"
     },
     "35655": {
       "qid": "Q5908809",
       "name": "Hospitalfield House",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hospitalfield%20house.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospitalfield%20house.jpg",
       "coord": "Point(-2.610274464 56.55435741)",
       "article": "https://en.wikipedia.org/wiki/Hospitalfield_House"
     },
     "35550": {
       "qid": "Q17770904",
       "name": "Old Parish Church, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20parish%20church%20-%20geograph.org.uk%20-%201195606.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20parish%20church%20-%20geograph.org.uk%20-%201195606.jpg",
       "coord": "Point(-2.58072 56.56)"
     },
     "35531": {
@@ -103,7 +103,7 @@
     "35532": {
       "qid": "Q31095718",
       "name": "Lud Castle",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lud%20castle.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lud%20castle.jpg",
       "coord": "Point(-2.52172 56.58161)"
     },
     "35545": {
@@ -119,21 +119,21 @@
     "35559": {
       "qid": "Q2184969",
       "name": "St Vigeans Church",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Parish%20Church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Parish%20Church.jpg",
       "coord": "Point(-2.590142394 56.57674404)",
       "article": "https://en.wikipedia.org/wiki/St_Vigeans_Church"
     },
     "36215": {
       "qid": "Q2305375",
       "name": "Bell Rock Lighthouse",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Rock%20Lighthouse%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Rock%20Lighthouse%2001.jpg",
       "coord": "Point(-2.388088706 56.432860418)",
       "article": "https://en.wikipedia.org/wiki/Bell_Rock_Lighthouse"
     },
     "82297": {
       "qid": "Q2641966",
       "name": "Arbroath railway station",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Used%20and%20disused%20platforms%20at%20Arbroath%20Station%20%28geograph%206368786%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Used%20and%20disused%20platforms%20at%20Arbroath%20Station%20%28geograph%206368786%29.jpg",
       "coord": "Point(-2.5892 56.5594)",
       "article": "https://en.wikipedia.org/wiki/Arbroath_railway_station"
     },
@@ -145,34 +145,34 @@
     "115370": {
       "qid": "Q17771074",
       "name": "No. 88 High Street (Former Town House), Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20sheriff%20court%20-%20geograph.org.uk%20-%201195590.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20sheriff%20court%20-%20geograph.org.uk%20-%201195590.jpg",
       "coord": "Point(-2.58194 56.5587)",
       "article": "https://en.wikipedia.org/wiki/Arbroath_Town_House"
     },
     "115056": {
       "qid": "Q17771102",
       "name": "The Corn Exchange",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Corn%20Exchange-Weatherspoons.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Corn%20Exchange-Weatherspoons.jpg",
       "coord": "Point(-2.58252 56.5585)",
       "article": "https://en.wikipedia.org/wiki/Corn_Exchange,_Arbroath"
     },
     "77712": {
       "qid": "Q17771815",
       "name": "Letham Grange",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20Hotel%20-%20geograph.org.uk%20-%20111597.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20Hotel%20-%20geograph.org.uk%20-%20111597.jpg",
       "coord": "Point(-2.61317 56.6015)",
       "article": "https://en.wikipedia.org/wiki/Letham_Grange_estate"
     },
     "114865": {
       "qid": "Q17771629",
       "name": "Water Tower, Keptie Hill, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Water%20Tower.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Water%20Tower.jpg",
       "coord": "Point(-2.59486 56.5576)"
     },
     "82303": {
       "qid": "Q17771758",
       "name": "Grant's Shoe Factory, Hill Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Grant%27s%20Shoe%20Factory%2C%20Hill%20Road%2C%20Arbroath.jpeg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Grant%27s%20Shoe%20Factory%2C%20Hill%20Road%2C%20Arbroath.jpeg",
       "coord": "Point(-2.57601 56.5582)"
     },
     "127889": {
@@ -193,33 +193,33 @@
     "183413": {
       "qid": "Q5117578",
       "name": "Church of St Mary the Virgin, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Mary%20the%20Virgin%2C%20Arbroath-geograph-3714981.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Mary%20the%20Virgin%2C%20Arbroath-geograph-3714981.jpg",
       "coord": "Point(-2.57578 56.5614)",
       "article": "https://en.wikipedia.org/wiki/Church_of_St_Mary_the_Virgin,_Arbroath"
     },
     "127892": {
       "qid": "Q17771887",
       "name": "West Seaton",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/West%20Seaton%20house.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/West%20Seaton%20house.jpg",
       "coord": "Point(-2.55757 56.5653)",
       "article": "https://en.wikipedia.org/wiki/West_Seaton_House"
     },
     "188233": {
       "qid": "Q17571787",
       "name": "The Elms, Cairnie Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Elms%20%28close%20up%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Elms%20%28close%20up%29.jpg",
       "coord": "Point(-2.60034 56.5663)"
     },
     "126622": {
       "qid": "Q17571791",
       "name": "Mortuary Chapel, Western Cemetery, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Mortuary%20Chapel%20-%20Western%20Cemetery%20-%20Arbroath.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Mortuary%20Chapel%20-%20Western%20Cemetery%20-%20Arbroath.jpg",
       "coord": "Point(-2.61214 56.5664)"
     },
     "178649": {
       "qid": "Q17770894",
       "name": "Arbroath Academy, Hill Place, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Library%20-%20geograph.org.uk%20-%20949570.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Library%20-%20geograph.org.uk%20-%20949570.jpg",
       "coord": "Point(-2.57953 56.56)"
     },
     "193200": {
@@ -230,7 +230,7 @@
     "179685": {
       "qid": "Q17771012",
       "name": "Bank of Scotland, 76 High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Scottish%20building%20society.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Scottish%20building%20society.jpg",
       "coord": "Point(-2.58157 56.5583)"
     },
     "127888": {
@@ -261,7 +261,7 @@
     "193195": {
       "qid": "Q56625852",
       "name": "Windmill Hotel, Millgate Loan, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Windmill%20Christian%20Centre.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Windmill%20Christian%20Centre.jpg",
       "coord": "Point(-2.5914024 56.554233)"
     },
     "193217": {
@@ -272,14 +272,14 @@
     "193237": {
       "qid": "Q7588791",
       "name": "St. John's Methodist Church, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20St.%20John%27s%20Methodist%20Church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20St.%20John%27s%20Methodist%20Church.jpg",
       "coord": "Point(-2.578611 56.560222)",
       "article": "https://en.wikipedia.org/wiki/St_John%27s_Methodist_Church,_Arbroath"
     },
     "194427": {
       "qid": "Q55888285",
       "name": "Cauldcots railway station",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Site%20of%20Cauldcots%20Station%20%28geograph%205551966%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Site%20of%20Cauldcots%20Station%20%28geograph%205551966%29.jpg",
       "coord": "Point(-2.5602 56.6152)",
       "article": "https://en.wikipedia.org/wiki/Cauldcots_railway_station"
     },
@@ -296,31 +296,31 @@
     "193086": {
       "qid": "Q17771417",
       "name": "3-5 High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Brew%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Brew%20House.jpg",
       "coord": "Point(-2.57974 56.5565)"
     },
     "193240": {
       "qid": "Q17771427",
       "name": "1 The Shore, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-1%20The%20Shore%20%281st%20building%20on%20right%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-1%20The%20Shore%20%281st%20building%20on%20right%29.jpg",
       "coord": "Point(-2.5841 56.5565)"
     },
     "193247": {
       "qid": "Q17771436",
       "name": "2, 3 The Shore, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%202%20%26%203%20The%20Shore.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%202%20%26%203%20The%20Shore.jpg",
       "coord": "Point(-2.58425 56.5565)"
     },
     "193241": {
       "qid": "Q17771447",
       "name": "Harbour House, 4, 5 The Shore, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Harbour%20Nights%20Guest%20House%20%283rd%20building%20from%20right%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Harbour%20Nights%20Guest%20House%20%283rd%20building%20from%20right%29.jpg",
       "coord": "Point(-2.58446 56.5564)"
     },
     "193242": {
       "qid": "Q17771474",
       "name": "6 The Shore, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Shore.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Shore.jpg",
       "coord": "Point(-2.58455 56.5564)"
     },
     "193244": {
@@ -331,7 +331,7 @@
     "193245": {
       "qid": "Q17771522",
       "name": "13, 14 The Shore, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Shore%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Shore%20House.jpg",
       "coord": "Point(-2.58489 56.5563)"
     },
     "193250": {
@@ -342,13 +342,13 @@
     "193084": {
       "qid": "Q17771616",
       "name": "High School, Keptie Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20High%20School%2002.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20High%20School%2002.jpg",
       "coord": "Point(-2.59494 56.559)"
     },
     "193238": {
       "qid": "Q17771645",
       "name": "St Thomas of Canterbury R.C. Church, Dishlandtown Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20St%20Thomas%20Of%20Canterbury%20R.C.%20Church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20St%20Thomas%20Of%20Canterbury%20R.C.%20Church.jpg",
       "coord": "Point(-2.59046 56.5562)"
     },
     "192645": {
@@ -394,13 +394,13 @@
     "193093": {
       "qid": "Q56625782",
       "name": "Bank, 115-117 High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Clydsdale%20Bank.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Clydsdale%20Bank.jpg",
       "coord": "Point(-2.5814036 56.558844)"
     },
     "193218": {
       "qid": "Q56625838",
       "name": "Commercial Inn, 13 Old Shore Head, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20Commercial%20Inn.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20Commercial%20Inn.jpg",
       "coord": "Point(-2.5810087 56.556429)"
     },
     "193075": {
@@ -426,19 +426,19 @@
     "193012": {
       "qid": "Q17770793",
       "name": "Churchyard, Arbroath Abbey",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Church%20Yard%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Church%20Yard%2001.jpg",
       "coord": "Point(-2.58222 56.5631)"
     },
     "193011": {
       "qid": "Q17770819",
       "name": "Abbey Parish Church, West Abbey Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Old%20and%20Abbey%20Parish%20Church%20-%20geograph.org.uk%20-%201152028.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Old%20and%20Abbey%20Parish%20Church%20-%20geograph.org.uk%20-%201152028.jpg",
       "coord": "Point(-2.58172 56.5615)"
     },
     "193148": {
       "qid": "Q17770850",
       "name": "Inverbrothock Parish Church, James Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Life%20Church%20Arbroath.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Life%20Church%20Arbroath.jpg",
       "coord": "Point(-2.58557 56.5619)"
     },
     "193191": {
@@ -499,13 +499,13 @@
     "193153": {
       "qid": "Q17771551",
       "name": "12-18 Keptie Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Flats.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Flats.jpg",
       "coord": "Point(-2.58878 56.5584)"
     },
     "193152": {
       "qid": "Q17771600",
       "name": "St Margaret's Church, Keptie Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20West%20Kirk.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20West%20Kirk.jpg",
       "coord": "Point(-2.59392 56.56)"
     },
     "193014": {
@@ -556,7 +556,7 @@
     "193160": {
       "qid": "Q56625821",
       "name": "The Ship Inn, 21 Marketgate, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Ship%20Inn.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Ship%20Inn.jpg",
       "coord": "Point(-2.5824481 56.556935)"
     },
     "193170": {
@@ -567,7 +567,7 @@
     "193159": {
       "qid": "Q56625825",
       "name": "35, 37, 39, 41, 43 Marketgate, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Flats%20Marketgate.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Flats%20Marketgate.jpg",
       "coord": "Point(-2.5827994 56.557562)"
     },
     "193172": {
@@ -583,25 +583,25 @@
     "193013": {
       "qid": "Q56625850",
       "name": "Mound House, 3 Albert Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20MoundHouse.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%2C%20MoundHouse.jpg",
       "coord": "Point(-2.5925347 56.555908)"
     },
     "193147": {
       "qid": "Q56625851",
       "name": "House, Infirmary, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Infirmary%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Infirmary%20House.jpg",
       "coord": "Point(-2.5982091 56.554677)"
     },
     "193151": {
       "qid": "Q56625848",
       "name": "The Croft, 31 Keptie Road, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Croft%20%28house%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20The%20Croft%20%28house%29.jpg",
       "coord": "Point(-2.6002212 56.559491)"
     },
     "193150": {
       "qid": "Q56625855",
       "name": "Inverbrothock Public School, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Inverbrothock%20Public%20School%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Inverbrothock%20Public%20School%2001.jpg",
       "coord": "Point(-2.592549 56.565143)"
     },
     "193016": {
@@ -612,21 +612,21 @@
     "194788": {
       "qid": "Q15211254",
       "name": "Colliston railway station",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20station%20site%20geograph-3153179-by-Ben-Brooksbank.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20station%20site%20geograph-3153179-by-Ben-Brooksbank.jpg",
       "coord": "Point(-2.6228 56.6033)",
       "article": "https://en.wikipedia.org/wiki/Colliston_railway_station"
     },
     "196026": {
       "qid": "Q56276443",
       "name": "Letham Grange railway station",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20station%20site%20geograph-3749320-by-Ben-Brooksbank.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20station%20site%20geograph-3749320-by-Ben-Brooksbank.jpg",
       "coord": "Point(-2.596467 56.598982)",
       "article": "https://en.wikipedia.org/wiki/Letham_Grange_railway_station"
     },
     "195892": {
       "qid": "Q17770831",
       "name": "Abbey Lodge, Abbey Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Abbey%20ruins%20-%20geograph.org.uk%20-%20526756.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Abbey%20ruins%20-%20geograph.org.uk%20-%20526756.jpg",
       "coord": "Point(-2.58352 56.562)"
     },
     "195757": {
@@ -637,19 +637,19 @@
     "195759": {
       "qid": "Q17771022",
       "name": "Trades Hall, 78 High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Trades%20Hall.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Trades%20Hall.jpg",
       "coord": "Point(-2.58192 56.5584)"
     },
     "195903": {
       "qid": "Q17771088",
       "name": "Knox's Church, Howard Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20John%20Knox%20Church%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20John%20Knox%20Church%2001.jpg",
       "coord": "Point(-2.59138 56.5631)"
     },
     "195776": {
       "qid": "Q17771126",
       "name": "6 Marketgate, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Marketgate%2C%20Arbroath.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Marketgate%2C%20Arbroath.jpg",
       "coord": "Point(-2.58226 56.5563)"
     },
     "195777": {
@@ -660,7 +660,7 @@
     "192914": {
       "qid": "Q17771802",
       "name": "Church, Auchmithie",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Auchmithie%20Kirk%20-%20geograph.org.uk%20-%203200.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Auchmithie%20Kirk%20-%20geograph.org.uk%20-%203200.jpg",
       "coord": "Point(-2.52526 56.5886)"
     },
     "194048": {
@@ -676,25 +676,25 @@
     "195212": {
       "qid": "Q17771972",
       "name": "1 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1%20Kirkstyle%20-%20090508%20Saint%20Vigeans%20002.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1%20Kirkstyle%20-%20090508%20Saint%20Vigeans%20002.jpg",
       "coord": "Point(-2.58989 56.5771)"
     },
     "195213": {
       "qid": "Q17771986",
       "name": "2 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
       "coord": "Point(-2.59015 56.5771)"
     },
     "195231": {
       "qid": "Q17772007",
       "name": "Letham House, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House.jpg",
       "coord": "Point(-2.59952 56.581)"
     },
     "195215": {
       "qid": "Q17772004",
       "name": "5 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cottages%2C%20St.%20Vigeans%20-%20geograph.org.uk%20-%201059236.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cottages%2C%20St.%20Vigeans%20-%20geograph.org.uk%20-%201059236.jpg",
       "coord": "Point(-2.59055 56.5769)"
     },
     "196267": {
@@ -705,19 +705,19 @@
     "196323": {
       "qid": "Q17772024",
       "name": "West Gates and Piers, Letham House, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%2C%20West%20Gates%20And%20Piers%2002.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%2C%20West%20Gates%20And%20Piers%2002.jpg",
       "coord": "Point(-2.60012 56.5809)"
     },
     "196322": {
       "qid": "Q17772031",
       "name": "Letham House South Lodge, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20letham%20House%20South%20Lodge.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20letham%20House%20South%20Lodge.jpg",
       "coord": "Point(-2.60009 56.5808)"
     },
     "195238": {
       "qid": "Q17772040",
       "name": "Walled Garden, Letham House, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%2C%20Walled%20Garden.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%2C%20Walled%20Garden.jpg",
       "coord": "Point(-2.59987 56.5805)"
     },
     "195257": {
@@ -738,7 +738,7 @@
     "194820": {
       "qid": "Q56615358",
       "name": "South Gates, North Tarry",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarry%20Zoom%20in%20on%20the%20Gate.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/North%20Tarry%20Zoom%20in%20on%20the%20Gate.jpg",
       "coord": "Point(-2.5834177 56.575536)"
     },
     "195897": {
@@ -774,7 +774,7 @@
     "195761": {
       "qid": "Q56625797",
       "name": "Nos. 90, 92 and 94 (Former Guildry Buildings), High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Former%20Guildry%20Building.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Former%20Guildry%20Building.jpg",
       "coord": "Point(-2.5818918 56.558851)"
     },
     "195765": {
@@ -810,13 +810,13 @@
     "195905": {
       "qid": "Q56625815",
       "name": "Ye Lorne Bar, 17 Commerce Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-%20Ye%20Old%20Lorne%20Bar.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-%20Ye%20Old%20Lorne%20Bar.jpg",
       "coord": "Point(-2.5822268 56.558418)"
     },
     "222127": {
       "qid": "Q630683",
       "name": "Arbroath Abbey",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20abbey%20nave%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20abbey%20nave%2001.jpg",
       "coord": "Point(-2.582222222 56.5625)",
       "article": "https://en.wikipedia.org/wiki/Arbroath_Abbey"
     },
@@ -828,13 +828,13 @@
     "222124": {
       "qid": "Q17571778",
       "name": "Arbroath Abbey, Pend",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/ArbroathAbbey%20Pend.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/ArbroathAbbey%20Pend.jpg",
       "coord": "Point(-2.58351 56.5623)"
     },
     "222126": {
       "qid": "Q17571781",
       "name": "Arbroath Abbey, Regality Tower",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Abbey%20Regality%20Tower%2002.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Abbey%20Regality%20Tower%2002.jpg",
       "coord": "Point(-2.58393 56.5622)"
     },
     "195744": {
@@ -845,7 +845,7 @@
     "222203": {
       "qid": "Q17770945",
       "name": "89-91 High Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Prudential%20Buildings.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Prudential%20Buildings.jpg",
       "coord": "Point(-2.58111 56.5585)"
     },
     "195750": {
@@ -871,7 +871,7 @@
     "222725": {
       "qid": "Q17771537",
       "name": "Ladyloan School, Ladyloan, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Ladyloan%20School%20Building.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Ladyloan%20School%20Building.jpg",
       "coord": "Point(-2.58987 56.553)"
     },
     "222730": {
@@ -927,7 +927,7 @@
     "218447": {
       "qid": "Q56625817",
       "name": "Erskine Church, 6B Commerce Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Erskine%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Erskine%20House.jpg",
       "coord": "Point(-2.5819788 56.558159)"
     },
     "222703": {
@@ -973,7 +973,7 @@
     "222628": {
       "qid": "Q17771035",
       "name": "Trades Hall, 3-5 Commerce Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Trades%20hall%20detail.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Trades%20hall%20detail.jpg",
       "coord": "Point(-2.58174 56.5584)"
     },
     "222630": {
@@ -1009,7 +1009,7 @@
     "222685": {
       "qid": "Q17771213",
       "name": "20 Marketgate, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Gable%20end%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Gable%20end%20House.jpg",
       "coord": "Point(-2.58266 56.5567)"
     },
     "222692": {
@@ -1040,7 +1040,7 @@
     "222732": {
       "qid": "Q17771579",
       "name": "9 West Keptie Street, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20House.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20House.jpg",
       "coord": "Point(-2.59321 56.5593)"
     },
     "222740": {
@@ -1061,13 +1061,13 @@
     "222757": {
       "qid": "Q17771691",
       "name": "Fernery, Hospitalfield House, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hospitalfield%20House%20-%20view%20of%20fernery.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hospitalfield%20House%20-%20view%20of%20fernery.jpg",
       "coord": "Point(-2.60958 56.5544)"
     },
     "222760": {
       "qid": "Q17771748",
       "name": "Telephone Call Box, Kirk Square, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirk%20Square%20with%20telephone%20kiosk%20-%20geograph.org.uk%20-%20526770.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirk%20Square%20with%20telephone%20kiosk%20-%20geograph.org.uk%20-%20526770.jpg",
       "coord": "Point(-2.58098 56.5599)"
     },
     "222995": {
@@ -1083,7 +1083,7 @@
     "222966": {
       "qid": "Q17771810",
       "name": "No 66, Auchmithie",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/66%20Auchmithie.JPG",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/66%20Auchmithie.JPG",
       "coord": "Point(-2.5226 56.5893)"
     },
     "222991": {
@@ -1119,7 +1119,7 @@
     "223019": {
       "qid": "Q17772077",
       "name": "St Vigeans Primary School",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Vigeans%20School%20%28Former%29%20-%20geograph.org.uk%20-%201199382.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Vigeans%20School%20%28Former%29%20-%20geograph.org.uk%20-%201199382.jpg",
       "coord": "Point(-2.58819 56.5788)"
     },
     "222965": {
@@ -1175,7 +1175,7 @@
     "222669": {
       "qid": "Q56625812",
       "name": "Arbroath Guide, 19 Market Place, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Arbroath%20Guide%20Building.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Old%20Arbroath%20Guide%20Building.jpg",
       "coord": "Point(-2.5821197 56.558859)"
     },
     "222672": {
@@ -1221,7 +1221,7 @@
     "222784": {
       "qid": "Q17771955",
       "name": "Churchyard Walls, St Vigeans Parish Church",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigean%20churchyard%20wall%20Left.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigean%20churchyard%20wall%20Left.jpg",
       "coord": "Point(-2.59015 56.577)"
     },
     "222787": {
@@ -1232,37 +1232,37 @@
     "222808": {
       "qid": "Q17771967",
       "name": "Bridge, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20at%20St.%20Vigeans%2C%20Angus.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20at%20St.%20Vigeans%2C%20Angus.jpg",
       "coord": "Point(-2.58939 56.5766)"
     },
     "222812": {
       "qid": "Q17771986",
       "name": "2 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
       "coord": "Point(-2.59015 56.5771)"
     },
     "222813": {
       "qid": "Q17771986",
       "name": "2 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Museum%2020090616.jpg",
       "coord": "Point(-2.59015 56.5771)"
     },
     "222817": {
       "qid": "Q17772004",
       "name": "5 St Vigeans Cottages, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cottages%2C%20St.%20Vigeans%20-%20geograph.org.uk%20-%201059236.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cottages%2C%20St.%20Vigeans%20-%20geograph.org.uk%20-%201059236.jpg",
       "coord": "Point(-2.59055 56.5769)"
     },
     "222897": {
       "qid": "Q56606240",
       "name": "Bridge, Letham Mill",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20over%20Brothock%20Burn%20near%20Mains%20of%20Letham%2C%20Arbroath%20-%20geograph.org.uk%20-%201197965.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20over%20Brothock%20Burn%20near%20Mains%20of%20Letham%2C%20Arbroath%20-%20geograph.org.uk%20-%201197965.jpg",
       "coord": "Point(-2.5971839 56.583556)"
     },
     "222949": {
       "qid": "Q56615338",
       "name": "No 1-2, Auchmithie",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/1-3-Auchmithie.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/1-3-Auchmithie.jpg",
       "coord": "Point(-2.5236432 56.589125)"
     },
     "222950": {
@@ -1293,7 +1293,7 @@
     "222955": {
       "qid": "Q56615344",
       "name": "No 16, Auchmithie",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/16%20Auchmithie.JPG",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/16%20Auchmithie.JPG",
       "coord": "Point(-2.5218952 56.589887)"
     },
     "222956": {
@@ -1359,7 +1359,7 @@
     "251793": {
       "qid": "Q17772020",
       "name": "Letham House North Lodge, St Vigeans",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%20North%20Lodge.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Letham%20House%20North%20Lodge.jpg",
       "coord": "Point(-2.60006 56.581)"
     },
     "265808": {
@@ -1370,7 +1370,7 @@
     "288476": {
       "qid": "Q7592393",
       "name": "St Andrew's Parish Church, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Andrews%20Parish%20church%20on%20Hamilton%20Place%2C%20Arbroath%20%28geograph%204620870%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Andrews%20Parish%20church%20on%20Hamilton%20Place%2C%20Arbroath%20%28geograph%204620870%29.jpg",
       "coord": "Point(-2.584186 56.562788)",
       "article": "https://en.wikipedia.org/wiki/St_Andrew%27s_Parish_Church,_Arbroath"
     },
@@ -1387,7 +1387,7 @@
     "288418": {
       "qid": "Q136306393",
       "name": "Statue of Robert Burns, Arbroath",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Burns%20Statue%2C%20Arbroath%20Library%20-%20geograph.org.uk%20-%205398776.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Burns%20Statue%2C%20Arbroath%20Library%20-%20geograph.org.uk%20-%205398776.jpg",
       "coord": "Point(-2.5799 56.5598)"
     },
     "288467": {
@@ -1403,7 +1403,7 @@
     "338686": {
       "qid": "Q114169018",
       "name": "St Vigeans, St Vigeans Parish Church And Churchyard",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Parish%20Kirk%20-%20geograph.org.uk%20-%202067782.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Vigeans%20Parish%20Kirk%20-%20geograph.org.uk%20-%202067782.jpg",
       "coord": "Point(-2.5902198 56.576483)"
     }
   },

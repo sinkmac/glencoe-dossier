@@ -2,13 +2,13 @@
   "layer": "wikidata",
   "atom": "tiree",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:16:03Z",
+  "fetched_at": "2026-08-06T01:28:49Z",
   "status": "ok",
   "items": {
     "21407": {
       "qid": "Q2292002",
       "name": "Skerryvore Lighthouse",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Skerryvore%2001.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Skerryvore%2001.jpg",
       "coord": "Point(-7.11624 56.3231)",
       "article": "https://en.wikipedia.org/wiki/Skerryvore_Lighthouse"
     },
@@ -20,19 +20,19 @@
     "21416": {
       "qid": "Q1640745",
       "name": "Hynish Harbour, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20dock%20-%20geograph.org.uk%20-%20867277.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20dock%20-%20geograph.org.uk%20-%20867277.jpg",
       "coord": "Point(-6.89231 56.4493)"
     },
     "21415": {
       "qid": "Q17574966",
       "name": "Signal Tower, Lighthouse Shore Establishment, Hynish, ,",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20signal.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20signal.jpg",
       "coord": "Point(-6.89429 56.4481)"
     },
     "21451": {
       "qid": "Q17776996",
       "name": "Island House, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Island%20House%20-%20geograph.org.uk%20-%201459970.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Island%20House%20-%20geograph.org.uk%20-%201459970.jpg",
       "coord": "Point(-6.89816 56.4871)"
     },
     "21412": {
@@ -68,13 +68,13 @@
     "21477": {
       "qid": "Q40104914",
       "name": "St Patrick's Chapel",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Patrick%27s%20Chapel%20%28near%20Balephuill%20Bay%2C%20Tiree%29%20-%20geograph.org.uk%20-%20786495.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Patrick%27s%20Chapel%20%28near%20Balephuill%20Bay%2C%20Tiree%29%20-%20geograph.org.uk%20-%20786495.jpg",
       "coord": "Point(-6.9719803 56.45352)"
     },
     "21466": {
       "qid": "Q40344774",
       "name": "MacLean's cross",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Soroby%20Graveyard%20-%20geograph.org.uk%20-%20312981.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Soroby%20Graveyard%20-%20geograph.org.uk%20-%20312981.jpg",
       "coord": "Point(-6.899583333 56.470111111)"
     },
     "21473": {
@@ -90,7 +90,7 @@
     "21490": {
       "qid": "Q41477474",
       "name": "Caolas standing stone",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Standing%20stone%20near%20Caolas%20-%20geograph.org.uk%20-%20317177.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Standing%20stone%20near%20Caolas%20-%20geograph.org.uk%20-%20317177.jpg",
       "coord": "Point(-6.755611111 56.536027777)"
     },
     "21464": {
@@ -106,7 +106,7 @@
     "21492": {
       "qid": "Q56662146",
       "name": "Dun Mor a' Chaolais, broch and cup-marked rock, Millton, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Chaolais.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Chaolais.jpg",
       "coord": "Point(-6.7454671 56.530317)"
     },
     "21471": {
@@ -127,19 +127,19 @@
     "21465": {
       "qid": "Q56666202",
       "name": "Cladh Sorobaidh",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
       "coord": "Point(-6.8995844 56.470036)"
     },
     "21467": {
       "qid": "Q56666202",
       "name": "Cladh Sorobaidh",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
       "coord": "Point(-6.8995844 56.470036)"
     },
     "21537": {
       "qid": "Q65234078",
       "name": "Dun Heanish",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Heanish%20Beveridge%201903.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Heanish%20Beveridge%201903.jpg",
       "coord": "Point(-6.812236 56.489256)"
     },
     "21470": {
@@ -150,7 +150,7 @@
     "21524": {
       "qid": "Q1271556",
       "name": "Dun Mor Vaul",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Broch%2C%20Vaul%2C%20Tiree%20-%20geograph.org.uk%20-%203658004.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Broch%2C%20Vaul%2C%20Tiree%20-%20geograph.org.uk%20-%203658004.jpg",
       "coord": "Point(-6.8134521 56.542001)",
       "article": "https://en.wikipedia.org/wiki/Dun_Mor_Vaul"
     },
@@ -162,43 +162,43 @@
     "21408": {
       "qid": "Q31092733",
       "name": "Dun Hiader",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20shoreline%20at%20West%20Hynish%20-%20geograph.org.uk%20-%204485892.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20shoreline%20at%20West%20Hynish%20-%20geograph.org.uk%20-%204485892.jpg",
       "coord": "Point(-6.92799 56.44395)"
     },
     "21529": {
       "qid": "Q41446487",
       "name": "Balephetrish cup marked stone",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cup%20marks%20on%20the%20ringing%20stone%20-%20geograph.org.uk%20-%20317105.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cup%20marks%20on%20the%20ringing%20stone%20-%20geograph.org.uk%20-%20317105.jpg",
       "coord": "Point(-6.837916666 56.535611111)"
     },
     "21485": {
       "qid": "Q56662146",
       "name": "Dun Mor a' Chaolais, broch and cup-marked rock, Millton, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Chaolais.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Mor%20Chaolais.jpg",
       "coord": "Point(-6.7454671 56.530317)"
     },
     "21522": {
       "qid": "Q56662144",
       "name": "Kirkapol, church 200m NW of Lodge Hotel, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6362%20Kirkapol%20church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6362%20Kirkapol%20church.jpg",
       "coord": "Point(-6.8111659 56.524142)"
     },
     "21513": {
       "qid": "Q56662144",
       "name": "Kirkapol, church 200m NW of Lodge Hotel, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6362%20Kirkapol%20church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6362%20Kirkapol%20church.jpg",
       "coord": "Point(-6.8111659 56.524142)"
     },
     "21523": {
       "qid": "Q56662145",
       "name": "Kirkapol, chapel and cross-incised rocks 300m NW of Lodge Hotel, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
       "coord": "Point(-6.8117413 56.524956)"
     },
     "21502": {
       "qid": "Q56662145",
       "name": "Kirkapol, chapel and cross-incised rocks 300m NW of Lodge Hotel, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
       "coord": "Point(-6.8117413 56.524956)"
     },
     "70242": {
@@ -219,14 +219,14 @@
     "92820": {
       "qid": "Q1945992",
       "name": "Tiree Airport",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Loganair%20Viking%20Air%20DHC-6-400%20Twin%20Otter%20at%20Tiree%20Airport.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loganair%20Viking%20Air%20DHC-6-400%20Twin%20Otter%20at%20Tiree%20Airport.jpg",
       "coord": "Point(-6.88 56.5)",
       "article": "https://en.wikipedia.org/wiki/Tiree_Airport"
     },
     "70245": {
       "qid": "Q17776800",
       "name": "Kirkapol Parish Church",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirkapol%20Church%20of%20Scotland%20-%20Eaglais%20Chirceapoil%20-%20geograph.org.uk%20-%20562266.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirkapol%20Church%20of%20Scotland%20-%20Eaglais%20Chirceapoil%20-%20geograph.org.uk%20-%20562266.jpg",
       "coord": "Point(-6.81321 56.5198937)"
     },
     "145055": {
@@ -247,7 +247,7 @@
     "157426": {
       "qid": "Q17574926",
       "name": "1 Upper Square, Lighthouse Shore Establishment, Hynish",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
       "coord": "Point(-6.8948 56.4481)"
     },
     "157427": {
@@ -308,7 +308,7 @@
     "159076": {
       "qid": "Q40236842",
       "name": "Dr Buchanan's Monument",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Monument%20and%20Beach%20-%20geograph.org.uk%20-%2042323.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Monument%20and%20Beach%20-%20geograph.org.uk%20-%2042323.jpg",
       "coord": "Point(-6.83928 56.49168)"
     },
     "157461": {
@@ -319,7 +319,7 @@
     "157423": {
       "qid": "Q114711339",
       "name": "Tiree, Heylipol, Tiree Parish Church, Church Of Scotland",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Heylipol%20Church%2C%20Tiree%20-%20geograph.org.uk%20-%204071698.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Heylipol%20Church%2C%20Tiree%20-%20geograph.org.uk%20-%204071698.jpg",
       "coord": "Point(-6.9315972 56.482855)"
     },
     "202282": {
@@ -330,7 +330,7 @@
     "252062": {
       "qid": "Q17574921",
       "name": "4 Upper Square, Lighthouse Shore Establishment, Hynish",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
       "coord": "Point(-6.89456 56.4478)"
     },
     "252067": {
@@ -341,7 +341,7 @@
     "252061": {
       "qid": "Q17574951",
       "name": "3 Upper Square, Lighthouse Shore Establishment, Hynish,",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
       "coord": "Point(-6.89468 56.4479)"
     },
     "252064": {
@@ -367,25 +367,25 @@
     "252076": {
       "qid": "Q17574984",
       "name": "Dock, Hynish Harbour",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20dock%20-%20geograph.org.uk%20-%20867277.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20dock%20-%20geograph.org.uk%20-%20867277.jpg",
       "coord": "Point(-6.89265 56.449)"
     },
     "252068": {
       "qid": "Q17574990",
       "name": "Alan Stevenson House",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20Centre%20-%20geograph.org.uk%20-%20587567.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hynish%20Centre%20-%20geograph.org.uk%20-%20587567.jpg",
       "coord": "Point(-6.89258 56.4487)"
     },
     "252060": {
       "qid": "Q17574995",
       "name": "2 Upper Square, Lighthouse Shore Establishment, Hynish",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Lighthouse-keepers%27%20housing%20-%20geograph.org.uk%20-%20867254.jpg",
       "coord": "Point(-6.89477 56.448)"
     },
     "252077": {
       "qid": "Q17574992",
       "name": "Harbour Pier, Hynish",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Hynish%2C%20Isle%20of%20Tiree%20-%20Pier%20-%20geograph.org.uk%20-%2089483.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Hynish%2C%20Isle%20of%20Tiree%20-%20Pier%20-%20geograph.org.uk%20-%2089483.jpg",
       "coord": "Point(-6.89172 56.4492)"
     },
     "252066": {
@@ -491,7 +491,7 @@
     "294010": {
       "qid": "Q77777751",
       "name": "Congregational Church, Cornaig",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6514%20ruins%20of%20Cornaig%20Congregational%20Church.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6514%20ruins%20of%20Cornaig%20Congregational%20Church.jpg",
       "coord": "Point(-6.9063039 56.520989)"
     },
     "294070": {
@@ -507,7 +507,7 @@
     "319807": {
       "qid": "Q56662145",
       "name": "Kirkapol, chapel and cross-incised rocks 300m NW of Lodge Hotel, Tiree",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCN6359%20Kirkapol%20chapel.jpg",
       "coord": "Point(-6.8117413 56.524956)"
     },
     "318535": {
@@ -518,7 +518,7 @@
     "319808": {
       "qid": "Q56666202",
       "name": "Cladh Sorobaidh",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cladh%20Sorobaidh%2C%20Tiree%20-%20geograph.org.uk%20-%204178315.jpg",
       "coord": "Point(-6.8995844 56.470036)"
     },
     "315582": {

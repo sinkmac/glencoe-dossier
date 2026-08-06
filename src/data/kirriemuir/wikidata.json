@@ -2,7 +2,7 @@
   "layer": "wikidata",
   "atom": "kirriemuir",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:15:52Z",
+  "fetched_at": "2026-08-06T01:28:39Z",
   "status": "ok",
   "items": {
     "32312": {
@@ -13,7 +13,7 @@
     "32313": {
       "qid": "Q17777741",
       "name": "Old Parish Church, High Street, Kirriemuir",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Old%20Parish%20Church%20-%20geograph.org.uk%20-%204900386.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Old%20Parish%20Church%20-%20geograph.org.uk%20-%204900386.jpg",
       "coord": "Point(-3.0034 56.6729)"
     },
     "32202": {
@@ -89,7 +89,7 @@
     "32291": {
       "qid": "Q17777747",
       "name": "Town House, 31 High Street, Kirriemuir",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20to%20the%20Glens%20Museum%2C%20Kirriemuir%20%28geograph%205817097%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20to%20the%20Glens%20Museum%2C%20Kirriemuir%20%28geograph%205817097%29.jpg",
       "coord": "Point(-3.00413 56.6729)",
       "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_House"
     },
@@ -147,7 +147,7 @@
     "33734": {
       "qid": "Q6060317",
       "name": "Inverquharity Castle",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Inverquharity%20Castle%20bathed%20in%20winter%20sunshine%20-%20geograph.org.uk%20-%20650127.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Inverquharity%20Castle%20bathed%20in%20winter%20sunshine%20-%20geograph.org.uk%20-%20650127.jpg",
       "coord": "Point(-2.963374543 56.709544111)",
       "article": "https://en.wikipedia.org/wiki/Inverquharity_Castle"
     },
@@ -159,7 +159,7 @@
     "87643": {
       "qid": "Q17777613",
       "name": "Old Bridge, Shielhill Bridge",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shielhill%20Bridge%20-%20geograph.org.uk%20-%20479820.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Shielhill%20Bridge%20-%20geograph.org.uk%20-%20479820.jpg",
       "coord": "Point(-2.93773 56.7102)"
     },
     "33848": {
@@ -230,7 +230,7 @@
     "157520": {
       "qid": "Q17777602",
       "name": "Prosen Bridge",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prosen%20Bridge.%20-%20geograph.org.uk%20-%20117786.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Prosen%20Bridge.%20-%20geograph.org.uk%20-%20117786.jpg",
       "coord": "Point(-2.98991 56.7153)"
     },
     "194956": {
@@ -266,7 +266,7 @@
     "194970": {
       "qid": "Q56643260",
       "name": "Kirriemuir Town Hall and Library",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Town%20Hall%20and%20Library%2C%20Reform%20Street%2C%20Kirriemuir%20%28geograph%205817085%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Town%20Hall%20and%20Library%2C%20Reform%20Street%2C%20Kirriemuir%20%28geograph%205817085%29.jpg",
       "coord": "Point(-3.0027495 56.674222)",
       "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_Hall"
     },
@@ -313,7 +313,7 @@
     "194844": {
       "qid": "Q17777914",
       "name": "Cemetery, Kirriemuir",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Cemetery.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Cemetery.jpg",
       "coord": "Point(-2.99834 56.6779)"
     },
     "194856": {
@@ -545,7 +545,7 @@
     "194891": {
       "qid": "Q17777891",
       "name": "Wash House",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20Barrie%27s%20Birthplace%20-%20geograph.org.uk%20-%20393041.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20Barrie%27s%20Birthplace%20-%20geograph.org.uk%20-%20393041.jpg",
       "coord": "Point(-3.00167 56.6741)"
     },
     "195158": {
@@ -686,7 +686,7 @@
     "223705": {
       "qid": "Q17777729",
       "name": "Kinnordy House",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinnordy%2C%20Kirriemuir%20%28geograph%203063483%29.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Kinnordy%2C%20Kirriemuir%20%28geograph%203063483%29.jpg",
       "coord": "Point(-3.0347 56.683)",
       "article": "https://en.wikipedia.org/wiki/Kinnordy_House"
     },
@@ -743,7 +743,7 @@
     "223796": {
       "qid": "Q17777716",
       "name": "Ballindarg Bridge",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20over%20Gairie%20Burn%20at%20Mains%20of%20Ballindarg%2C%20near%20Forfar%20-%20geograph.org.uk%20-%201282233.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20over%20Gairie%20Burn%20at%20Mains%20of%20Ballindarg%2C%20near%20Forfar%20-%20geograph.org.uk%20-%201282233.jpg",
       "coord": "Point(-2.97003 56.6482)"
     },
     "223750": {
@@ -764,7 +764,7 @@
     "195117": {
       "qid": "Q17777843",
       "name": "Airlie Arms Hotel, St Malcolm's Wynd, Kirriemuir",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Airlie%20Arms%20Hotel%20-%20geograph.org.uk%20-%204900435.jpg",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Airlie%20Arms%20Hotel%20-%20geograph.org.uk%20-%204900435.jpg",
       "coord": "Point(-3.00519 56.6738)"
     },
     "223575": {

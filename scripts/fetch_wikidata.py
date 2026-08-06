@@ -95,6 +95,18 @@ def load_heritage_ids(slug):
     return ids
 
 
+def _https(url):
+    """Normalise a Wikimedia URL to https.
+
+    Wikidata P18 returns http://commons.wikimedia.org/... — on an HTTPS page the
+    browser blocks those as mixed content, so every thumbnail silently fails to
+    load. Special:FilePath is served over https; force it.
+    """
+    if url and url.startswith("http://"):
+        return "https://" + url[len("http://"):]
+    return url
+
+
 def fetch_canmore_join(chunk):
     """Return {canmore_id: {qid, name, image, coord, article}} for one ID chunk."""
     vals = " ".join(f'"{c}"' for c in chunk)
@@ -118,8 +130,8 @@ def fetch_canmore_join(chunk):
         entry = {
             "qid": row["item"].split("/")[-1],
             "name": row.get("itemLabel"),
-            "image": row.get("image"),   # full Special:FilePath URL — usable directly
-            "coord": row.get("coord"),    # WKT "Point(lon lat)"
+            "image": _https(row.get("image")),  # force https (mixed-content guard)
+            "coord": row.get("coord"),           # WKT "Point(lon lat)"
             "article": row.get("article"),
         }
         entry = {k: v for k, v in entry.items() if v is not None}

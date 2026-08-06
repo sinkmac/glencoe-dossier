@@ -22,6 +22,13 @@
     const cid = item.id.split(':').pop();
     return wdMap[cid] || null;
   }
+  // Defensive: force https on image URLs (Wikidata P18 can be http://, which
+  // the browser blocks as mixed content on an HTTPS page).
+  function wdImage(match) {
+    const img = match && match.image;
+    if (!img) return null;
+    return img.startsWith('http://') ? 'https://' + img.slice(7) : img;
+  }
 
   // ── Heritage: group by broadclass, cap per group, confidence count ─
   // Items carry (id, name, broadclass[], sitetype[], confidence, lat, lon,
@@ -119,7 +126,7 @@
               {#if wd}
                 <div class="herit-enrich">
                   {#if wd.image}
-                    <img class="herit-thumb" src="{wd.image}" alt="" loading="lazy" />
+                    <img class="herit-thumb" src="{wdImage(wd)}" alt="" loading="lazy" />
                   {/if}
                   <div class="herit-enrich-links">
                     {#if wd.article}
