@@ -2,9 +2,23 @@
   "layer": "wikidata",
   "atom": "auchmithie",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T12:04:34Z",
+  "fetched_at": "2026-08-06T13:59:34Z",
   "status": "ok",
   "items": {
+    "35474": {
+      "qid": "Q5147520",
+      "name": "Colliston Castle",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
+      "coord": "Point(-2.63282 56.608)",
+      "article": "https://en.wikipedia.org/wiki/Colliston_Castle"
+    },
+    "35616": {
+      "qid": "Q7512699",
+      "name": "Arbroath Signal Tower Museum",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
+      "coord": "Point(-2.586397925 56.554616111)",
+      "article": "https://en.wikipedia.org/wiki/Signal_Tower_Museum"
+    },
     "35617": {
       "qid": "Q17571784",
       "name": "Baltic Works, Dens Road, Arbroath",
@@ -60,20 +74,6 @@
       "qid": "Q114710202",
       "name": "Arbroath,'Collegiate Church'",
       "coord": "Point(-2.5873045 56.55958)"
-    },
-    "35474": {
-      "qid": "Q5147520",
-      "name": "Colliston Castle",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Colliston%20Castle.jpg",
-      "coord": "Point(-2.63282 56.608)",
-      "article": "https://en.wikipedia.org/wiki/Colliston_Castle"
-    },
-    "35616": {
-      "qid": "Q7512699",
-      "name": "Arbroath Signal Tower Museum",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath%20Signal%20Tower%20Museum.jpg",
-      "coord": "Point(-2.586397925 56.554616111)",
-      "article": "https://en.wikipedia.org/wiki/Signal_Tower_Museum"
     },
     "35546": {
       "qid": "Q630683",
@@ -142,27 +142,6 @@
       "name": "Maiden Castle, East Seaton",
       "coord": "Point(-2.54058 56.56905)"
     },
-    "115370": {
-      "qid": "Q17771074",
-      "name": "No. 88 High Street (Former Town House), Arbroath",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20sheriff%20court%20-%20geograph.org.uk%20-%201195590.jpg",
-      "coord": "Point(-2.58194 56.5587)",
-      "article": "https://en.wikipedia.org/wiki/Arbroath_Town_House"
-    },
-    "115056": {
-      "qid": "Q17771102",
-      "name": "The Corn Exchange",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Corn%20Exchange-Weatherspoons.jpg",
-      "coord": "Point(-2.58252 56.5585)",
-      "article": "https://en.wikipedia.org/wiki/Corn_Exchange,_Arbroath"
-    },
-    "77712": {
-      "qid": "Q17771815",
-      "name": "Letham Grange",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20Hotel%20-%20geograph.org.uk%20-%20111597.jpg",
-      "coord": "Point(-2.61317 56.6015)",
-      "article": "https://en.wikipedia.org/wiki/Letham_Grange_estate"
-    },
     "114865": {
       "qid": "Q17771629",
       "name": "Water Tower, Keptie Hill, Arbroath",
@@ -189,6 +168,27 @@
       "qid": "Q77782636",
       "name": "Arbroath Community Centre (former Drill Hall), Marketgate, Arbroath",
       "coord": "Point(-2.583345 56.557074)"
+    },
+    "115370": {
+      "qid": "Q17771074",
+      "name": "No. 88 High Street (Former Town House), Arbroath",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/The%20sheriff%20court%20-%20geograph.org.uk%20-%201195590.jpg",
+      "coord": "Point(-2.58194 56.5587)",
+      "article": "https://en.wikipedia.org/wiki/Arbroath_Town_House"
+    },
+    "115056": {
+      "qid": "Q17771102",
+      "name": "The Corn Exchange",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Arbroath-Corn%20Exchange-Weatherspoons.jpg",
+      "coord": "Point(-2.58252 56.5585)",
+      "article": "https://en.wikipedia.org/wiki/Corn_Exchange,_Arbroath"
+    },
+    "77712": {
+      "qid": "Q17771815",
+      "name": "Letham Grange",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Letham%20Grange%20Hotel%20-%20geograph.org.uk%20-%20111597.jpg",
+      "coord": "Point(-2.61317 56.6015)",
+      "article": "https://en.wikipedia.org/wiki/Letham_Grange_estate"
     },
     "183413": {
       "qid": "Q5117578",
