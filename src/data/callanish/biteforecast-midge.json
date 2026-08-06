@@ -2,9 +2,9 @@
   "contract": "0.1",
   "layer": "biteforecast_midge",
   "face": "conditions",
-  "source": "open-meteo",
+  "source": "met-office-global-spot",
   "cadence_hours": 3,
-  "updated_at": "2026-07-22T01:30:52.367Z",
+  "updated_at": "2026-08-06T00:23:58.762Z",
   "disclaimer": "Midge forecasts are guidance only. Real conditions vary with wind, cloud cover, and local microclimate.",
   "items": [],
   "gap": {

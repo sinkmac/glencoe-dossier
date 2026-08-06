@@ -4,11 +4,11 @@
   "face": "conditions",
   "source": "open-meteo",
   "cadence_hours": 12,
-  "updated_at": "2026-07-22T01:30:50Z",
+  "updated_at": "2026-08-06T00:23:57Z",
   "disclaimer": "Forecast guidance only. Not a substitute for MWIS, SAIS, or your own judgement.",
   "items": [
     {
-      "id": "munro_windows:bidean-nam-bian:2026-07-22",
+      "id": "munro_windows:bidean-nam-bian:2026-08-06",
       "where": {
         "atom": "bidean-nam-bian",
         "lat": 56.643,
@@ -17,242 +17,8 @@
         "precision": "exact"
       },
       "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T13:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "fair",
-        "headline": "5-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 5,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:bidean-nam-bian:2026-07-23",
-      "where": {
-        "atom": "bidean-nam-bian",
-        "lat": 56.643,
-        "lon": -5.029,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T18:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "good",
-        "headline": "10-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 10,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:buachaille-etive-mor:2026-07-22",
-      "where": {
-        "atom": "buachaille-etive-mor",
-        "lat": 56.647,
-        "lon": -4.898,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T13:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "fair",
-        "headline": "5-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 5,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:buachaille-etive-mor:2026-07-23",
-      "where": {
-        "atom": "buachaille-etive-mor",
-        "lat": 56.647,
-        "lon": -4.898,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T18:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "good",
-        "headline": "10-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 10,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:stob-coire-sgreamhach:2026-07-22",
-      "where": {
-        "atom": "stob-coire-sgreamhach",
-        "lat": 56.633,
-        "lon": -5.047,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T13:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "fair",
-        "headline": "5-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 5,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:stob-coire-sgreamhach:2026-07-23",
-      "where": {
-        "atom": "stob-coire-sgreamhach",
-        "lat": 56.633,
-        "lon": -5.047,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T15:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "good",
-        "headline": "7-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 7,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:beinn-a-chrulaiste:2026-07-22",
-      "where": {
-        "atom": "beinn-a-chrulaiste",
-        "lat": 56.657,
-        "lon": -4.912,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T13:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "fair",
-        "headline": "5-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 5,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:beinn-a-chrulaiste:2026-07-23",
-      "where": {
-        "atom": "beinn-a-chrulaiste",
-        "lat": 56.657,
-        "lon": -4.912,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T18:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "good",
-        "headline": "10-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 10,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:ben-nevis:2026-07-22",
-      "where": {
-        "atom": "ben-nevis",
-        "lat": 56.797,
-        "lon": -5.004,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T13:00:00+01:00",
-        "kind": "window"
-      },
-      "what": {
-        "type": "condition/summit-window",
-        "status": "fair",
-        "headline": "5-hour window from 08:00"
-      },
-      "payload": {
-        "window_hours": 5,
-        "wind_limit_kmh": 50,
-        "precip_limit_pct": 30,
-        "visibility_limit_m": 5000
-      }
-    },
-    {
-      "id": "munro_windows:ben-nevis:2026-07-23",
-      "where": {
-        "atom": "ben-nevis",
-        "lat": 56.797,
-        "lon": -5.004,
-        "region": "highland",
-        "precision": "exact"
-      },
-      "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T14:00:00+01:00",
+        "start": "2026-08-06T08:00:00+01:00",
+        "end": "2026-08-06T14:00:00+01:00",
         "kind": "window"
       },
       "what": {
@@ -268,17 +34,17 @@
       }
     },
     {
-      "id": "munro_windows:ben-lawers:2026-07-22",
+      "id": "munro_windows:bidean-nam-bian:2026-08-11",
       "where": {
-        "atom": "ben-lawers",
-        "lat": 56.545,
-        "lon": -4.221,
-        "region": "perthshire",
+        "atom": "bidean-nam-bian",
+        "lat": 56.643,
+        "lon": -5.029,
+        "region": "highland",
         "precision": "exact"
       },
       "when": {
-        "start": "2026-07-22T08:00:00+01:00",
-        "end": "2026-07-22T19:00:00+01:00",
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
         "kind": "window"
       },
       "what": {
@@ -294,43 +60,69 @@
       }
     },
     {
-      "id": "munro_windows:ben-lawers:2026-07-23",
+      "id": "munro_windows:bidean-nam-bian:2026-08-12",
       "where": {
-        "atom": "ben-lawers",
-        "lat": 56.545,
-        "lon": -4.221,
-        "region": "perthshire",
+        "atom": "bidean-nam-bian",
+        "lat": 56.643,
+        "lon": -5.029,
+        "region": "highland",
         "precision": "exact"
       },
       "when": {
-        "start": "2026-07-23T08:00:00+01:00",
-        "end": "2026-07-23T16:00:00+01:00",
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T13:00:00+01:00",
         "kind": "window"
       },
       "what": {
         "type": "condition/summit-window",
-        "status": "good",
-        "headline": "8-hour window from 08:00"
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
       },
       "payload": {
-        "window_hours": 8,
+        "window_hours": 5,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
       }
     },
     {
-      "id": "munro_windows:ben-lawers:2026-07-24",
+      "id": "munro_windows:buachaille-etive-mor:2026-08-06",
       "where": {
-        "atom": "ben-lawers",
-        "lat": 56.545,
-        "lon": -4.221,
-        "region": "perthshire",
+        "atom": "buachaille-etive-mor",
+        "lat": 56.647,
+        "lon": -4.898,
+        "region": "highland",
         "precision": "exact"
       },
       "when": {
-        "start": "2026-07-24T08:00:00+01:00",
-        "end": "2026-07-24T19:00:00+01:00",
+        "start": "2026-08-06T08:00:00+01:00",
+        "end": "2026-08-06T14:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "6-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 6,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:buachaille-etive-mor:2026-08-11",
+      "where": {
+        "atom": "buachaille-etive-mor",
+        "lat": 56.647,
+        "lon": -4.898,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
         "kind": "window"
       },
       "what": {
@@ -340,6 +132,344 @@
       },
       "payload": {
         "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:buachaille-etive-mor:2026-08-12",
+      "where": {
+        "atom": "buachaille-etive-mor",
+        "lat": 56.647,
+        "lon": -4.898,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T15:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "7-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 7,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:stob-coire-sgreamhach:2026-08-06",
+      "where": {
+        "atom": "stob-coire-sgreamhach",
+        "lat": 56.633,
+        "lon": -5.047,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-06T08:00:00+01:00",
+        "end": "2026-08-06T14:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "6-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 6,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:stob-coire-sgreamhach:2026-08-11",
+      "where": {
+        "atom": "stob-coire-sgreamhach",
+        "lat": 56.633,
+        "lon": -5.047,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "11-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:stob-coire-sgreamhach:2026-08-12",
+      "where": {
+        "atom": "stob-coire-sgreamhach",
+        "lat": 56.633,
+        "lon": -5.047,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T13:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "fair",
+        "headline": "5-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 5,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:beinn-a-chrulaiste:2026-08-06",
+      "where": {
+        "atom": "beinn-a-chrulaiste",
+        "lat": 56.657,
+        "lon": -4.912,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-06T08:00:00+01:00",
+        "end": "2026-08-06T14:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "6-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 6,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:beinn-a-chrulaiste:2026-08-11",
+      "where": {
+        "atom": "beinn-a-chrulaiste",
+        "lat": 56.657,
+        "lon": -4.912,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "11-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:beinn-a-chrulaiste:2026-08-12",
+      "where": {
+        "atom": "beinn-a-chrulaiste",
+        "lat": 56.657,
+        "lon": -4.912,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T15:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "7-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 7,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-nevis:2026-08-11",
+      "where": {
+        "atom": "ben-nevis",
+        "lat": 56.797,
+        "lon": -5.004,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "11-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-nevis:2026-08-12",
+      "where": {
+        "atom": "ben-nevis",
+        "lat": 56.797,
+        "lon": -5.004,
+        "region": "highland",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T15:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "7-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 7,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-lawers:2026-08-06",
+      "where": {
+        "atom": "ben-lawers",
+        "lat": 56.545,
+        "lon": -4.221,
+        "region": "perthshire",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-06T08:00:00+01:00",
+        "end": "2026-08-06T19:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "11-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-lawers:2026-08-10",
+      "where": {
+        "atom": "ben-lawers",
+        "lat": 56.545,
+        "lon": -4.221,
+        "region": "perthshire",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-10T08:00:00+01:00",
+        "end": "2026-08-10T12:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "fair",
+        "headline": "4-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 4,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-lawers:2026-08-11",
+      "where": {
+        "atom": "ben-lawers",
+        "lat": 56.545,
+        "lon": -4.221,
+        "region": "perthshire",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-11T08:00:00+01:00",
+        "end": "2026-08-11T19:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "11-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 11,
+        "wind_limit_kmh": 50,
+        "precip_limit_pct": 30,
+        "visibility_limit_m": 5000
+      }
+    },
+    {
+      "id": "munro_windows:ben-lawers:2026-08-12",
+      "where": {
+        "atom": "ben-lawers",
+        "lat": 56.545,
+        "lon": -4.221,
+        "region": "perthshire",
+        "precision": "exact"
+      },
+      "when": {
+        "start": "2026-08-12T08:00:00+01:00",
+        "end": "2026-08-12T15:00:00+01:00",
+        "kind": "window"
+      },
+      "what": {
+        "type": "condition/summit-window",
+        "status": "good",
+        "headline": "7-hour window from 08:00"
+      },
+      "payload": {
+        "window_hours": 7,
         "wind_limit_kmh": 50,
         "precip_limit_pct": 30,
         "visibility_limit_m": 5000
