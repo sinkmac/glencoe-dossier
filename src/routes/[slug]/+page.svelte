@@ -1,4 +1,6 @@
 <script>
+  import NatureLayer from '../../components/NatureLayer.svelte';
+
   let { data } = $props();
 
   const { slug, atom, layers, wikidata } = data;
@@ -6,6 +8,9 @@
   // ── Layer separation ──────────────────────────────────────────────
   const heritageLayer = layers.find((l) => l.family === 'heritage');
   const heritage = heritageLayer?.data ?? null;
+
+  const natureLayer = layers.find((l) => l.family === 'nature');
+  const nature = natureLayer?.data ?? null;
 
   const conditionLayers = layers.filter((l) => l.family === 'condition');
   const cultureLayers = layers.filter((l) => l.family === 'culture');
@@ -190,6 +195,11 @@
         {/each}
       {/each}
     </section>
+  {/if}
+
+  <!-- Nature -->
+  {#if nature}
+    <NatureLayer data={nature} />
   {/if}
 
   <!-- Culture (e.g. vigil alignments) -->

@@ -12,7 +12,8 @@ const LAYER_FILES = {
   'heritage.json': 'heritage',
   'biteforecast-midge.json': 'condition',
   'munro-windows.json': 'condition',
-  'vigil-alignments.json': 'culture'
+  'vigil-alignments.json': 'culture',
+  'nature.json': 'nature'
 };
 
 // Atoms that ship a heritage layer (the four place pages). These are the
