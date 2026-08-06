@@ -4,11 +4,11 @@
   "face": "conditions",
   "source": "met-office-global-spot",
   "cadence_hours": 3,
-  "updated_at": "2026-08-06T12:34:57.355Z",
+  "updated_at": "2026-08-06T13:06:59.759Z",
   "disclaimer": "Midge forecasts are guidance only. Real conditions vary with wind, cloud cover, and local microclimate.",
   "items": [
     {
-      "id": "biteforecast_midge:glencoe:2026-08-06T12",
+      "id": "biteforecast_midge:glencoe:2026-08-06T13",
       "where": {
         "atom": "glencoe",
         "lat": 56.682,
@@ -17,8 +17,8 @@
         "precision": "exact"
       },
       "when": {
-        "start": "2026-08-06T12:34:57.355Z",
-        "end": "2026-08-06T15:34:57.355Z",
+        "start": "2026-08-06T13:06:59.759Z",
+        "end": "2026-08-06T16:06:59.759Z",
         "kind": "window"
       },
       "what": {

@@ -4,7 +4,7 @@
   "face": "culture",
   "source": "standing-stones-canon",
   "cadence_hours": 24,
-  "updated_at": "2026-08-06T12:34:57.656Z",
+  "updated_at": "2026-08-06T13:07:00.176Z",
   "disclaimer": "Alignment data based on published archaeoastronomy research. Dates are astronomical, not meteorological.",
   "items": [
     {
@@ -31,7 +31,7 @@
         "nextDate": "2027-06-20",
         "daysUntil": 318,
         "event": "sunset",
-        "windowDescription": "Sunset around 09:08. Alignment visible from 20 June 2027 to 20 June 2027, roughly 0 days before to 0 days after the summer solstice.",
+        "windowDescription": "Sunset around 21:08. Alignment visible from 20 June 2027 to 20 June 2027, roughly 0 days before to 0 days after the summer solstice.",
         "register": {
           "total_vigils": 0,
           "seen_count": 0,
