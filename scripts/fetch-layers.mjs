@@ -103,6 +103,24 @@ function runHeritage() {
   }
 }
 
+/**
+ * Run the Wikidata join adapter (public SPARQL endpoint, build-time cache).
+ * Unlike heritage, this queries a live public endpoint — no local prereqs —
+ * so it always runs. Results are written to src/data/<atom>/wikidata.json and
+ * committed; absence of a match is the default, not a failure.
+ */
+function runWikidata() {
+  const scriptPath = resolve(__dirname, 'fetch_wikidata.py');
+  try {
+    const output = execSync(`python3 "${scriptPath}"`, { timeout: 180000, encoding: 'utf-8' });
+    console.log(output.trim().split('\n').map(l => `  ${l}`).join('\n'));
+    return 0;
+  } catch (e) {
+    console.error(`  ✗ wikidata adapter failed: ${e.message}`);
+    return 1;
+  }
+}
+
 /** Fetch all layers for a single location */
 async function fetchLocation(slug, { lat, lon, label }) {
   console.log(`\n--- ${label} ---`);
@@ -146,6 +164,10 @@ async function main() {
   // Heritage layer (static Canmore shapefile) — independent of the live locations
   console.log('\n--- Heritage (Canmore Points) ---');
   totalFailures += runHeritage();
+
+  // Wikidata join layer (live public SPARQL, build-time cache) — independent
+  console.log('\n--- Wikidata join ---');
+  totalFailures += runWikidata();
 
   if (totalFailures > 0) {
     console.error(`\n${totalFailures} layer(s) failed. Build will use stale data if it exists.`);

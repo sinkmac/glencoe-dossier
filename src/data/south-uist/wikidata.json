@@ -1,0 +1,706 @@
+{
+  "layer": "wikidata",
+  "atom": "south-uist",
+  "source": "wikidata",
+  "fetched_at": "2026-08-06T01:07:54Z",
+  "status": "ok",
+  "items": {
+    "9825": {
+      "qid": "Q2184972",
+      "name": "Dun Vulan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dun%20Vulan%2020090609%2002.jpg",
+      "coord": "Point(-7.4491852 57.240621)",
+      "article": "https://en.wikipedia.org/wiki/Dun_Vulan"
+    },
+    "9962": {
+      "qid": "Q2247093",
+      "name": "Borve Castle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Borve%20Castle%2020090609%20from%20north%20west.jpg",
+      "coord": "Point(-7.37722 57.4305)",
+      "article": "https://en.wikipedia.org/wiki/Borve_Castle,_Benbecula"
+    },
+    "10130": {
+      "qid": "Q5024217",
+      "name": "Calvay Castle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Calbhaigh%20castle%20-%20geograph.org.uk%20-%20878406.jpg",
+      "coord": "Point(-7.2637 57.1434)",
+      "article": "https://en.wikipedia.org/wiki/Calvay_Castle"
+    },
+    "9886": {
+      "qid": "Q51076182",
+      "name": "An Carra, standing stone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Beinn%20a%27%20Charra%20Standing%20Stone%20-%20geograph.org.uk%20-%2093061.jpg",
+      "coord": "Point(-7.3592955 57.265205)"
+    },
+    "9963": {
+      "qid": "Q56661696",
+      "name": "Teampull Bhuirgh,chapel and settlement 450m SW of Borve Castle",
+      "coord": "Point(-7.3849072 57.42769)"
+    },
+    "9880": {
+      "qid": "Q56661752",
+      "name": "Caisteal Bheagram,castle,Drimsdale",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Caisteal%20Bheagram%20-%20geograph.org.uk%20-%201342481.jpg",
+      "coord": "Point(-7.3807368 57.30914)"
+    },
+    "9867": {
+      "qid": "Q56664107",
+      "name": "Loch an Duin,dun,Daliburgh",
+      "coord": "Point(-7.3886875 57.175859)"
+    },
+    "9873": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9872": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9869": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9870": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9874": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9871": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "9879": {
+      "qid": "Q56666253",
+      "name": "Dun Raouill,dun,Loch Druidibeg",
+      "coord": "Point(-7.3522789 57.310474)"
+    },
+    "9897": {
+      "qid": "Q2968325",
+      "name": "Ormacleit Castle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ormacleit%20Castle%2020090609.jpg",
+      "coord": "Point(-7.40911 57.2603)",
+      "article": "https://en.wikipedia.org/wiki/Ormacleit_Castle"
+    },
+    "9899": {
+      "qid": "Q56661399",
+      "name": "Crois Chnoca Breaca,standing stone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Standing%20Stone%20-%20geograph.org.uk%20-%201370929.jpg",
+      "coord": "Point(-7.4212259 57.276429)"
+    },
+    "9901": {
+      "qid": "Q56662158",
+      "name": "Dun Altabrug,dun and causeway",
+      "coord": "Point(-7.3977353 57.284147)"
+    },
+    "10143": {
+      "qid": "Q56664059",
+      "name": "Gro Ghot,cairn and shieling,Usinish",
+      "coord": "Point(-7.2177306 57.29137)"
+    },
+    "9919": {
+      "qid": "Q56664110",
+      "name": "Dun Uiselan,dun and causeway",
+      "coord": "Point(-7.3644461 57.384189)"
+    },
+    "9918": {
+      "qid": "Q56664111",
+      "name": "Dun na Buail'uachdraich,dun",
+      "coord": "Point(-7.3656055 57.390511)"
+    },
+    "9917": {
+      "qid": "Q56664112",
+      "name": "Dun Buidhe,broch,Eochar",
+      "coord": "Point(-7.3727206 57.392205)"
+    },
+    "10151": {
+      "qid": "Q56666251",
+      "name": "Uamh Iosal,souterrain 800m W of,Usinish Bay",
+      "coord": "Point(-7.2403213 57.280557)"
+    },
+    "9840": {
+      "qid": "Q56668671",
+      "name": "shielings 460m ENE of Kildonan Museum",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Taigh-Tasgaish%20Chill%20Donnain%20-%20geograph.org.uk%20-%201362068.jpg",
+      "coord": "Point(-7.3882032 57.222938)"
+    },
+    "10206": {
+      "qid": "Q31119966",
+      "name": "Benbecula, Loch Hermidale",
+      "coord": "Point(-7.29323 57.45016)"
+    },
+    "10205": {
+      "qid": "Q56664055",
+      "name": "Airidh na h-Aon Oidche,chambered cairn",
+      "coord": "Point(-7.3085288 57.450764)"
+    },
+    "10204": {
+      "qid": "Q56666250",
+      "name": "Stiaraval, chambered cairn & shielings, Griminish, Benbecula",
+      "coord": "Point(-7.3166816 57.451382)"
+    },
+    "9972": {
+      "qid": "Q3006370",
+      "name": "Nunton Church",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Nunton%20Church%20-%20Benbecula%20-%20from%20the%20west%2020090609.jpg",
+      "coord": "Point(-7.3943846 57.45879)"
+    },
+    "9796": {
+      "qid": "Q17853875",
+      "name": "South Boisdale Burial Ground, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae150.jpg",
+      "coord": "Point(-7.39592 57.1311)"
+    },
+    "9974": {
+      "qid": "Q56663520",
+      "name": "Eilean Iain,dun,Loch Eilean Iain,Benbecula",
+      "coord": "Point(-7.3566166 57.457894)"
+    },
+    "9973": {
+      "qid": "Q56664113",
+      "name": "Dun Torcusay,dun 290m ESE of Garry-a-siar, Benbecula",
+      "coord": "Point(-7.4011012 57.452607)"
+    },
+    "9970": {
+      "qid": "Q56664771",
+      "name": "Teampull and Tobar Chaluim Chille, church and well, Balivanich",
+      "coord": "Point(-7.3696276 57.469731)"
+    },
+    "9959": {
+      "qid": "Q56665886",
+      "name": "Dun Buidhe,dun",
+      "coord": "Point(-7.3491166 57.467905)"
+    },
+    "9784": {
+      "qid": "Q56668658",
+      "name": "Dun Trossary, long cairn 200m SE of Trossary",
+      "coord": "Point(-7.3567528 57.125898)"
+    },
+    "9791": {
+      "qid": "Q114711173",
+      "name": "South Uist, North Boisdale, Free Church",
+      "coord": "Point(-7.389148 57.145862)"
+    },
+    "9817": {
+      "qid": "Q56661386",
+      "name": "South Uist, Pollachar Standing Stone",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pollacher%20standing%20stone%20-%20geograph.org.uk%20-%20602077.jpg",
+      "coord": "Point(-7.3764873 57.105136)"
+    },
+    "9851": {
+      "qid": "Q56664066",
+      "name": "Loch a' Bharp, chambered cairn 1200m SSW of Beinn-ri-Oitir",
+      "coord": "Point(-7.3338071 57.170443)"
+    },
+    "9849": {
+      "qid": "Q56664106",
+      "name": "Eilean an Staoir,dun 300m SSW of Milton House",
+      "coord": "Point(-7.4131406 57.207472)"
+    },
+    "9855": {
+      "qid": "Q56664105",
+      "name": "Bruthach an Tionail Ard,wheelhouse settlement,Kilpheder",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Wheelhouse%2C%20Cille%20Pheadair%20-%20geograph.org.uk%20-%201372744.jpg",
+      "coord": "Point(-7.4059497 57.155918)"
+    },
+    "9846": {
+      "qid": "Q56664109",
+      "name": "dun 250m S of Kildonan School",
+      "coord": "Point(-7.3959234 57.21969)"
+    },
+    "9818": {
+      "qid": "Q56666255",
+      "name": "Barp,chambered cairn 275m S of Loch an Ath Ruaidh,Daliburgh",
+      "coord": "Point(-7.3767831 57.209138)"
+    },
+    "108429": {
+      "qid": "Q496371",
+      "name": "Cladh Hallan",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bronze%20Age%20Settlement%20-%20geograph.org.uk%20-%201340839.jpg",
+      "coord": "Point(-7.40759 57.1712)",
+      "article": "https://en.wikipedia.org/wiki/Cladh_Hallan"
+    },
+    "90522": {
+      "qid": "Q1658886",
+      "name": "Benbecula Airport",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Benbecula%20aeroport.jpg",
+      "coord": "Point(-7.362777777 57.481111111)",
+      "article": "https://en.wikipedia.org/wiki/Benbecula_Airport"
+    },
+    "77962": {
+      "qid": "Q56662157",
+      "name": "Gearraidh Bhailteas (Garryvaltos),settlement 250m NNE of Milton House",
+      "coord": "Point(-7.4101326 57.212516)"
+    },
+    "106635": {
+      "qid": "Q56666254",
+      "name": "Teampull Moire,churches,chapels and enclosures,Howmore",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/North%20Uist%20Fae099.jpg",
+      "coord": "Point(-7.3850252 57.30334)"
+    },
+    "123357": {
+      "qid": "Q17853917",
+      "name": "Nunton Steading, Benbecula, South Uist",
+      "coord": "Point(-7.39639 57.4578)"
+    },
+    "126070": {
+      "qid": "Q17853913",
+      "name": "4a Rhughasinish, South Uist",
+      "coord": "Point(-7.290592891 57.382668809)"
+    },
+    "135938": {
+      "qid": "Q77782818",
+      "name": "379 Garrynamonie, Isle of South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Ge%C3%A0rraidh%20na%20M%C3%B2nadh%20-%20geograph.org.uk%20-%201401312.jpg",
+      "coord": "Point(-7.3832992 57.122751)"
+    },
+    "314207": {
+      "qid": "Q124514095",
+      "name": "Benbecula Brickworks",
+      "coord": "Point(-7.3598062 57.470753)"
+    },
+    "171960": {
+      "qid": "Q17853643",
+      "name": "Pollachar Inn, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Pollochar%20Inn%20-%20geograph.org.uk%20-%20570763.jpg",
+      "coord": "Point(-7.37544 57.1052)"
+    },
+    "172077": {
+      "qid": "Q17853679",
+      "name": "Boisdale House, South Lochboisdale, South Uist",
+      "coord": "Point(-7.33829 57.1369)"
+    },
+    "170912": {
+      "qid": "Q17853809",
+      "name": "Nunton Farmhouse, Benbecula",
+      "coord": "Point(-7.39723 57.4562)"
+    },
+    "171988": {
+      "qid": "Q17853823",
+      "name": "Daliburgh Parish Church, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Dalabrog%20Church%20-%20geograph.org.uk%20-%201364676.jpg",
+      "coord": "Point(-7.37418 57.168)"
+    },
+    "135840": {
+      "qid": "Q17853840",
+      "name": "Drimore Farmhouse, South Uist",
+      "coord": "Point(-7.37315 57.3378)"
+    },
+    "171956": {
+      "qid": "Q17853897",
+      "name": "St Michael's Church, Ardkenneth, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%27s%20Church%2C%20%C3%80ird%20Choinnich%20-%20geograph.org.uk%20-%201478986.jpg",
+      "coord": "Point(-7.39689 57.3876)"
+    },
+    "171959": {
+      "qid": "Q56623714",
+      "name": "West Kilbride Walled Garden, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Organic%20Garden%2C%20free-range%20hens%27%20eggs%2C%20etc%20-%20geograph.org.uk%20-%201379776.jpg",
+      "coord": "Point(-7.3556807 57.103518)"
+    },
+    "135961": {
+      "qid": "Q56623724",
+      "name": "Bornish House, South Uist",
+      "coord": "Point(-7.4127495 57.244117)"
+    },
+    "172074": {
+      "qid": "Q77773202",
+      "name": "School, Lochboisdale, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/School%20Board%20of%20South%20Uist%2C%201909%20-%20geograph.org.uk%20-%201521389.jpg",
+      "coord": "Point(-7.3196528 57.15878)"
+    },
+    "171962": {
+      "qid": "Q108408490",
+      "name": "St Mary's Roman Catholic Church, Bornish, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Marys%20Church%2C%20Bornish%20%28geograph%202570109%29.jpg",
+      "coord": "Point(-7.4180571 57.240927)"
+    },
+    "170897": {
+      "qid": "Q114709212",
+      "name": "Benbecula, Griminish, Church Of Scotland",
+      "coord": "Point(-7.3529012 57.441998)"
+    },
+    "170896": {
+      "qid": "Q114710251",
+      "name": "Benbecula, Griminish, St Mary's R C Church",
+      "coord": "Point(-7.3714012 57.44398)"
+    },
+    "172071": {
+      "qid": "Q114711172",
+      "name": "South Uist, Lochboisdale, Parish Church",
+      "coord": "Point(-7.3095416 57.152955)"
+    },
+    "172178": {
+      "qid": "Q17575075",
+      "name": "Seann Taigh, 472a South Lochboisdale, Isle of South Uist",
+      "coord": "Point(-7.31553888 57.135934375)"
+    },
+    "238245": {
+      "qid": "Q17853657",
+      "name": "11 Rhughasinish, South Uist",
+      "coord": "Point(-7.29872 57.3856)"
+    },
+    "238380": {
+      "qid": "Q17853668",
+      "name": "The Shieling by the Bay, Rhughasinish, Loch Carnan, Isle of South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Restored%20cottage%20at%20Rubha%20Ghaisinis%20-%20geograph.org.uk%20-%20505765.jpg",
+      "coord": "Point(-7.29035 57.3804)"
+    },
+    "238227": {
+      "qid": "Q17853736",
+      "name": "Thatched Cottage, Stilligarry, South Uist",
+      "coord": "Point(-7.36904 57.3231)"
+    },
+    "238298": {
+      "qid": "Q17853748",
+      "name": "7 West Gerinish, South Uist",
+      "coord": "Point(-7.362720282 57.352476651)"
+    },
+    "238246": {
+      "qid": "Q17853756",
+      "name": "Byre, West Kilbride",
+      "coord": "Point(-7.361760829 57.10735968)"
+    },
+    "238230": {
+      "qid": "Q17853773",
+      "name": "6 Hacklet, 5, South Uist, Lewis",
+      "coord": "Point(-7.30436 57.4119)"
+    },
+    "238382": {
+      "qid": "Q17853783",
+      "name": "1 Aird Cumhang, Hacklet, Isle of Benbecula",
+      "coord": "Point(-7.27789 57.4106)"
+    },
+    "238157": {
+      "qid": "Q17853832",
+      "name": "Thatched Cottage, Daliburgh, South Uist",
+      "coord": "Point(-7.392919528 57.163877108)"
+    },
+    "238140": {
+      "qid": "Q17853844",
+      "name": "Corrodale Cottage, 96 Bualadubh, Eochar, Isle of South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shrine%20-%20geograph.org.uk%20-%20444196.jpg",
+      "coord": "Point(-7.35631 57.392)"
+    },
+    "172050": {
+      "qid": "Q17853855",
+      "name": "Parish Church, Howmore, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Scotland%20at%20Howmore%20-%20geograph.org.uk%20-%204998254.jpg",
+      "coord": "Point(-7.3877 57.3026)"
+    },
+    "238377": {
+      "qid": "Q17853865",
+      "name": "153 Howmore, South Uist",
+      "coord": "Point(-7.38396 57.302)"
+    },
+    "238154": {
+      "qid": "Q17853878",
+      "name": "323 North Boisdale, South Uist",
+      "coord": "Point(-7.38735 57.1379)"
+    },
+    "238299": {
+      "qid": "Q17853885",
+      "name": "Cottage Byre, North Smerclate, South Uist",
+      "coord": "Point(-7.36653 57.1161)"
+    },
+    "171996": {
+      "qid": "Q17853908",
+      "name": "Askernish House, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Askernish%20House%20-%20geograph.org.uk%20-%20603899.jpg",
+      "coord": "Point(-7.40625 57.1893)"
+    },
+    "172021": {
+      "qid": "Q17853923",
+      "name": "Our Lady of Sorrows Rc Church Including Boundary Walls and Gatepiers, Garrynamonie",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20-%20geograph.org.uk%20-%20446442.jpg",
+      "coord": "Point(-7.35913 57.1245)"
+    },
+    "238300": {
+      "qid": "Q56623712",
+      "name": "374 South Boisdale, South Uist",
+      "coord": "Point(-7.3810492 57.127303)"
+    },
+    "238312": {
+      "qid": "Q56623722",
+      "name": "Taigh Violet Rose, 10 Uachdar",
+      "coord": "Point(-7.3388214 57.474138)"
+    },
+    "238261": {
+      "qid": "Q56623720",
+      "name": "Thatched Cottage, Kilerivagh, Hacklet, Benbecula",
+      "coord": "Point(-7.2882973 57.413047)"
+    },
+    "171992": {
+      "qid": "Q56623726",
+      "name": "St Peter's R.C. Church, Daliburgh, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St.%20Peters%20Roman%20Catholic%20Church%20-%20geograph.org.uk%20-%20444831.jpg",
+      "coord": "Point(-7.3867792 57.16471)"
+    },
+    "238315": {
+      "qid": "Q77776532",
+      "name": "Iochdar Church, South Uist",
+      "coord": "Point(-7.3495758 57.392473)"
+    },
+    "172006": {
+      "qid": "Q2426324",
+      "name": "St Michael's Church",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%27s%20Church%2C%20Eriskay%2020090608.jpg",
+      "coord": "Point(-7.3067476 57.086886)",
+      "article": "https://en.wikipedia.org/wiki/St_Michael%27s_Church,_Eriskay"
+    },
+    "172200": {
+      "qid": "Q16902419",
+      "name": "Ushenish Lighthouse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uisinis%20Lighthouse%2C%20South%20Uist%20-%20geograph.org.uk%20-%20203316.jpg",
+      "coord": "Point(-7.193 57.2982)",
+      "article": "https://en.wikipedia.org/wiki/Ushenish_Lighthouse"
+    },
+    "249715": {
+      "qid": "Q1345398",
+      "name": "Our Lady of the Isles",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Our%20Lady%20of%20the%20Isles.jpg",
+      "coord": "Point(-7.36072 57.34273)",
+      "article": "https://en.wikipedia.org/wiki/Our_Lady_of_the_Isles"
+    },
+    "267203": {
+      "qid": "Q15106140",
+      "name": "77 Ardmanonie",
+      "coord": "Point(-7.37302778 57.39072222)"
+    },
+    "267202": {
+      "qid": "Q15106140",
+      "name": "77 Ardmanonie",
+      "coord": "Point(-7.37302778 57.39072222)"
+    },
+    "267201": {
+      "qid": "Q15106140",
+      "name": "77 Ardmanonie",
+      "coord": "Point(-7.37302778 57.39072222)"
+    },
+    "238188": {
+      "qid": "Q15106140",
+      "name": "77 Ardmanonie",
+      "coord": "Point(-7.37302778 57.39072222)"
+    },
+    "238324": {
+      "qid": "Q17575106",
+      "name": "Mrs Johnstone, Thatched Cottage, Bualadubh, Eochar, South Uist",
+      "coord": "Point(-7.34812 57.3921)"
+    },
+    "238336": {
+      "qid": "Q17853708",
+      "name": "Evat Cottage, 466 South Lochboisdale, Isle of South Uist",
+      "coord": "Point(-7.31198 57.1358)"
+    },
+    "238363": {
+      "qid": "Q17853726",
+      "name": "Thatched Cottage, South Smercleit, South Uist",
+      "coord": "Point(-7.38147 57.1137)"
+    },
+    "238359": {
+      "qid": "Q17853793",
+      "name": "Benbecula, 9 Liniclate",
+      "coord": "Point(-7.34623 57.4222)"
+    },
+    "268317": {
+      "qid": "Q17853797",
+      "name": "Northern Outbuilding, Nunton Farmhouse, Benbecula",
+      "coord": "Point(-7.39699 57.4563)"
+    },
+    "268316": {
+      "qid": "Q17853801",
+      "name": "South West Wing, Nunton Farmhouse, Benbecula",
+      "coord": "Point(-7.39711 57.4561)"
+    },
+    "268318": {
+      "qid": "Q17853805",
+      "name": "Southern Outbuilding, Nunton Farmhouse, Benbecula",
+      "coord": "Point(-7.39683 57.4562)"
+    },
+    "238330": {
+      "qid": "Q17853818",
+      "name": "99 Carnan, Eochar, Isle of South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Traditional%20Uist%20cottage%20-%20geograph.org.uk%20-%20518733.jpg",
+      "coord": "Point(-7.34573 57.4012)"
+    },
+    "269926": {
+      "qid": "Q17853827",
+      "name": "Manse, Daliburgh Parish Church, South Uist",
+      "coord": "Point(-7.37218 57.1682)"
+    },
+    "267207": {
+      "qid": "Q17853836",
+      "name": "Farmsteading, Drimore, South Uist",
+      "coord": "Point(-7.37382 57.3378)"
+    },
+    "238356": {
+      "qid": "Q17853848",
+      "name": "Cuir na Bhoir, 51 Balgarva, Eochar, Isle of South Uist",
+      "coord": "Point(-7.38179 57.3963)"
+    },
+    "267205": {
+      "qid": "Q17853902",
+      "name": "Presbytery, St Michael's Chruch, Ardkenneth, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%27s%20Church%2C%20%C3%80ird%20Choinnich%20-%20geograph.org.uk%20-%201478986.jpg",
+      "coord": "Point(-7.39646 57.3876)"
+    },
+    "267208": {
+      "qid": "Q56623718",
+      "name": "Manse, Griminish Church Of Scotland, Benbecula",
+      "coord": "Point(-7.3356922 57.444385)"
+    },
+    "240992": {
+      "qid": "Q56623716",
+      "name": "Griminish Parish Church, Benbecula",
+      "coord": "Point(-7.3352954 57.444411)"
+    },
+    "267199": {
+      "qid": "Q77773207",
+      "name": "Schoolhouse, Lochboisdale, South Uist",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/School%20Board%20of%20South%20Uist%2C%201909%20-%20geograph.org.uk%20-%201521389.jpg",
+      "coord": "Point(-7.3198874 57.158914)"
+    },
+    "268308": {
+      "qid": "Q17853688",
+      "name": "Post Office, Boisdale House, South Lochboisdale, South Uist",
+      "coord": "Point(-7.33819 57.1369)"
+    },
+    "268309": {
+      "qid": "Q17853698",
+      "name": "East Wing, Boisdale House, South Lochboisdale, South Uist",
+      "coord": "Point(-7.33797 57.1369)"
+    },
+    "277939": {
+      "qid": "Q29432228",
+      "name": "Calvay light",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Light.%20Calbhaigh%20-%20geograph.org.uk%20-%20878423.jpg",
+      "coord": "Point(-7.256533 57.14227)"
+    },
+    "268953": {
+      "qid": "Q77782814",
+      "name": "8 Balivanich, Isle of Benbecula",
+      "coord": "Point(-7.3815932 57.473287)"
+    },
+    "294741": {
+      "qid": "Q114710171",
+      "name": "Aird",
+      "coord": "Point(-7.3919256 57.463962)"
+    },
+    "318816": {
+      "qid": "Q114169420",
+      "name": "Benbecula War Memorial",
+      "coord": "Point(-7.3324173 57.443903)"
+    },
+    "331141": {
+      "qid": "Q56668611",
+      "name": "Buaile Ormacleit, settlement",
+      "coord": "Point(-7.2309674 57.292123)"
+    },
+    "339075": {
+      "qid": "Q114168994",
+      "name": "South Uist War Memorial",
+      "coord": "Point(-7.3975613 57.232119)"
+    },
+    "349871": {
+      "qid": "Q77782813",
+      "name": "Ronald's Cottage, 16 Rhughasinish",
+      "coord": "Point(-7.3184175 57.383123)"
+    },
+    "349870": {
+      "qid": "Q77782844",
+      "name": "Cottage to the north of 472b South Lochboisdale",
+      "coord": "Point(-7.3158043 57.135366)"
+    },
+    "351401": {
+      "qid": "Q114030645",
+      "name": "Iochdar Hill Wind Farm",
+      "coord": "Point(-7.2963693 57.358777)"
+    }
+  },
+  "people": [
+    {
+      "qid": "Q20618418",
+      "name": "David Walker",
+      "dob": null,
+      "occupations": [
+        "actor"
+      ],
+      "article": null
+    },
+    {
+      "qid": "Q4719466",
+      "name": "Alexander MacDonald",
+      "dob": "1736-01-01T00:00:00Z",
+      "occupations": [
+        "Catholic deacon",
+        "Catholic bishop",
+        "Catholic priest"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Alexander_MacDonald_(Scottish_bishop)"
+    },
+    {
+      "qid": "Q19037235",
+      "name": "Angus MacLellan",
+      "dob": "1869-01-01T00:00:00Z",
+      "occupations": [
+        "narrator",
+        "writer"
+      ],
+      "article": null
+    },
+    {
+      "qid": "Q544564",
+      "name": "Angus McPhee",
+      "dob": "1914-01-01T00:00:00Z",
+      "occupations": [
+        "sculptor",
+        "artist"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Angus_McPhee"
+    },
+    {
+      "qid": "Q19665758",
+      "name": "Rona Lightfoot",
+      "dob": "1936-04-17T00:00:00Z",
+      "occupations": [
+        "musician"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Rona_Lightfoot"
+    },
+    {
+      "qid": "Q6376811",
+      "name": "Kathleen MacInnes",
+      "dob": "1969-12-30T00:00:00Z",
+      "occupations": [
+        "film actor",
+        "singer"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Kathleen_MacInnes"
+    },
+    {
+      "qid": "Q60998770",
+      "name": "Niall Campbell",
+      "dob": "1984-01-01T00:00:00Z",
+      "occupations": [
+        "poet",
+        "writer"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Niall_Campbell_(poet)"
+    }
+  ],
+  "attribution": "Data from Wikidata. Wikidata is licensed CC0 — no attribution required, credited as good practice."
+}

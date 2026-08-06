@@ -1,0 +1,1132 @@
+{
+  "layer": "wikidata",
+  "atom": "kirriemuir",
+  "source": "wikidata",
+  "fetched_at": "2026-08-06T01:07:15Z",
+  "status": "ok",
+  "items": {
+    "32312": {
+      "qid": "Q17776518",
+      "name": "Logie House",
+      "coord": "Point(-2.99143169 56.656514779)"
+    },
+    "32313": {
+      "qid": "Q17777741",
+      "name": "Old Parish Church, High Street, Kirriemuir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Old%20Parish%20Church%20-%20geograph.org.uk%20-%204900386.jpg",
+      "coord": "Point(-3.0034 56.6729)"
+    },
+    "32202": {
+      "qid": "Q56618631",
+      "name": "Carroch Mill Bridge",
+      "coord": "Point(-3.0402971 56.708997)"
+    },
+    "32324": {
+      "qid": "Q56618643",
+      "name": "Gates, East Lodge, Kinnordy",
+      "coord": "Point(-3.0163994 56.678711)"
+    },
+    "32323": {
+      "qid": "Q56618641",
+      "name": "Kinnordy East Lodge",
+      "coord": "Point(-3.0165005 56.678827)"
+    },
+    "32329": {
+      "qid": "Q56618651",
+      "name": "Cottages, Roundyhill",
+      "coord": "Point(-3.0163302 56.637959)"
+    },
+    "32341": {
+      "qid": "Q56643223",
+      "name": "Peter Pan Mill, Glengate, Kirriemuir",
+      "coord": "Point(-3.0061008 56.673827)"
+    },
+    "32196": {
+      "qid": "Q56661466",
+      "name": "standing stone 700m ESE of Caddam",
+      "coord": "Point(-3.0060175 56.693961)"
+    },
+    "32201": {
+      "qid": "Q56662058",
+      "name": "Hill of Redhall,enclosure 500m E of summit",
+      "coord": "Point(-2.9866403 56.711599)"
+    },
+    "32314": {
+      "qid": "Q56662246",
+      "name": "enclosure 400m E of Drumshade",
+      "coord": "Point(-3.0196213 56.643314)"
+    },
+    "32343": {
+      "qid": "Q56662247",
+      "name": "Nether Migvie,ring ditch E of",
+      "coord": "Point(-2.9816297 56.681039)"
+    },
+    "32333": {
+      "qid": "Q56662628",
+      "name": "enclosures 250m SSW of Wester Logie",
+      "coord": "Point(-3.0135815 56.650973)"
+    },
+    "32318": {
+      "qid": "Q56662638",
+      "name": "enclosure 700m NE of Redwell",
+      "coord": "Point(-2.9821792 56.646966)"
+    },
+    "32345": {
+      "qid": "Q56664163",
+      "name": "Loch of Kinnordy, crannog 500m NW of Balbrydie",
+      "coord": "Point(-3.035359 56.677297)"
+    },
+    "32325": {
+      "qid": "Q114711851",
+      "name": "Kirriemuir, St Magdalene's Chapel",
+      "coord": "Point(-3.0133741 56.673633)"
+    },
+    "32186": {
+      "qid": "Q114711854",
+      "name": "Muirhouses, St Colm's Chapel",
+      "coord": "Point(-2.9911452 56.697171)"
+    },
+    "32291": {
+      "qid": "Q17777747",
+      "name": "Town House, 31 High Street, Kirriemuir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Gateway%20to%20the%20Glens%20Museum%2C%20Kirriemuir%20%28geograph%205817097%29.jpg",
+      "coord": "Point(-3.00413 56.6729)",
+      "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_House"
+    },
+    "32228": {
+      "qid": "Q31095567",
+      "name": "Castle Hill, Meams",
+      "coord": "Point(-3.04426 56.69862)"
+    },
+    "32204": {
+      "qid": "Q56618633",
+      "name": "Carroch Mill Cottage",
+      "coord": "Point(-3.0390762 56.708558)"
+    },
+    "32295": {
+      "qid": "Q56661658",
+      "name": "Hill of Kirriemuir, standing stone",
+      "coord": "Point(-2.9944019 56.679482)"
+    },
+    "32226": {
+      "qid": "Q56662059",
+      "name": "Caddam souterrain",
+      "coord": "Point(-3.0111735 56.697477)"
+    },
+    "32224": {
+      "qid": "Q56662636",
+      "name": "Northmuir,enclosure 350m N of Hill of Kirriemuir",
+      "coord": "Point(-2.9956789 56.682724)"
+    },
+    "32229": {
+      "qid": "Q56663070",
+      "name": "burial mound 500m W of East Balloch",
+      "coord": "Point(-3.0626699 56.707632)"
+    },
+    "32266": {
+      "qid": "Q56663069",
+      "name": "Culhawk Hill,house 500m N of Culhawk",
+      "coord": "Point(-3.0635909 56.691066)"
+    },
+    "32220": {
+      "qid": "Q56665034",
+      "name": "cairn 660m NE of Balstard",
+      "coord": "Point(-3.0430548 56.695318)"
+    },
+    "32231": {
+      "qid": "Q114711842",
+      "name": "Abernethan, chapel",
+      "coord": "Point(-3.0367591 56.693206)"
+    },
+    "33713": {
+      "qid": "Q6060305",
+      "name": "Inverquharity",
+      "coord": "Point(-2.96306 56.7094)",
+      "article": "https://en.wikipedia.org/wiki/Inverquharity"
+    },
+    "33734": {
+      "qid": "Q6060317",
+      "name": "Inverquharity Castle",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Inverquharity%20Castle%20bathed%20in%20winter%20sunshine%20-%20geograph.org.uk%20-%20650127.jpg",
+      "coord": "Point(-2.963374543 56.709544111)",
+      "article": "https://en.wikipedia.org/wiki/Inverquharity_Castle"
+    },
+    "87642": {
+      "qid": "Q17777605",
+      "name": "Inverquharity Mill",
+      "coord": "Point(-2.95688 56.7087)"
+    },
+    "87643": {
+      "qid": "Q17777613",
+      "name": "Old Bridge, Shielhill Bridge",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Shielhill%20Bridge%20-%20geograph.org.uk%20-%20479820.jpg",
+      "coord": "Point(-2.93773 56.7102)"
+    },
+    "33848": {
+      "qid": "Q17777664",
+      "name": "Ballinshoe Castle",
+      "coord": "Point(-2.95267 56.6666)"
+    },
+    "33731": {
+      "qid": "Q56618634",
+      "name": "Inverquharity Bridge",
+      "coord": "Point(-2.9797788 56.710952)"
+    },
+    "32088": {
+      "qid": "Q56618646",
+      "name": "Sintra Cottage, Roundyhill",
+      "coord": "Point(-3.0164658 56.637545)"
+    },
+    "33870": {
+      "qid": "Q56661644",
+      "name": "Fletcherfield,two standing stones",
+      "coord": "Point(-2.9798056 56.660452)"
+    },
+    "33854": {
+      "qid": "Q56662274",
+      "name": "enclosure 100m SE of Fletcherfield",
+      "coord": "Point(-2.97225 56.657825)"
+    },
+    "33850": {
+      "qid": "Q56662274",
+      "name": "enclosure 100m SE of Fletcherfield",
+      "coord": "Point(-2.97225 56.657825)"
+    },
+    "33716": {
+      "qid": "Q56662275",
+      "name": "enclosure 400m NNW of Longbank",
+      "coord": "Point(-2.9743356 56.694392)"
+    },
+    "33722": {
+      "qid": "Q56662278",
+      "name": "Shielhill,pit alignments 200m NE of Shielhill Farm",
+      "coord": "Point(-2.936346 56.705824)"
+    },
+    "33721": {
+      "qid": "Q56662277",
+      "name": "Shielhill,pit alignments N of Shielhill Farm",
+      "coord": "Point(-2.9398005 56.708116)"
+    },
+    "33729": {
+      "qid": "Q56662277",
+      "name": "Shielhill,pit alignments N of Shielhill Farm",
+      "coord": "Point(-2.9398005 56.708116)"
+    },
+    "33867": {
+      "qid": "Q114711841",
+      "name": "'Killhill', chapel",
+      "coord": "Point(-2.9644259 56.674022)"
+    },
+    "33869": {
+      "qid": "Q114711858",
+      "name": "St Ninian's Chapel, Redford",
+      "coord": "Point(-2.9548161 56.655408)"
+    },
+    "148531": {
+      "qid": "Q17574412",
+      "name": "St Mary's Church, Kirriemuir",
+      "coord": "Point(-3.00815 56.677)"
+    },
+    "157520": {
+      "qid": "Q17777602",
+      "name": "Prosen Bridge",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Prosen%20Bridge.%20-%20geograph.org.uk%20-%20117786.jpg",
+      "coord": "Point(-2.98991 56.7153)"
+    },
+    "194956": {
+      "qid": "Q17777772",
+      "name": "Bank, 46-47 High Street, Kirriemuir",
+      "coord": "Point(-3.00496 56.6733)"
+    },
+    "194922": {
+      "qid": "Q17777902",
+      "name": "16 Brechin Road, Kirriemuir",
+      "coord": "Point(-3.00154 56.6754)"
+    },
+    "72776": {
+      "qid": "Q56643184",
+      "name": "Gairie Works, Kirriemuir",
+      "coord": "Point(-3.0035029 56.671871)"
+    },
+    "194955": {
+      "qid": "Q56643203",
+      "name": "21 Marywell Brae, Kirriemuir",
+      "coord": "Point(-3.001815 56.673448)"
+    },
+    "194921": {
+      "qid": "Q56643233",
+      "name": "Kirklee, Church Lane, Kirriemuir",
+      "coord": "Point(-3.0066435 56.673373)"
+    },
+    "72307": {
+      "qid": "Q56662060",
+      "name": "West Kinwhirrie souterrains",
+      "coord": "Point(-3.0224723 56.715488)"
+    },
+    "194970": {
+      "qid": "Q56643260",
+      "name": "Kirriemuir Town Hall and Library",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Town%20Hall%20and%20Library%2C%20Reform%20Street%2C%20Kirriemuir%20%28geograph%205817085%29.jpg",
+      "coord": "Point(-3.0027495 56.674222)",
+      "article": "https://en.wikipedia.org/wiki/Kirriemuir_Town_Hall"
+    },
+    "194988": {
+      "qid": "Q17777753",
+      "name": "3, 4, 5 High Street, Kirriemuir",
+      "coord": "Point(-3.00505 56.6735)"
+    },
+    "194996": {
+      "qid": "Q17777764",
+      "name": "35, 36, 37 High Street, Kirriemuir",
+      "coord": "Point(-3.00454 56.6729)"
+    },
+    "194858": {
+      "qid": "Q17777803",
+      "name": "Bank of Scotland, 11 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0035 56.6735)"
+    },
+    "194975": {
+      "qid": "Q17777829",
+      "name": "Bank, 15-17 Glengate, Kirriemuir",
+      "coord": "Point(-3.00559 56.6736)"
+    },
+    "194982": {
+      "qid": "Q17777833",
+      "name": "19 Glengate, Kirriemuir",
+      "coord": "Point(-3.00573 56.6735)"
+    },
+    "194861": {
+      "qid": "Q17777867",
+      "name": "Lisden, Brechin Road, Kirriemuir",
+      "coord": "Point(-2.9926 56.6767)"
+    },
+    "194252": {
+      "qid": "Q17777875",
+      "name": "9 Brechin Road, Kirriemuir",
+      "coord": "Point(-3.00174 56.6741)"
+    },
+    "194869": {
+      "qid": "Q17777909",
+      "name": "Barrie Pavilion, Kirriemuir",
+      "coord": "Point(-3.00024 56.6794)"
+    },
+    "194844": {
+      "qid": "Q17777914",
+      "name": "Cemetery, Kirriemuir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kirriemuir%20Cemetery.jpg",
+      "coord": "Point(-2.99834 56.6779)"
+    },
+    "194856": {
+      "qid": "Q17777924",
+      "name": "7 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00305 56.6702)"
+    },
+    "194854": {
+      "qid": "Q17777955",
+      "name": "2 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00275 56.67)"
+    },
+    "194987": {
+      "qid": "Q56643135",
+      "name": "1, 2 High Street, Kirriemuir",
+      "coord": "Point(-3.0051775 56.673475)"
+    },
+    "194990": {
+      "qid": "Q56643138",
+      "name": "9, 10 High Street, Kirriemuir",
+      "coord": "Point(-3.0044747 56.673435)"
+    },
+    "194991": {
+      "qid": "Q56643139",
+      "name": "11-13 High Street, Kirriemuir",
+      "coord": "Point(-3.0044404 56.673373)"
+    },
+    "194989": {
+      "qid": "Q56643136",
+      "name": "Ogilvy Arms Hotel, 6, 7 High Street, Kirriemuir",
+      "coord": "Point(-3.0049021 56.673549)"
+    },
+    "194992": {
+      "qid": "Q56643141",
+      "name": "16-17 High Street, Kirriemuir",
+      "coord": "Point(-3.004355 56.67323)"
+    },
+    "194994": {
+      "qid": "Q56643147",
+      "name": "25 High Street, Kirriemuir",
+      "coord": "Point(-3.0039726 56.672963)"
+    },
+    "194993": {
+      "qid": "Q56643144",
+      "name": "22 High Street, Kirriemuir",
+      "coord": "Point(-3.003992 56.67308)"
+    },
+    "194997": {
+      "qid": "Q56643151",
+      "name": "39, 40 High Street, Kirriemuir",
+      "coord": "Point(-3.004594 56.673012)"
+    },
+    "194995": {
+      "qid": "Q56643149",
+      "name": "28 High Street, Kirriemuir",
+      "coord": "Point(-3.0039182 56.672757)"
+    },
+    "195000": {
+      "qid": "Q56643154",
+      "name": "48 High Street, Kirriemuir",
+      "coord": "Point(-3.0050912 56.673296)"
+    },
+    "194998": {
+      "qid": "Q56643152",
+      "name": "41, 42 High Street, Kirriemuir",
+      "coord": "Point(-3.0046931 56.673056)"
+    },
+    "194999": {
+      "qid": "Q56643153",
+      "name": "43, 44 High Street, Kirriemuir",
+      "coord": "Point(-3.0048421 56.673136)"
+    },
+    "194871": {
+      "qid": "Q56643182",
+      "name": "15, 17 Bellies Brae, Kirriemuir",
+      "coord": "Point(-3.0046486 56.671997)"
+    },
+    "194872": {
+      "qid": "Q56643183",
+      "name": "25-27 Bellies Brae, Kirriemuir",
+      "coord": "Point(-3.004335 56.671864)"
+    },
+    "194867": {
+      "qid": "Q56643193",
+      "name": "46 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0024576 56.673065)"
+    },
+    "194971": {
+      "qid": "Q56643202",
+      "name": "25 Marywell Brae, Kirriemuir",
+      "coord": "Point(-3.0020917 56.673419)"
+    },
+    "194972": {
+      "qid": "Q56643206",
+      "name": "19 Marywell Brae, Kirriemuir",
+      "coord": "Point(-3.0017958 56.67334)"
+    },
+    "194985": {
+      "qid": "Q56643222",
+      "name": "North Free Church, Glengate, Kirriemuir",
+      "coord": "Point(-3.0060475 56.673665)"
+    },
+    "194973": {
+      "qid": "Q56643220",
+      "name": "1-5 Glengate, Kirriemuir",
+      "coord": "Point(-3.0053078 56.673465)"
+    },
+    "194974": {
+      "qid": "Q56643221",
+      "name": "7, 9, 11, 13 Glengate, Kirriemuir",
+      "coord": "Point(-3.005422 56.673464)"
+    },
+    "194978": {
+      "qid": "Q56643227",
+      "name": "18-20 Glengate, Kirriemuir",
+      "coord": "Point(-3.0057119 56.673318)"
+    },
+    "194976": {
+      "qid": "Q56643224",
+      "name": "6, 8, 10 Glengate, Kirriemuir",
+      "coord": "Point(-3.0053527 56.673312)"
+    },
+    "194977": {
+      "qid": "Q56643225",
+      "name": "12-14 Glengate, Kirriemuir",
+      "coord": "Point(-3.0055156 56.673301)"
+    },
+    "194986": {
+      "qid": "Q56643230",
+      "name": "Hall, Glengate, Kirriemuir",
+      "coord": "Point(-3.0065046 56.673671)"
+    },
+    "194875": {
+      "qid": "Q56643234",
+      "name": "2 Church Lane, Kirriemuir",
+      "coord": "Point(-3.0067945 56.673524)"
+    },
+    "194980": {
+      "qid": "Q56643238",
+      "name": "House And Shop, Tannage Brae, Kirriemuir",
+      "coord": "Point(-3.005924 56.673316)"
+    },
+    "195007": {
+      "qid": "Q56643239",
+      "name": "1-3 Tannage Brae, Kirriemuir",
+      "coord": "Point(-3.0061867 56.673377)"
+    },
+    "194874": {
+      "qid": "Q56643245",
+      "name": "Folda, Kirriemuir",
+      "coord": "Point(-3.0072136 56.676387)"
+    },
+    "194962": {
+      "qid": "Q56643255",
+      "name": "12  Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0033547 56.669366)"
+    },
+    "194961": {
+      "qid": "Q56643258",
+      "name": "Newton Hotel, 51 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0047145 56.667728)"
+    },
+    "194969": {
+      "qid": "Q56643256",
+      "name": "18 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0035316 56.669265)"
+    },
+    "195064": {
+      "qid": "Q48818140",
+      "name": "Kirriemuir railway station",
+      "coord": "Point(-2.9983 56.6736)",
+      "article": "https://en.wikipedia.org/wiki/Kirriemuir_railway_station"
+    },
+    "195033": {
+      "qid": "Q17777671",
+      "name": "Mausoleum Enclosing Walls, Logie",
+      "coord": "Point(-2.98979 56.6562)"
+    },
+    "195034": {
+      "qid": "Q17777668",
+      "name": "Mausoleum, Logie",
+      "coord": "Point(-2.98979 56.6562)"
+    },
+    "195032": {
+      "qid": "Q17777675",
+      "name": "Stables, Logie",
+      "coord": "Point(-2.9929 56.657)"
+    },
+    "194029": {
+      "qid": "Q17777687",
+      "name": "Ballindarg House",
+      "coord": "Point(-2.96903 56.6488)"
+    },
+    "194030": {
+      "qid": "Q17777694",
+      "name": "Walled Garden, Ballindarg House",
+      "coord": "Point(-2.96991 56.6492)"
+    },
+    "195086": {
+      "qid": "Q17777797",
+      "name": "1 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.00398 56.6726)"
+    },
+    "194887": {
+      "qid": "Q17777808",
+      "name": "17 Bank Street, Kirriemuir",
+      "coord": "Point(-3.00317 56.6734)"
+    },
+    "194889": {
+      "qid": "Q17777824",
+      "name": "Thrums Hotel, 25 Bank Street, Kirriemuir",
+      "coord": "Point(-3.00253 56.6735)"
+    },
+    "195049": {
+      "qid": "Q17777837",
+      "name": "Seceder Hall, Church Lane, Kirriemuir",
+      "coord": "Point(-3.00683 56.6737)"
+    },
+    "195050": {
+      "qid": "Q17777857",
+      "name": "5 Brechin Road, Kirriemuir",
+      "coord": "Point(-3.00199 56.674)"
+    },
+    "194892": {
+      "qid": "Q17777882",
+      "name": "11 Brechin Road, Kirriemuir",
+      "coord": "Point(-3.00164 56.6742)"
+    },
+    "194891": {
+      "qid": "Q17777891",
+      "name": "Wash House",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/J.%20M.%20Barrie%27s%20Birthplace%20-%20geograph.org.uk%20-%20393041.jpg",
+      "coord": "Point(-3.00167 56.6741)"
+    },
+    "195158": {
+      "qid": "Q17777952",
+      "name": "Church, Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00359 56.6701)"
+    },
+    "195169": {
+      "qid": "Q17777972",
+      "name": "8, 10 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00297 56.6697)"
+    },
+    "195173": {
+      "qid": "Q17777980",
+      "name": "Telephone Call Box, Bank Street, Kirriemuir",
+      "coord": "Point(-3.00214 56.6734)"
+    },
+    "195179": {
+      "qid": "Q17777986",
+      "name": "Glenhill, Kinnordy Road, Kirriemuir",
+      "coord": "Point(-3.01422 56.678)"
+    },
+    "195088": {
+      "qid": "Q56643159",
+      "name": "6 Grant's Pend, Kirriemuir",
+      "coord": "Point(-3.0036312 56.6724)"
+    },
+    "195087": {
+      "qid": "Q56643156",
+      "name": "1, 3 Grant's Pend, Kirriemuir",
+      "coord": "Point(-3.0039779 56.67255)"
+    },
+    "195089": {
+      "qid": "Q56643160",
+      "name": "9 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0034251 56.672626)"
+    },
+    "195090": {
+      "qid": "Q56643167",
+      "name": "Gairie House, Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0024445 56.672571)"
+    },
+    "195091": {
+      "qid": "Q56643168",
+      "name": "4 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.003803 56.672722)"
+    },
+    "195066": {
+      "qid": "Q56643186",
+      "name": "3, 4, 5 William Street, Kirriemuir",
+      "coord": "Point(-3.0047973 56.672067)"
+    },
+    "194879": {
+      "qid": "Q56643187",
+      "name": "2-8 Bank Street, Kirriemuir",
+      "coord": "Point(-3.003748 56.673109)"
+    },
+    "195065": {
+      "qid": "Q56643185",
+      "name": "1 William Street, Kirriemuir",
+      "coord": "Point(-3.0045536 56.672105)"
+    },
+    "194883": {
+      "qid": "Q56643191",
+      "name": "36, 38, 40 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0026078 56.67319)"
+    },
+    "194880": {
+      "qid": "Q56643188",
+      "name": "26, 28 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0030013 56.673259)"
+    },
+    "194882": {
+      "qid": "Q56643189",
+      "name": "32-34 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0027386 56.673198)"
+    },
+    "194885": {
+      "qid": "Q56643194",
+      "name": "Union Hotel, Bank Street, Kirriemuir",
+      "coord": "Point(-3.0039656 56.673314)"
+    },
+    "194886": {
+      "qid": "Q56643195",
+      "name": "19 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0030697 56.673375)"
+    },
+    "194884": {
+      "qid": "Q56643192",
+      "name": "42-44 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0024281 56.673182)"
+    },
+    "194888": {
+      "qid": "Q56643196",
+      "name": "Royal Bank Of Scotland, 23 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0028441 56.673484)"
+    },
+    "194877": {
+      "qid": "Q56643232",
+      "name": "Barrie's Land, Kirriemuir",
+      "coord": "Point(-3.0072398 56.673701)"
+    },
+    "195019": {
+      "qid": "Q56643246",
+      "name": "1 West Hill Road, Kirriemuir",
+      "coord": "Point(-3.0047859 56.682058)"
+    },
+    "195020": {
+      "qid": "Q56643247",
+      "name": "3 West Hill Road, Kirriemuir",
+      "coord": "Point(-3.00431 56.681963)"
+    },
+    "195051": {
+      "qid": "Q56643244",
+      "name": "13 Brechin Road, Kirriemuir",
+      "coord": "Point(-3.0014922 56.674196)"
+    },
+    "195016": {
+      "qid": "Q56643250",
+      "name": "Angle Park, Kirriemuir",
+      "coord": "Point(-3.0080419 56.682957)"
+    },
+    "195167": {
+      "qid": "Q56643251",
+      "name": "The Cottage, 9 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0031802 56.670167)"
+    },
+    "195168": {
+      "qid": "Q56643252",
+      "name": "St Andrew's Church Hall, Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0035305 56.66984)"
+    },
+    "195172": {
+      "qid": "Q56643253",
+      "name": "Sydney Cottage, 4 Manse Lane, Kirriemuir",
+      "coord": "Point(-3.0029855 56.669593)"
+    },
+    "223705": {
+      "qid": "Q17777729",
+      "name": "Kinnordy House",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Kinnordy%2C%20Kirriemuir%20%28geograph%203063483%29.jpg",
+      "coord": "Point(-3.0347 56.683)",
+      "article": "https://en.wikipedia.org/wiki/Kinnordy_House"
+    },
+    "223709": {
+      "qid": "Q17777620",
+      "name": "Kinnordy House Walled Garden",
+      "coord": "Point(-3.03179 56.6835)"
+    },
+    "223601": {
+      "qid": "Q17777630",
+      "name": "Kinnordy Museum And Observatory",
+      "coord": "Point(-3.03069 56.6833)"
+    },
+    "223708": {
+      "qid": "Q17777635",
+      "name": "Sundial, Kinnordy House",
+      "coord": "Point(-3.03146 56.6832)"
+    },
+    "227171": {
+      "qid": "Q17777644",
+      "name": "The Bell Gate, Kinnordy House",
+      "coord": "Point(-3.03286 56.6834)"
+    },
+    "223577": {
+      "qid": "Q17777649",
+      "name": "Kinnordy Home Farm",
+      "coord": "Point(-3.03138 56.6845)"
+    },
+    "195147": {
+      "qid": "Q17777652",
+      "name": "Causewayend Smithy",
+      "coord": "Point(-3.02496 56.6862)"
+    },
+    "223801": {
+      "qid": "Q17777656",
+      "name": "Causewayend Cottages",
+      "coord": "Point(-3.02525 56.6862)"
+    },
+    "223604": {
+      "qid": "Q17777692",
+      "name": "South Entrance Gates, Ballindarg House",
+      "coord": "Point(-2.96913 56.6486)"
+    },
+    "228336": {
+      "qid": "Q17777700",
+      "name": "Garden Ornament, Ballingard House",
+      "coord": "Point(-2.97031 56.6488)"
+    },
+    "228334": {
+      "qid": "Q17777706",
+      "name": "North Mains of Ballindarg, Ballindarg House",
+      "coord": "Point(-2.96977 56.65)"
+    },
+    "223796": {
+      "qid": "Q17777716",
+      "name": "Ballindarg Bridge",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Bridge%20over%20Gairie%20Burn%20at%20Mains%20of%20Ballindarg%2C%20near%20Forfar%20-%20geograph.org.uk%20-%201282233.jpg",
+      "coord": "Point(-2.97003 56.6482)"
+    },
+    "223750": {
+      "qid": "Q17777723",
+      "name": "St Ninian's Chapel Burial Ground",
+      "coord": "Point(-2.95479 56.6555)"
+    },
+    "223647": {
+      "qid": "Q17777737",
+      "name": "North Entrance Gates, Ballindarg House",
+      "coord": "Point(-2.96876 56.6495)"
+    },
+    "222816": {
+      "qid": "Q17777819",
+      "name": "13 Bank Street, Kirriemuir",
+      "coord": "Point(-3.00328 56.6734)"
+    },
+    "195117": {
+      "qid": "Q17777843",
+      "name": "Airlie Arms Hotel, St Malcolm's Wynd, Kirriemuir",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Airlie%20Arms%20Hotel%20-%20geograph.org.uk%20-%204900435.jpg",
+      "coord": "Point(-3.00519 56.6738)"
+    },
+    "223575": {
+      "qid": "Q56618644",
+      "name": "Barellan Cottage, 21 Forfar Road, Maryton",
+      "coord": "Point(-2.9892946 56.667088)"
+    },
+    "222558": {
+      "qid": "Q56643137",
+      "name": "8 High Street, Kirriemuir",
+      "coord": "Point(-3.0048037 56.673532)"
+    },
+    "222559": {
+      "qid": "Q56643140",
+      "name": "14-15 High Street, Kirriemuir",
+      "coord": "Point(-3.0044054 56.673283)"
+    },
+    "222561": {
+      "qid": "Q56643146",
+      "name": "24 High Street, Kirriemuir",
+      "coord": "Point(-3.0039904 56.673017)"
+    },
+    "222579": {
+      "qid": "Q56643148",
+      "name": "26-27 High Street, Kirriemuir",
+      "coord": "Point(-3.0039061 56.672919)"
+    },
+    "195095": {
+      "qid": "Q56643171",
+      "name": "Western Half, 8 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0035249 56.672697)"
+    },
+    "195092": {
+      "qid": "Q56643169",
+      "name": "6 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0036725 56.672723)"
+    },
+    "195099": {
+      "qid": "Q56643175",
+      "name": "14 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0029875 56.672738)"
+    },
+    "195097": {
+      "qid": "Q56643172",
+      "name": "Store Between 8 And 10 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0033615 56.67269)"
+    },
+    "195098": {
+      "qid": "Q56643173",
+      "name": "12 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0031014 56.672728)"
+    },
+    "195102": {
+      "qid": "Q56643178",
+      "name": "6 Bellies Brae, Kirriemuir",
+      "coord": "Point(-3.0041106 56.67263)"
+    },
+    "195101": {
+      "qid": "Q56643177",
+      "name": "2, 4 Bellies Brae, Kirriemuir",
+      "coord": "Point(-3.0040806 56.672729)"
+    },
+    "195104": {
+      "qid": "Q56643180",
+      "name": "White Horse Hotel, 1, 3 Bellie's Brae, Kirriemuir",
+      "coord": "Point(-3.0045847 56.672662)"
+    },
+    "222810": {
+      "qid": "Q56643190",
+      "name": "30-32 Bank Street, Kirriemuir",
+      "coord": "Point(-3.0028849 56.673179)"
+    },
+    "195105": {
+      "qid": "Q56643197",
+      "name": "1 School Wynd, Kirriemuir",
+      "coord": "Point(-3.0021931 56.673553)"
+    },
+    "195107": {
+      "qid": "Q56643207",
+      "name": "1, 3 Roods, Kirriemuir",
+      "coord": "Point(-3.0046096 56.673596)"
+    },
+    "195110": {
+      "qid": "Q56643210",
+      "name": "13, 15, 17 Roods, Kirriemuir",
+      "coord": "Point(-3.0046957 56.673766)"
+    },
+    "195109": {
+      "qid": "Q56643208",
+      "name": "9, 11 Roods, Kirriemuir",
+      "coord": "Point(-3.0045477 56.673722)"
+    },
+    "195113": {
+      "qid": "Q56643214",
+      "name": "23-25 Roods, Kirriemuir",
+      "coord": "Point(-3.0047979 56.673927)"
+    },
+    "222822": {
+      "qid": "Q56643215",
+      "name": "29 Roods, Kirriemuir",
+      "coord": "Point(-3.0047235 56.674197)"
+    },
+    "195112": {
+      "qid": "Q56643212",
+      "name": "19, 21 Roods, Kirriemuir",
+      "coord": "Point(-3.00473 56.673829)"
+    },
+    "195115": {
+      "qid": "Q56643218",
+      "name": "Roods Bar, 10, 12 Roods, Kirriemuir",
+      "coord": "Point(-3.0050239 56.673835)"
+    },
+    "195116": {
+      "qid": "Q56643219",
+      "name": "14, 16 Roods, Kirriemuir",
+      "coord": "Point(-3.0050419 56.673898)"
+    },
+    "195114": {
+      "qid": "Q56643217",
+      "name": "4, 6, 8 Roods, Kirriemuir",
+      "coord": "Point(-3.0049721 56.673728)"
+    },
+    "222828": {
+      "qid": "Q56643226",
+      "name": "16 Glengate, Kirriemuir",
+      "coord": "Point(-3.0056471 56.673336)"
+    },
+    "223724": {
+      "qid": "Q56643228",
+      "name": "22, 24, 26 Glengate, Kirriemuir",
+      "coord": "Point(-3.0058933 56.673388)"
+    },
+    "195119": {
+      "qid": "Q56643243",
+      "name": "12, 14 St Malcolm's Wynd, Kirriemuir",
+      "coord": "Point(-3.0057881 56.67373)"
+    },
+    "195118": {
+      "qid": "Q56643241",
+      "name": "6, 10 St Malcolm's Wynd, Kirriemuir",
+      "coord": "Point(-3.0056423 56.673767)"
+    },
+    "195150": {
+      "qid": "Q56643254",
+      "name": "St Andrew's Church, Glamis Road, Kirriemuir",
+      "coord": "Point(-3.0030628 56.669431)"
+    },
+    "266214": {
+      "qid": "Q17777781",
+      "name": "2 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0039 56.6726)"
+    },
+    "266215": {
+      "qid": "Q17777790",
+      "name": "3 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.00378 56.6726)"
+    },
+    "241907": {
+      "qid": "Q17777851",
+      "name": "7 Brechin Road, Killiemuir",
+      "coord": "Point(-3.00185 56.6741)"
+    },
+    "241971": {
+      "qid": "Q17777962",
+      "name": "4 and 6 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00288 56.6699)"
+    },
+    "241974": {
+      "qid": "Q17777966",
+      "name": "10 Glamis Road, Kirriemuir",
+      "coord": "Point(-3.00302 56.6697)"
+    },
+    "267638": {
+      "qid": "Q17777993",
+      "name": "Principal Range, Ballinshoe Farmsteading",
+      "coord": "Point(-2.95867 56.6653)"
+    },
+    "266183": {
+      "qid": "Q56618648",
+      "name": "Cottage Adjoining Sintra, Roundyhill",
+      "coord": "Point(-3.0164042 56.63768)"
+    },
+    "266184": {
+      "qid": "Q56618649",
+      "name": "Cottage, Roundyhill",
+      "coord": "Point(-3.0163891 56.637725)"
+    },
+    "266213": {
+      "qid": "Q56643143",
+      "name": "18 High Street, Kirriemuir",
+      "coord": "Point(-3.0042583 56.673275)"
+    },
+    "266216": {
+      "qid": "Q56643158",
+      "name": "2 Grant's Pend, Kirriemuir",
+      "coord": "Point(-3.003928 56.672514)"
+    },
+    "266217": {
+      "qid": "Q56643163",
+      "name": "11 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0032939 56.6726)"
+    },
+    "266223": {
+      "qid": "Q56643165",
+      "name": "13 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0031801 56.672619)"
+    },
+    "241901": {
+      "qid": "Q56643176",
+      "name": "16 Kirk Wynd, Kirriemuir",
+      "coord": "Point(-3.0028898 56.672747)"
+    },
+    "242202": {
+      "qid": "Q56643181",
+      "name": "5 Bellies Brae, Kirriemuir",
+      "coord": "Point(-3.0045336 56.672581)"
+    },
+    "266224": {
+      "qid": "Q56643199",
+      "name": "3 School Wynd, Kirriemuir",
+      "coord": "Point(-3.0021915 56.67349)"
+    },
+    "266225": {
+      "qid": "Q56643201",
+      "name": "5 School Wynd, Kirriemuir",
+      "coord": "Point(-3.0021733 56.673418)"
+    },
+    "241993": {
+      "qid": "Q56643205",
+      "name": "23 Marywell Brae, Kirriemuir",
+      "coord": "Point(-3.0018956 56.673411)"
+    },
+    "268352": {
+      "qid": "Q56643229",
+      "name": "Alcorn, Glengate, Kirriemuir",
+      "coord": "Point(-3.0063019 56.673412)"
+    },
+    "242063": {
+      "qid": "Q56643235",
+      "name": "3 Church Lane, Kirriemuir",
+      "coord": "Point(-3.0070397 56.67354)"
+    },
+    "242069": {
+      "qid": "Q56643240",
+      "name": "Braehead House, 5 Tannage Brae, Kirriemuir",
+      "coord": "Point(-3.0062832 56.673322)"
+    },
+    "241972": {
+      "qid": "Q56643248",
+      "name": "2 West Hill Road, Kirriemuir",
+      "coord": "Point(-3.0046043 56.681978)"
+    },
+    "289497": {
+      "qid": "Q114711326",
+      "name": "Kirriemuir, Park Terrace, St Mary's R.C. Church And War Memorial",
+      "coord": "Point(-3.0060638 56.674887)"
+    },
+    "319735": {
+      "qid": "Q56643134",
+      "name": "Churchyard, Old Parish Church, High Street, Kirriemuir",
+      "coord": "Point(-3.0028463 56.672954)"
+    },
+    "338716": {
+      "qid": "Q114169396",
+      "name": "Kirriemuir, Cemetery, War Memorial",
+      "coord": "Point(-2.9994576 56.678714)"
+    },
+    "338722": {
+      "qid": "Q114169523",
+      "name": "Kirriemuir, Cumberland Close, War Memorial",
+      "coord": "Point(-3.0048844 56.672884)"
+    },
+    "361668": {
+      "qid": "Q124514588",
+      "name": "Redhall Tileworks",
+      "coord": "Point(-3.00379 56.710878)"
+    }
+  },
+  "people": [
+    {
+      "qid": "Q19660167",
+      "name": "Faye Henderson",
+      "dob": null,
+      "occupations": [
+        "musician"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Faye_Henderson"
+    },
+    {
+      "qid": "Q6128442",
+      "name": "James Aitken Wylie",
+      "dob": "1808-01-01T00:00:00Z",
+      "occupations": [
+        "historian of religion"
+      ],
+      "article": "https://en.wikipedia.org/wiki/James_Aitken_Wylie"
+    },
+    {
+      "qid": "Q60741607",
+      "name": "William Burns Thomson",
+      "dob": "1821-01-01T00:00:00Z",
+      "occupations": [
+        "missionary"
+      ],
+      "article": "https://en.wikipedia.org/wiki/William_Burns_Thomson"
+    },
+    {
+      "qid": "Q4720362",
+      "name": "Alexander Whyte",
+      "dob": "1836-01-13T00:00:00Z",
+      "occupations": [
+        "theologian"
+      ],
+      "article": "https://en.wikipedia.org/wiki/Alexander_Whyte"
+    },
+    {
+      "qid": "Q19325937",
+      "name": "William Douglas Morrison",
+      "dob": "1852-05-15T00:00:00Z",
+      "occupations": [
+        "criminologist",
+        "Anglican priest",
+        "chaplain"
+      ],
+      "article": null
+    },
+    {
+      "qid": "Q81796",
+      "name": "J. M. Barrie",
+      "dob": "1860-05-09T00:00:00Z",
+      "occupations": [
+        "television writer",
+        "film screenwriter",
+        "librettist",
+        "novelist",
+        "children's writer",
+        "journalist",
+        "playwright",
+        "poet",
+        "writer",
+        "screenwriter"
+      ],
+      "article": "https://en.wikipedia.org/wiki/J._M._Barrie"
+    },
+    {
+      "qid": "Q134958734",
+      "name": "Elsie May Bowman Wilkie",
+      "dob": "1880-01-01T00:00:00Z",
+      "occupations": [
+        "physician"
+      ],
+      "article": null
+    },
+    {
+      "qid": "Q5241090",
+      "name": "David Wilkie",
+      "dob": "1882-01-01T00:00:00Z",
+      "occupations": [
+        "surgeon"
+      ],
+      "article": "https://en.wikipedia.org/wiki/David_Wilkie_(surgeon)"
+    }
+  ],
+  "attribution": "Data from Wikidata. Wikidata is licensed CC0 — no attribution required, credited as good practice."
+}
