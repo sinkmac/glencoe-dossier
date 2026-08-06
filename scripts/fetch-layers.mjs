@@ -25,6 +25,72 @@ function endpoints(lat, lon) {
   };
 }
 
+/**
+ * Transform the new /api/layer/vigil response into the dossier's internal
+ * vigil contract shape that the renderer consumes.
+ *
+ * The standing-stones endpoint returns items shaped
+ *   { id, name, location, alignment, register, when:{tense,label} }
+ * with NO `what` object. The Glencoe renderer (src/routes/+page.svelte) builds
+ * sections from item.what.type and renders item.what.headline/status + a
+ * countdown when.kind — so the raw response must be mapped here, at the fetch
+ * layer, rather than passed through. Doing it here (not in the renderer) keeps
+ * the renderer unchanged and keeps the adaptation at the data boundary.
+ */
+function transformVigil(data) {
+  const now = new Date();
+  const mapped = {
+    contract: '0.1',
+    layer: 'vigil_alignments',
+    face: 'culture',
+    source: 'standing-stones-canon',
+    cadence_hours: 24,
+    updated_at: now.toISOString(),
+    disclaimer: 'Alignment data based on published archaeoastronomy research. Dates are astronomical, not meteorological.',
+    items: (data.items || []).map(it => {
+      const slug = (it.id || '').replace(/^vigil:/, '');
+      const typeLabel = (it.alignment?.type || '').replace(/_/g, ' ');
+      const start = it.alignment?.next_date ? `${it.alignment.next_date}T12:00:00Z` : now.toISOString();
+      const end = new Date(new Date(start).getTime() + 24 * 60 * 60 * 1000).toISOString();
+      return {
+        id: it.id,
+        where: {
+          atom: slug,
+          lat: it.location?.lat,
+          lon: it.location?.lon,
+          region: (it.location?.region || '').toLowerCase().replace(/\s+/g, '-'),
+          precision: 'exact'
+        },
+        when: { start, end, kind: 'countdown' },
+        what: {
+          type: 'culture/alignment',
+          status: 'upcoming',
+          headline: `${typeLabel} at ${it.name}`
+        },
+        payload: {
+          alignmentType: it.alignment?.type,
+          nextDate: it.alignment?.next_date,
+          daysUntil: it.alignment?.days_until,
+          event: it.alignment?.event,
+          windowDescription: it.alignment?.window_description,
+          register: it.register,
+          distanceKm: it.location?.distance_km
+        }
+      };
+    })
+  };
+  // Map the gap object (new shape: reason/pointer) to the renderer's shape.
+  if (data.gap) {
+    mapped.gap = {
+      reason: data.gap.reason || 'no_sites_in_radius',
+      pointer: data.gap.pointer || 'https://standing-stones-vigil.netlify.app'
+    };
+  } else {
+    mapped.gap = null;
+  }
+  return mapped;
+}
+
 /** Fetch a single endpoint and write to file */
 async function fetchLayer(key, url, filePath) {
   const response = await fetch(url, {
@@ -35,9 +101,11 @@ async function fetchLayer(key, url, filePath) {
     throw new Error(`${key} returned ${response.status}: ${response.statusText}`);
   }
   const data = await response.json();
-  writeFileSync(filePath, JSON.stringify(data, null, 2));
-  const itemCount = data.items?.length || 0;
-  const hasGap = data.gap ? ` gap:${data.gap.nearest_name || data.gap.nearest_atom}` : '';
+  // Vigil endpoint returns the new layer shape; map to the dossier contract.
+  const out = key === 'vigil' ? transformVigil(data) : data;
+  writeFileSync(filePath, JSON.stringify(out, null, 2));
+  const itemCount = out.items?.length || 0;
+  const hasGap = out.gap ? ` gap:${out.gap.reason || out.gap.nearest_name || out.gap.nearest_atom}` : '';
   console.log(`  ✓ ${key}: ${itemCount} items${hasGap}`);
 }
 

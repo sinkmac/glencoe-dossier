@@ -4,7 +4,8 @@
   "face": "culture",
   "source": "standing-stones-canon",
   "cadence_hours": 24,
-  "updated_at": "2026-07-22T01:30:52.373Z",
+  "updated_at": "2026-08-06T12:34:59.328Z",
   "disclaimer": "Alignment data based on published archaeoastronomy research. Dates are astronomical, not meteorological.",
-  "items": []
+  "items": [],
+  "gap": null
 }
