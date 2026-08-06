@@ -1,7 +1,7 @@
 <script>
   let { data } = $props();
 
-  const { slug, atom, layers } = data;
+  const { slug, atom, layers, wikidata } = data;
 
   // ── Layer separation ──────────────────────────────────────────────
   const heritageLayer = layers.find((l) => l.family === 'heritage');
@@ -9,6 +9,19 @@
 
   const conditionLayers = layers.filter((l) => l.family === 'condition');
   const cultureLayers = layers.filter((l) => l.family === 'culture');
+
+  // ── Wikidata enrichment (join layer) ──────────────────────────────
+  // Additive only: an item with no P718 match has no entry, so it renders
+  // exactly as it does today. wikidata.items is keyed by CANMOREID; the
+  // heritage item id is "heritage:<atom>:<canmoreid>".
+  const wdMap = wikidata?.items ?? {};
+  const people = wikidata?.people ?? [];
+  const hasWdAttribution = !!(wikidata && wikidata.attribution);
+
+  function wdMatch(item) {
+    const cid = item.id.split(':').pop();
+    return wdMap[cid] || null;
+  }
 
   // ── Heritage: group by broadclass, cap per group, confidence count ─
   // Items carry (id, name, broadclass[], sitetype[], confidence, lat, lon,
@@ -94,6 +107,7 @@
         <div class="heritage-group">
           <h3 class="group-title">{group.name} <span class="group-count">{group.count}</span></h3>
           {#each visibleItems(group) as item (item.id)}
+            {@const wd = wdMatch(item)}
             <div class="card herit-card">
               <div class="card-header">
                 <span class="conf-badge {confClass[item.confidence] || 'conf-low'}">{item.confidence}</span>
@@ -101,6 +115,19 @@
               </div>
               {#if item.sitetype && item.sitetype.length}
                 <p class="sitetype">{item.sitetype.join(' · ')}</p>
+              {/if}
+              {#if wd}
+                <div class="herit-enrich">
+                  {#if wd.image}
+                    <img class="herit-thumb" src="{wd.image}" alt="" loading="lazy" />
+                  {/if}
+                  <div class="herit-enrich-links">
+                    {#if wd.article}
+                      <a href="{wd.article}" rel="noopener" class="enrich-link">Wikipedia →</a>
+                    {/if}
+                    <a href="https://www.wikidata.org/wiki/{wd.qid}" rel="noopener" class="enrich-link">Wikidata →</a>
+                  </div>
+                </div>
               {/if}
             </div>
           {/each}
@@ -111,6 +138,34 @@
           {/if}
         </div>
       {/each}
+    </section>
+  {/if}
+
+  <!-- Notable people (Wikidata, additive — empty for places without records) -->
+  {#if people.length > 0}
+    <section class="section">
+      <h2>Notable People <span class="count-badge">{people.length}</span></h2>
+      <p class="section-note">People recorded as born here, via Wikidata.</p>
+      {#each people as p}
+        <div class="card">
+          <div class="card-header">
+            {#if p.article}
+              <a class="headline herit-name" href="{p.article}" rel="noopener">{p.name}</a>
+            {:else}
+              <span class="headline">{p.name}</span>
+            {/if}
+            {#if p.dob}
+              <span class="person-dob">b. {p.dob.slice(0, 4)}</span>
+            {/if}
+          </div>
+          {#if p.occupations && p.occupations.length}
+            <p class="sitetype">{p.occupations.join(' · ')}</p>
+          {/if}
+        </div>
+      {/each}
+      {#if hasWdAttribution}
+        <p class="attribution">{wikidata.attribution}</p>
+      {/if}
     </section>
   {/if}
 
@@ -185,6 +240,12 @@
   .herit-name { color: #1a1a1a; text-decoration: none; }
   .herit-name:hover { text-decoration: underline; }
   .sitetype { font-size: 0.75rem; color: #888; margin-top: 0.25rem; }
+  .herit-enrich { display: flex; align-items: center; gap: 0.75rem; margin-top: 0.5rem; }
+  .herit-thumb { width: 4.5rem; height: 3.4rem; object-fit: cover; border-radius: 4px; border: 1px solid #e5e3df; flex-shrink: 0; background: #f4f2ef; }
+  .herit-enrich-links { display: flex; flex-direction: column; gap: 0.1rem; }
+  .enrich-link { font-size: 0.78rem; color: #2a5070; text-decoration: none; }
+  .enrich-link:hover { text-decoration: underline; }
+  .person-dob { font-size: 0.78rem; color: #999; margin-left: auto; white-space: nowrap; }
   .conf-badge { display: inline-block; font-size: 0.65rem; font-weight: 700; padding: 0.08rem 0.4rem; border-radius: 3px; white-space: nowrap; flex-shrink: 0; }
   .conf-high { background: #e2f0e0; color: #2a6b2a; }
   .conf-moderate { background: #f0edc0; color: #7a6a20; }

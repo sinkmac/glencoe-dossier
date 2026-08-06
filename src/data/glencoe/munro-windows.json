@@ -4,7 +4,7 @@
   "face": "conditions",
   "source": "open-meteo",
   "cadence_hours": 12,
-  "updated_at": "2026-08-06T01:05:18Z",
+  "updated_at": "2026-08-06T01:13:55Z",
   "disclaimer": "Forecast guidance only. Not a substitute for MWIS, SAIS, or your own judgement.",
   "items": [
     {

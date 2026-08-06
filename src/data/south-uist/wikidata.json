@@ -2,7 +2,7 @@
   "layer": "wikidata",
   "atom": "south-uist",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:07:54Z",
+  "fetched_at": "2026-08-06T01:16:34Z",
   "status": "ok",
   "items": {
     "9825": {
@@ -344,6 +344,20 @@
       "name": "South Uist, Lochboisdale, Parish Church",
       "coord": "Point(-7.3095416 57.152955)"
     },
+    "172006": {
+      "qid": "Q2426324",
+      "name": "St Michael's Church",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%27s%20Church%2C%20Eriskay%2020090608.jpg",
+      "coord": "Point(-7.3067476 57.086886)",
+      "article": "https://en.wikipedia.org/wiki/St_Michael%27s_Church,_Eriskay"
+    },
+    "172200": {
+      "qid": "Q16902419",
+      "name": "Ushenish Lighthouse",
+      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uisinis%20Lighthouse%2C%20South%20Uist%20-%20geograph.org.uk%20-%20203316.jpg",
+      "coord": "Point(-7.193 57.2982)",
+      "article": "https://en.wikipedia.org/wiki/Ushenish_Lighthouse"
+    },
     "172178": {
       "qid": "Q17575075",
       "name": "Seann Taigh, 472a South Lochboisdale, Isle of South Uist",
@@ -454,20 +468,6 @@
       "qid": "Q77776532",
       "name": "Iochdar Church, South Uist",
       "coord": "Point(-7.3495758 57.392473)"
-    },
-    "172006": {
-      "qid": "Q2426324",
-      "name": "St Michael's Church",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/St%20Michael%27s%20Church%2C%20Eriskay%2020090608.jpg",
-      "coord": "Point(-7.3067476 57.086886)",
-      "article": "https://en.wikipedia.org/wiki/St_Michael%27s_Church,_Eriskay"
-    },
-    "172200": {
-      "qid": "Q16902419",
-      "name": "Ushenish Lighthouse",
-      "image": "http://commons.wikimedia.org/wiki/Special:FilePath/Uisinis%20Lighthouse%2C%20South%20Uist%20-%20geograph.org.uk%20-%20203316.jpg",
-      "coord": "Point(-7.193 57.2982)",
-      "article": "https://en.wikipedia.org/wiki/Ushenish_Lighthouse"
     },
     "249715": {
       "qid": "Q1345398",

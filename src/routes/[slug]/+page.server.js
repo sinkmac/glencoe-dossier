@@ -32,6 +32,7 @@ export async function load({ params }) {
   const atoms = JSON.parse(readFileSync(join(DATA_DIR, 'atoms.json'), 'utf-8'));
 
   const layers = [];
+  let wikidata = null;
   if (existsSync(dir)) {
     for (const file of readdirSync(dir)) {
       const family = LAYER_FILES[file];
@@ -40,7 +41,12 @@ export async function load({ params }) {
       const data = JSON.parse(raw);
       layers.push({ family, file, data });
     }
+    // Wikidata join map — separate from the family layers (enrichment layer).
+    const wdPath = join(dir, 'wikidata.json');
+    if (existsSync(wdPath)) {
+      wikidata = JSON.parse(readFileSync(wdPath, 'utf-8'));
+    }
   }
 
-  return { slug, atom: atoms[slug] ?? null, layers };
+  return { slug, atom: atoms[slug] ?? null, layers, wikidata };
 }
