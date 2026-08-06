@@ -1,0 +1,74 @@
+{
+  "layer": "nature",
+  "atom": "tiree",
+  "fetched_at": "2026-08-06T14:01:46.692824+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "id": "nature:tiree:4408498:2025-06-21",
+      "name": "Corn Crake",
+      "scientific_name": "Crex crex",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2025-06-21",
+      "occurrence_count": 5126,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:tiree:2433753:2022-09-30",
+      "name": "Otter",
+      "scientific_name": "Lutra lutra",
+      "taxon_class": "Mammalia",
+      "conservation_status": "NT",
+      "last_recorded": "2022-09-30",
+      "occurrence_count": 38,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:tiree:2480449:2024-10-02",
+      "name": "White-tailed Eagle",
+      "scientific_name": "Haliaeetus albicilla",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2024-10-02",
+      "occurrence_count": 4,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:tiree:2481353:2024-06-12",
+      "name": "Atlantic Puffin",
+      "scientific_name": "Fratercula arctica",
+      "taxon_class": "Aves",
+      "conservation_status": "VU",
+      "last_recorded": "2024-06-12",
+      "occurrence_count": 12,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    }
+  ],
+  "attribution": "Occurrence data from GBIF (gbif.org), licensed CC BY 4.0. Individual dataset licences apply \u2014 see GBIF dataset pages for details.",
+  "gap": null
+}

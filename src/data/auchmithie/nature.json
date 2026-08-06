@@ -1,0 +1,90 @@
+{
+  "layer": "nature",
+  "atom": "auchmithie",
+  "fetched_at": "2026-08-06T14:01:53.476778+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "id": "nature:auchmithie:5229168:2025-06-07",
+      "name": "Red Kite",
+      "scientific_name": "Milvus milvus",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2025-06-07",
+      "occurrence_count": 2,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:auchmithie:2433753:2025-06-07",
+      "name": "Otter",
+      "scientific_name": "Lutra lutra",
+      "taxon_class": "Mammalia",
+      "conservation_status": "NT",
+      "last_recorded": "2025-06-07",
+      "occurrence_count": 4,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:auchmithie:8211070:2026-01-10",
+      "name": "Red Squirrel",
+      "scientific_name": "Sciurus vulgaris",
+      "taxon_class": "Mammalia",
+      "conservation_status": "LC",
+      "last_recorded": "2026-01-10",
+      "occurrence_count": 286,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:auchmithie:2481353:2025-06-10",
+      "name": "Atlantic Puffin",
+      "scientific_name": "Fratercula arctica",
+      "taxon_class": "Aves",
+      "conservation_status": "VU",
+      "last_recorded": "2025-06-10",
+      "occurrence_count": 21,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:auchmithie:2497921:2024-09-23",
+      "name": "Western Barn Owl",
+      "scientific_name": "Tyto alba",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2024-09-23",
+      "occurrence_count": 2,
+      "notable": true,
+      "dark_sky_proxy": true,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    }
+  ],
+  "attribution": "Occurrence data from GBIF (gbif.org), licensed CC BY 4.0. Individual dataset licences apply \u2014 see GBIF dataset pages for details.",
+  "gap": null
+}

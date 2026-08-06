@@ -1,0 +1,86 @@
+{
+  "corncrake": {
+    "scientific_name": "Crex crex",
+    "taxonKey": 4408498,
+    "occurrence_count": 259892,
+    "resolved_at": "2026-08-06T13:39:18.382826+00:00",
+    "status": "ok"
+  },
+  "red_kite": {
+    "scientific_name": "Milvus milvus",
+    "taxonKey": 5229168,
+    "occurrence_count": 2011681,
+    "resolved_at": "2026-08-06T13:39:19.433136+00:00",
+    "status": "ok"
+  },
+  "otter": {
+    "scientific_name": "Lutra lutra",
+    "taxonKey": 2433753,
+    "occurrence_count": 299730,
+    "resolved_at": "2026-08-06T13:39:20.229833+00:00",
+    "status": "ok"
+  },
+  "red_squirrel": {
+    "scientific_name": "Sciurus vulgaris",
+    "taxonKey": 8211070,
+    "occurrence_count": 995535,
+    "resolved_at": "2026-08-06T13:39:20.723032+00:00",
+    "status": "ok"
+  },
+  "capercaillie": {
+    "scientific_name": "Tetrao urogallus",
+    "taxonKey": 2473577,
+    "occurrence_count": 228925,
+    "resolved_at": "2026-08-06T13:39:21.189886+00:00",
+    "status": "ok"
+  },
+  "golden_eagle": {
+    "scientific_name": "Aquila chrysaetos",
+    "taxonKey": 2480506,
+    "occurrence_count": 820084,
+    "resolved_at": "2026-08-06T13:39:22.107108+00:00",
+    "status": "ok"
+  },
+  "white_tailed_eagle": {
+    "scientific_name": "Haliaeetus albicilla",
+    "taxonKey": 2480449,
+    "occurrence_count": 2052868,
+    "resolved_at": "2026-08-06T13:39:22.888730+00:00",
+    "status": "ok"
+  },
+  "puffin": {
+    "scientific_name": "Fratercula arctica",
+    "taxonKey": 2481353,
+    "occurrence_count": 301157,
+    "resolved_at": "2026-08-06T13:39:23.340802+00:00",
+    "status": "ok"
+  },
+  "chough": {
+    "scientific_name": "Pyrrhocorax pyrrhocorax",
+    "taxonKey": 2482552,
+    "occurrence_count": 271096,
+    "resolved_at": "2026-08-06T13:39:24.059059+00:00",
+    "status": "ok"
+  },
+  "red_necked_phalarope": {
+    "scientific_name": "Phalaropus lobatus",
+    "taxonKey": 5739290,
+    "occurrence_count": 599314,
+    "resolved_at": "2026-08-06T13:39:24.987496+00:00",
+    "status": "ok"
+  },
+  "barn_owl": {
+    "scientific_name": "Tyto alba",
+    "taxonKey": 2497921,
+    "occurrence_count": 434658,
+    "resolved_at": "2026-08-06T13:39:25.534982+00:00",
+    "status": "ok"
+  },
+  "pipistrelle_bat": {
+    "scientific_name": "Pipistrellus pipistrellus",
+    "taxonKey": 5218465,
+    "occurrence_count": 3226988,
+    "resolved_at": "2026-08-06T13:39:26.301283+00:00",
+    "status": "ok"
+  }
+}

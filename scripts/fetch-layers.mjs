@@ -189,6 +189,25 @@ function runWikidata() {
   }
 }
 
+/**
+ * Run the GBIF Nature adapter (live public GBIF occurrence endpoint).
+ * Reads the COMMITTED taxon-keys.json cache (resolved on demand by
+ * resolve_taxon_keys.py) — it never re-resolves taxonKeys at build. Writes
+ * src/data/<atom>/nature.json. Same model as runWikidata: live endpoint, no
+ * local prereqs, unconditional.
+ */
+function runNature() {
+  const scriptPath = resolve(__dirname, 'fetch_nature.py');
+  try {
+    const output = execSync(`python3 "${scriptPath}"`, { timeout: 180000, encoding: 'utf-8' });
+    console.log(output.trim().split('\n').map(l => `  ${l}`).join('\n'));
+    return 0;
+  } catch (e) {
+    console.error(`  ✗ nature adapter failed: ${e.message}`);
+    return 1;
+  }
+}
+
 /** Fetch all layers for a single location */
 async function fetchLocation(slug, { lat, lon, label }) {
   console.log(`\n--- ${label} ---`);
@@ -245,6 +264,10 @@ async function main() {
     console.log('\n--- Wikidata join ---');
     totalFailures += runWikidata();
   }
+
+  // GBIF Nature layer (live public endpoint, committed taxon-keys cache) — independent
+  console.log('\n--- Nature (GBIF notable species) ---');
+  totalFailures += runNature();
 
   if (totalFailures > 0) {
     console.error(`\n${totalFailures} layer(s) failed. Build will use stale data if it exists.`);

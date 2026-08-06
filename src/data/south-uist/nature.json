@@ -1,0 +1,122 @@
+{
+  "layer": "nature",
+  "atom": "south-uist",
+  "fetched_at": "2026-08-06T14:01:50.065052+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "id": "nature:south-uist:4408498:2025-05-30",
+      "name": "Corncrake",
+      "scientific_name": "Crex crex",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2025-05-30",
+      "occurrence_count": 1325,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:2433753:2025-01-07",
+      "name": "Otter",
+      "scientific_name": "Lutra lutra",
+      "taxon_class": "Mammalia",
+      "conservation_status": "NT",
+      "last_recorded": "2025-01-07",
+      "occurrence_count": 69,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:2480506:2023-09-28",
+      "name": "Aquila chrysaetos",
+      "scientific_name": "Aquila chrysaetos",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2023-09-28",
+      "occurrence_count": 2,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:2480449:2026-07-14",
+      "name": "Haliaeetus albicilla",
+      "scientific_name": "Haliaeetus albicilla",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2026-07-14",
+      "occurrence_count": 97,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:2481353:2026-07-18",
+      "name": "Atlantic Puffin",
+      "scientific_name": "Fratercula arctica",
+      "taxon_class": "Aves",
+      "conservation_status": "VU",
+      "last_recorded": "2026-07-18",
+      "occurrence_count": 14,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:5739290:2025-05-16",
+      "name": "Red-necked Phalarope",
+      "scientific_name": "Phalaropus lobatus",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2025-05-16",
+      "occurrence_count": 5,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:south-uist:5218465:2023-10-04",
+      "name": "Common Pipistrelle",
+      "scientific_name": "Pipistrellus pipistrellus",
+      "taxon_class": "Mammalia",
+      "conservation_status": "LC",
+      "last_recorded": "2023-10-04",
+      "occurrence_count": 17,
+      "notable": true,
+      "dark_sky_proxy": true,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    }
+  ],
+  "attribution": "Occurrence data from GBIF (gbif.org), licensed CC BY 4.0. Individual dataset licences apply \u2014 see GBIF dataset pages for details.",
+  "gap": null
+}

@@ -1,0 +1,106 @@
+{
+  "layer": "nature",
+  "atom": "kirriemuir",
+  "fetched_at": "2026-08-06T14:01:42.495865+00:00",
+  "status": "ok",
+  "items": [
+    {
+      "id": "nature:kirriemuir:5229168:2026-02-08",
+      "name": "Red Kite",
+      "scientific_name": "Milvus milvus",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2026-02-08",
+      "occurrence_count": 168,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:kirriemuir:2433753:2026-03-07",
+      "name": "Otter",
+      "scientific_name": "Lutra lutra",
+      "taxon_class": "Mammalia",
+      "conservation_status": "NT",
+      "last_recorded": "2026-03-07",
+      "occurrence_count": 10,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:kirriemuir:8211070:2026-01-20",
+      "name": "Red Squirrel",
+      "scientific_name": "Sciurus vulgaris",
+      "taxon_class": "Mammalia",
+      "conservation_status": "LC",
+      "last_recorded": "2026-01-20",
+      "occurrence_count": 2558,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:kirriemuir:2480449:2024-11-24",
+      "name": "White-tailed Eagle",
+      "scientific_name": "Haliaeetus albicilla",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2024-11-24",
+      "occurrence_count": 2,
+      "notable": true,
+      "dark_sky_proxy": false,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:kirriemuir:2497921:2025-07-25",
+      "name": "Western Barn Owl",
+      "scientific_name": "Tyto alba",
+      "taxon_class": "Aves",
+      "conservation_status": "LC",
+      "last_recorded": "2025-07-25",
+      "occurrence_count": 10,
+      "notable": true,
+      "dark_sky_proxy": true,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    },
+    {
+      "id": "nature:kirriemuir:5218465:2025-06-18",
+      "name": "Common Pipistrelle",
+      "scientific_name": "Pipistrellus pipistrellus",
+      "taxon_class": "Mammalia",
+      "conservation_status": "LC",
+      "last_recorded": "2025-06-18",
+      "occurrence_count": 3,
+      "notable": true,
+      "dark_sky_proxy": true,
+      "carry_cc_bync": false,
+      "when": {
+        "tense": "present",
+        "label": "Nature"
+      }
+    }
+  ],
+  "attribution": "Occurrence data from GBIF (gbif.org), licensed CC BY 4.0. Individual dataset licences apply \u2014 see GBIF dataset pages for details.",
+  "gap": null
+}
