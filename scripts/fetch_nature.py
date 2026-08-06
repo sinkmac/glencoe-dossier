@@ -73,12 +73,23 @@ def _get(url, timeout=30):
 
 
 def get_dataset_licence(dataset_key):
-    """Fetch (and cache) the licence for a GBIF dataset. Returns 'UNKNOWN' on failure."""
+    """Fetch (and cache) the licence for a GBIF dataset. Returns 'UNKNOWN' on failure.
+
+    GBIF returns the licence either as an enum code (e.g. 'CC_BY_NC_4_0') or as
+    a URL (e.g. 'http://creativecommons.org/licenses/by-nc/4.0/legalcode'). To
+    make downstream checks robust to both, normalise the URL form down to the
+    enum code here. See the carry_cc_bync verification (6 Aug 2026).
+    """
     if dataset_key in _licence_cache:
         return _licence_cache[dataset_key]
     try:
         d = _get(f"{DATASET_ENDPOINT}/{dataset_key}", timeout=15)
         lic = d.get("license", "UNKNOWN") or "UNKNOWN"
+        # 'https?://creativecommons.org/licenses/by-nc/4.0/...' -> 'CC_BY_NC_4_0'
+        import re
+        m = re.search(r"creativecommons\.org/licenses/by-nc/4\.0", lic)
+        if m:
+            lic = "CC_BY_NC_4_0"
     except Exception:
         lic = "UNKNOWN"
     _licence_cache[dataset_key] = lic
