@@ -208,6 +208,19 @@ function runNature() {
   }
 }
 
+/**
+ * OSM/Overpass layer (live public endpoint, committed cache-only at build).
+ * Reads from committed src/data/<atom>/osm.json files (refreshed on demand by
+ * fetch_osm.py / fetch_osm_all.py). Does not fetch at build time to avoid
+ * throttling against the public Overpass instance.
+ */
+function runOSM() {
+  // OSM cache is committed; no fetch at build time.
+  // To refresh: python3 scripts/fetch_osm_all.py, then commit osm.json files.
+  console.log('  (cache-only — no live fetch at build time)');
+  return 0;
+}
+
 /** Fetch all layers for a single location */
 async function fetchLocation(slug, { lat, lon, label }) {
   console.log(`\n--- ${label} ---`);
@@ -268,6 +281,10 @@ async function main() {
   // GBIF Nature layer (live public endpoint, committed taxon-keys cache) — independent
   console.log('\n--- Nature (GBIF notable species) ---');
   totalFailures += runNature();
+
+  // OSM/Overpass layer (committed cache-only, no live fetch at build)
+  console.log('\n--- OSM (OpenStreetMap amenities & Gaelic names) ---');
+  totalFailures += runOSM();
 
   if (totalFailures > 0) {
     console.error(`\n${totalFailures} layer(s) failed. Build will use stale data if it exists.`);

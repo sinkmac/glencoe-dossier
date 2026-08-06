@@ -1,0 +1,15 @@
+{
+  "layer": "osm",
+  "atom": "kirriemuir",
+  "fetched": "2026-08-06T17:51:35.387022+00:00",
+  "amenities": [],
+  "gaelic_names": [],
+  "counts": {
+    "amenity": 0,
+    "natural": 0,
+    "tourism": 0,
+    "name_gd": 0
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors, ODbL",
+  "gap": "amenity: 504 Gateway Timeout | natural: 504 Gateway Timeout | tourism: 504 Gateway Timeout | name:gd: 504 Gateway Timeout"
+}

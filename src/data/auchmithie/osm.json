@@ -1,0 +1,111 @@
+{
+  "layer": "osm",
+  "atom": "auchmithie",
+  "fetched": "2026-08-06T17:52:15.499859+00:00",
+  "amenities": [],
+  "gaelic_names": [
+    {
+      "id": "node/21511355",
+      "name": "Carnoustie",
+      "name_gd": "C\u00e0rn \u00d9staidh"
+    },
+    {
+      "id": "node/242940523",
+      "name": "Panbride",
+      "name_gd": "Pan Br\u00ecghd"
+    },
+    {
+      "id": "node/370779193",
+      "name": "Auchmithie",
+      "name_gd": "Achadh Muthaich"
+    },
+    {
+      "id": "node/540940187",
+      "name": "St Vigeans",
+      "name_gd": "Cill Fh\u00e8ichin"
+    },
+    {
+      "id": "node/726652793",
+      "name": "Arbirlot",
+      "name_gd": "Obar Eilid"
+    },
+    {
+      "id": "node/2657742513",
+      "name": "Carnoustie",
+      "name_gd": "C\u00e0rn \u00d9staidh"
+    },
+    {
+      "id": "node/3196787313",
+      "name": "Carnoustie",
+      "name_gd": "C\u00e0rn \u00d9staidh"
+    },
+    {
+      "id": "node/3910707266",
+      "name": "Redford",
+      "name_gd": "\u00c0th Ruadh"
+    },
+    {
+      "id": "node/4133659357",
+      "name": "Boysack",
+      "name_gd": "Baile Iosaig"
+    },
+    {
+      "id": "node/5305193765",
+      "name": "Arbroath",
+      "name_gd": "Obar Bhrothaig"
+    },
+    {
+      "id": "node/5314147648",
+      "name": "Inverpeffer",
+      "name_gd": "Inbhir Pheofhair"
+    },
+    {
+      "id": "node/7183114246",
+      "name": "Carnoustie",
+      "name_gd": "C\u00e0rn \u00d9staidh"
+    },
+    {
+      "id": "node/7209359518",
+      "name": "Arbroath",
+      "name_gd": "Obar Bhrothaig"
+    },
+    {
+      "id": "node/697463797",
+      "name": "Lochlands Resource Centre",
+      "name_gd": "Ionad Ghoireasan T\u00ecr nan Loch"
+    },
+    {
+      "id": "node/1921172",
+      "name": "Angus",
+      "name_gd": "Aonghas"
+    },
+    {
+      "id": "node/6038068",
+      "name": "Great Britain",
+      "name_gd": "Breatainn Mh\u00f2r"
+    },
+    {
+      "id": "node/9051063",
+      "name": "North Sea / Nordsee / Noordzee / Nords\u00f8en / Nordsj\u00f8en / Mer du Nord",
+      "name_gd": "An Cuan a Tuath"
+    },
+    {
+      "id": "node/10668800",
+      "name": "Carnoustie",
+      "name_gd": "C\u00e0rn \u00d9staidh"
+    },
+    {
+      "id": "node/11142289",
+      "name": "Arbroath",
+      "name_gd": "Obar Bhrothaig"
+    }
+  ],
+  "counts": {
+    "amenity": 0,
+    "natural": 0,
+    "tourism": 0,
+    "name_gd": 19
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors, ODbL",
+  "gap": "amenity: 504 Gateway Timeout"
+}

@@ -1,0 +1,808 @@
+{
+  "layer": "osm",
+  "atom": "tiree",
+  "fetched": "2026-08-06T17:52:38.067681+00:00",
+  "amenities": [
+    {
+      "id": "node/1741329694",
+      "name": "Millhouse Hostel",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_rental",
+      "lat": 56.5199251,
+      "lon": -6.9157296
+    },
+    {
+      "id": "node/1741329946",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4896783,
+      "lon": -6.8787715
+    },
+    {
+      "id": "node/1741329947",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4896927,
+      "lon": -6.8787249
+    },
+    {
+      "id": "node/1741329951",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4906059,
+      "lon": -6.8712964
+    },
+    {
+      "id": "node/1741329982",
+      "name": "Community Cupboard",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "social_facility",
+      "lat": 56.4999688,
+      "lon": -6.807549
+    },
+    {
+      "id": "node/1741330010",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.5153097,
+      "lon": -6.9453282
+    },
+    {
+      "id": "node/1741330014",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5164396,
+      "lon": -6.9418103
+    },
+    {
+      "id": "node/1741330020",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.51905,
+      "lon": -6.8870037
+    },
+    {
+      "id": "node/1741330022",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.5197896,
+      "lon": -6.9560798
+    },
+    {
+      "id": "node/1741330033",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.5413319,
+      "lon": -6.7449011
+    },
+    {
+      "id": "node/1798632225",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4916948,
+      "lon": -6.8348241
+    },
+    {
+      "id": "node/1798632231",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.491721,
+      "lon": -6.834919
+    },
+    {
+      "id": "node/1798662230",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5161656,
+      "lon": -6.8143104
+    },
+    {
+      "id": "node/1798667512",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5266346,
+      "lon": -6.7926126
+    },
+    {
+      "id": "node/1798672143",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5411491,
+      "lon": -6.7453954
+    },
+    {
+      "id": "node/1799244593",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4892763,
+      "lon": -6.9412591
+    },
+    {
+      "id": "node/1799247160",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4830478,
+      "lon": -6.9321936
+    },
+    {
+      "id": "node/1799268651",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4838816,
+      "lon": -6.9013421
+    },
+    {
+      "id": "node/1799275012",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4829235,
+      "lon": -6.9650277
+    },
+    {
+      "id": "node/1799275014",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4828598,
+      "lon": -6.9650939
+    },
+    {
+      "id": "node/1799288476",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4576407,
+      "lon": -6.9382417
+    },
+    {
+      "id": "node/1799288494",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4576355,
+      "lon": -6.93829
+    },
+    {
+      "id": "node/1799301592",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4679128,
+      "lon": -6.8969881
+    },
+    {
+      "id": "node/1799305828",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "telephone",
+      "lat": 56.4600782,
+      "lon": -6.8928009
+    },
+    {
+      "id": "node/1799305829",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.4600611,
+      "lon": -6.8929268
+    },
+    {
+      "id": "node/1799332458",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.448431,
+      "lon": -6.8952248
+    },
+    {
+      "id": "node/1800478461",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5211234,
+      "lon": -6.8593575
+    },
+    {
+      "id": "node/1800498386",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5315186,
+      "lon": -6.7761563
+    },
+    {
+      "id": "node/1801855282",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5231808,
+      "lon": -6.9134181
+    },
+    {
+      "id": "node/1801870294",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5136812,
+      "lon": -6.9025122
+    },
+    {
+      "id": "node/2840970470",
+      "name": "Scarinish Post Office",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_office",
+      "lat": 56.5029503,
+      "lon": -6.806742
+    },
+    {
+      "id": "node/2840970471",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_box",
+      "lat": 56.5029685,
+      "lon": -6.8067861
+    },
+    {
+      "id": "node/3350449175",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "recycling",
+      "lat": 56.5006319,
+      "lon": -6.8077294
+    },
+    {
+      "id": "node/6448512407",
+      "name": "Ceabhar",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "restaurant",
+      "lat": 56.4807999,
+      "lon": -6.9710501
+    },
+    {
+      "id": "node/6449396636",
+      "name": "Yellow Hare",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "cafe",
+      "lat": 56.5078514,
+      "lon": -6.7984505
+    },
+    {
+      "id": "node/6451621191",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "shower",
+      "lat": 56.5078543,
+      "lon": -6.7983632
+    },
+    {
+      "id": "node/6451921066",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "toilets",
+      "lat": 56.4776256,
+      "lon": -6.9218802
+    },
+    {
+      "id": "node/6451921067",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "shower",
+      "lat": 56.4776211,
+      "lon": -6.9218852
+    },
+    {
+      "id": "node/7812722060",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "ferry_terminal",
+      "lat": 56.5102895,
+      "lon": -6.798055
+    },
+    {
+      "id": "node/10012249157",
+      "name": "Farmhouse Cafe",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "cafe",
+      "lat": 56.4678041,
+      "lon": -6.8971261
+    },
+    {
+      "id": "node/10013573597",
+      "name": "Fish and Chips",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "fast_food",
+      "lat": 56.5009158,
+      "lon": -6.8075966
+    },
+    {
+      "id": "node/10013622818",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_repair_station",
+      "lat": 56.5005246,
+      "lon": -6.8072959
+    },
+    {
+      "id": "node/10054150013",
+      "name": "Crossapol Post Office",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "post_office",
+      "lat": 56.4904594,
+      "lon": -6.876447
+    },
+    {
+      "id": "node/13235025831",
+      "name": "Beach Burger",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "fast_food",
+      "lat": 56.5012286,
+      "lon": -6.8075572
+    },
+    {
+      "id": "node/13991018846",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_repair_station",
+      "lat": 56.4904546,
+      "lon": -6.8762304
+    },
+    {
+      "id": "node/13991018847",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_parking",
+      "lat": 56.5005348,
+      "lon": -6.8071048
+    },
+    {
+      "id": "node/13991018848",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_parking",
+      "lat": 56.4904535,
+      "lon": -6.8762056
+    },
+    {
+      "id": "node/13991018849",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_parking",
+      "lat": 56.4677815,
+      "lon": -6.8970584
+    },
+    {
+      "id": "node/13991018850",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_parking",
+      "lat": 56.4488963,
+      "lon": -6.8923853
+    },
+    {
+      "id": "node/13991018851",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bicycle_parking",
+      "lat": 56.4492932,
+      "lon": -6.8934897
+    },
+    {
+      "id": "node/97027445",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4983821,
+      "lon": -6.8797753
+    },
+    {
+      "id": "node/130291151",
+      "name": "Cladh Odhrain",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "grave_yard",
+      "lat": 56.5238227,
+      "lon": -6.8097422
+    },
+    {
+      "id": "node/130291152",
+      "name": "An Cladh Beag",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "grave_yard",
+      "lat": 56.5240991,
+      "lon": -6.8111781
+    },
+    {
+      "id": "node/130291156",
+      "name": "Soroby Cemetery",
+      "name_gd": "Cladh Sh\u00f2rabaidh",
+      "type": "amenity",
+      "tag": "grave_yard",
+      "lat": 56.4698886,
+      "lon": -6.8991727
+    },
+    {
+      "id": "node/145558599",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "fire_station",
+      "lat": 56.5032836,
+      "lon": -6.8070259
+    },
+    {
+      "id": "node/145558617",
+      "name": "RBS",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "bank",
+      "lat": 56.5005965,
+      "lon": -6.8071497
+    },
+    {
+      "id": "node/145562636",
+      "name": "The Island Centre",
+      "name_gd": "C\u00f9ram Thiriodh",
+      "type": "amenity",
+      "tag": "community_centre",
+      "lat": 56.4902159,
+      "lon": -6.875405
+    },
+    {
+      "id": "node/168634897",
+      "name": "Baugh Baptist Church",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "place_of_worship",
+      "lat": 56.491719,
+      "lon": -6.8361469
+    },
+    {
+      "id": "node/168700604",
+      "name": "Tiree Parish Church",
+      "name_gd": "Eaglais na M\u00f2intich",
+      "type": "amenity",
+      "tag": "place_of_worship",
+      "lat": 56.4828532,
+      "lon": -6.9315454
+    },
+    {
+      "id": "node/210868603",
+      "name": "An Talla",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "community_centre",
+      "lat": 56.4840132,
+      "lon": -6.8813811
+    },
+    {
+      "id": "node/210868649",
+      "name": "Leigheas-lann a' Bh\u00e0igh / Baugh Surgery",
+      "name_gd": "Leigheas-lann a' Bh\u00e0igh",
+      "type": "amenity",
+      "tag": "doctors",
+      "lat": 56.4938927,
+      "lon": -6.8443022
+    },
+    {
+      "id": "node/210868708",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4941201,
+      "lon": -6.844324
+    },
+    {
+      "id": "node/210875052",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.5078142,
+      "lon": -6.7989436
+    },
+    {
+      "id": "node/211023983",
+      "name": "Alan Stevenson House Restaurant",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "restaurant",
+      "lat": 56.4487147,
+      "lon": -6.8924625
+    },
+    {
+      "id": "node/279920720",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "toilets",
+      "lat": 56.4996699,
+      "lon": -6.8080713
+    },
+    {
+      "id": "node/328232669",
+      "name": "Tiree High School",
+      "name_gd": "\u00c0rd-Sgoil Thiriodh",
+      "type": "amenity",
+      "tag": "school",
+      "lat": 56.5232558,
+      "lon": -6.9173944
+    },
+    {
+      "id": "node/374466303",
+      "name": "Kirkapol Parish Church",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "place_of_worship",
+      "lat": 56.5198837,
+      "lon": -6.8132011
+    },
+    {
+      "id": "node/679822899",
+      "name": "Scarinish Ferry Terminal",
+      "name_gd": "Sgairinis",
+      "type": "amenity",
+      "tag": "ferry_terminal",
+      "lat": 56.5092962,
+      "lon": -6.7984937
+    },
+    {
+      "id": "node/689185799",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.484093,
+      "lon": -6.881711
+    },
+    {
+      "id": "node/690452779",
+      "name": "",
+      "name_gd": "Maoir-Chladaich",
+      "type": "amenity",
+      "tag": "coast_guard",
+      "lat": 56.513094,
+      "lon": -6.9491123
+    },
+    {
+      "id": "node/690697499",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.501137,
+      "lon": -6.8077917
+    },
+    {
+      "id": "node/1092977865",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4539317,
+      "lon": -6.9397458
+    },
+    {
+      "id": "node/1093242474",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4678138,
+      "lon": -6.8969457
+    },
+    {
+      "id": "node/1093329619",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4918295,
+      "lon": -6.8360938
+    },
+    {
+      "id": "node/1093395567",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "shelter",
+      "lat": 56.5005898,
+      "lon": -6.8073794
+    },
+    {
+      "id": "node/1093395568",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "shelter",
+      "lat": 56.50051,
+      "lon": -6.8071531
+    },
+    {
+      "id": "node/1095401165",
+      "name": "Gott Bay Recycling Centre",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "recycling",
+      "lat": 56.5115548,
+      "lon": -6.8291777
+    },
+    {
+      "id": "node/1098036773",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4904239,
+      "lon": -6.8751581
+    },
+    {
+      "id": "node/1098036774",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4903358,
+      "lon": -6.8765274
+    },
+    {
+      "id": "node/1098085425",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "fuel",
+      "lat": 56.4905109,
+      "lon": -6.875873
+    },
+    {
+      "id": "node/1442290041",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.5013834,
+      "lon": -6.803663
+    },
+    {
+      "id": "node/1442290052",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "police",
+      "lat": 56.5034544,
+      "lon": -6.8070725
+    },
+    {
+      "id": "node/1442577796",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.5003774,
+      "lon": -6.8075563
+    },
+    {
+      "id": "node/1442577797",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.5006379,
+      "lon": -6.8074917
+    },
+    {
+      "id": "node/1442765286",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4900128,
+      "lon": -6.8774642
+    },
+    {
+      "id": "node/1442765292",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4897474,
+      "lon": -6.8798921
+    },
+    {
+      "id": "node/1527290869",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4899959,
+      "lon": -6.876779
+    },
+    {
+      "id": "node/1535670766",
+      "name": "",
+      "name_gd": "",
+      "type": "amenity",
+      "tag": "parking",
+      "lat": 56.4602706,
+      "lon": -6.950594
+    }
+  ],
+  "gaelic_names": [],
+  "counts": {
+    "amenity": 88,
+    "natural": 0,
+    "tourism": 0,
+    "name_gd": 0
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors, ODbL",
+  "gap": "natural: 429 Too Many Requests (throttled) | tourism: 429 Too Many Requests (throttled) | name:gd: 504 Gateway Timeout"
+}
