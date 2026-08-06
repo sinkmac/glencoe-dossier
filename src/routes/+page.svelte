@@ -79,6 +79,41 @@
   const disclaimers = layers
     .filter(l => l.disclaimer && l.source)
     .map(l => ({ source: l.source, text: l.disclaimer }));
+
+  // ── Munro: best-upcoming-day headline (Problem 3) ─────────────────
+  // Deterministic from munroData only (midge unaffected).
+  // Best day = future date (strictly after today) with the highest count of
+  // GOOD-status items; ties go to the earlier date. Omitted if no future GOOD
+  // items exist — no "no good days" message, no editorial language.
+  function todayKey() {
+    const n = new Date();
+    const m = String(n.getMonth() + 1).padStart(2, '0');
+    const d = String(n.getDate()).padStart(2, '0');
+    return `${n.getFullYear()}-${m}-${d}`;
+  }
+  function bestDayHeadline() {
+    const today = todayKey();
+    const counts = {};
+    for (const it of (munroData.items || [])) {
+      if (it.what?.status !== 'good') continue;
+      const dk = (it.when?.start || '').slice(0, 10);
+      if (!dk || dk <= today) continue; // future only, strictly after today
+      counts[dk] = (counts[dk] || 0) + 1;
+    }
+    let bestKey = null;
+    let bestCount = 0;
+    for (const [dk, c] of Object.entries(counts)) {
+      if (c > bestCount || (c === bestCount && (bestKey === null || dk < bestKey))) {
+        bestKey = dk;
+        bestCount = c;
+      }
+    }
+    if (!bestKey) return null;
+    const d = new Date(bestKey + 'T00:00:00');
+    const label = d.toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'short' });
+    return { label, count: bestCount };
+  }
+  const bestDay = bestDayHeadline();
 </script>
 
 <svelte:head>
@@ -100,6 +135,9 @@
   {#if conditionItems.length > 0 || conditionGaps.length > 0}
     <section class="section">
       <h2>Conditions Now</h2>
+      {#if bestDay}
+        <p class="best-day">Best day this week: {bestDay.label} — {bestDay.count} Munros with GOOD windows</p>
+      {/if}
       {#each conditionItems as item}
         <div class="card condition-{item.what.status}">
           <div class="card-header">
@@ -205,6 +243,13 @@
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: #888;
+    margin-bottom: 0.75rem;
+  }
+
+  .best-day {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #2a6b2a;
     margin-bottom: 0.75rem;
   }
 
