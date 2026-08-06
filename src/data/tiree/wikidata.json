@@ -2,7 +2,7 @@
   "layer": "wikidata",
   "atom": "tiree",
   "source": "wikidata",
-  "fetched_at": "2026-08-06T01:28:49Z",
+  "fetched_at": "2026-08-06T01:36:53Z",
   "status": "ok",
   "items": {
     "21407": {
@@ -216,13 +216,6 @@
       "name": "Dun Beag, Dun, 220m NE of Rhum View, Vaul, Tiree",
       "coord": "Point(-6.8070584 56.542177)"
     },
-    "92820": {
-      "qid": "Q1945992",
-      "name": "Tiree Airport",
-      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loganair%20Viking%20Air%20DHC-6-400%20Twin%20Otter%20at%20Tiree%20Airport.jpg",
-      "coord": "Point(-6.88 56.5)",
-      "article": "https://en.wikipedia.org/wiki/Tiree_Airport"
-    },
     "70245": {
       "qid": "Q17776800",
       "name": "Kirkapol Parish Church",
@@ -238,6 +231,13 @@
       "qid": "Q17776991",
       "name": "4 Balevullin",
       "coord": "Point(-6.94493 56.5143)"
+    },
+    "92820": {
+      "qid": "Q1945992",
+      "name": "Tiree Airport",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Loganair%20Viking%20Air%20DHC-6-400%20Twin%20Otter%20at%20Tiree%20Airport.jpg",
+      "coord": "Point(-6.88 56.5)",
+      "article": "https://en.wikipedia.org/wiki/Tiree_Airport"
     },
     "219920": {
       "qid": "Q229609",
