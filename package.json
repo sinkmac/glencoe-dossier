@@ -6,7 +6,9 @@
 	"scripts": {
 		"dev": "vite dev",
 		"prebuild": "node scripts/fetch-layers.mjs",
+		"prebuild:fast": "node scripts/fetch-layers.mjs --skip-wikidata",
 		"build": "vite build",
+		"build:fast": "npm run prebuild:fast && vite build",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''"
 	},

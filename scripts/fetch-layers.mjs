@@ -157,6 +157,11 @@ async function main() {
   mkdirSync(DATA_DIR, { recursive: true });
   let totalFailures = 0;
 
+  // --skip-wikidata: skip the live Wikidata SPARQL refresh and use the cached
+  // wikidata.json (already committed). Speeds up local iteration — the full
+  // Wikidata pass runs ~70+ queries. Cache is the build-time contract anyway.
+  const skipWikidata = process.argv.includes('--skip-wikidata');
+
   for (const [slug, config] of Object.entries(LOCATIONS)) {
     totalFailures += await fetchLocation(slug, config);
   }
@@ -166,8 +171,12 @@ async function main() {
   totalFailures += runHeritage();
 
   // Wikidata join layer (live public SPARQL, build-time cache) — independent
-  console.log('\n--- Wikidata join ---');
-  totalFailures += runWikidata();
+  if (skipWikidata) {
+    console.log('\n--- Wikidata join (SKIPPED — using cached wikidata.json) ---');
+  } else {
+    console.log('\n--- Wikidata join ---');
+    totalFailures += runWikidata();
+  }
 
   if (totalFailures > 0) {
     console.error(`\n${totalFailures} layer(s) failed. Build will use stale data if it exists.`);
